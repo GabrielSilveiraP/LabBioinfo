@@ -75,7 +75,7 @@ for sample in samples:
     # ---------------------------------------------------------
     # STEP 3: Removedor de .sam
     # ---------------------------------------------------------
-    print(f"3. Removing intermediate SAM file...")
+    print(f"3. removendo os arqv sam ")
     subprocess.run(["rm", sam_full_path], check=True)
 
-print("\nAll processing finished.")
+print("\n Processo finalizado")
