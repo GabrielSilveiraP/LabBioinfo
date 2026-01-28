@@ -5,6 +5,7 @@ import os
 
 # 1. Definindo os diretorios
 # 'working_dir' is where your FASTQ files are and where SAM will be generated.
+#'working_dir' é onde o FASTQ e o SAM vao ser gerados, lá dentro
 working_dir = "/resultados/Analises_Gabriel/Testes1/fiocruz/Fatbody"
 bwa_exe = "/resultados/bin_software/bwa-mem2-v2.2.1/bwa-mem2"
 # genome de referencia
