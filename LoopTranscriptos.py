@@ -48,7 +48,7 @@ for sample in samples:
     subprocess.run(cmd_bwa, check=True)
 
     # ---------------------------------------------------------
-    # STEP 2: Samtools pt.1
+    # STEP 2: Samtools parte.1
     # ---------------------------------------------------------
     samtoolsSamtoBam_cmd = (
         f"docker run -i --rm "
@@ -58,7 +58,7 @@ for sample in samples:
         f"samtools view -b -@ 15 {sam_filename} -o {bam_filename} "
     )
     # ---------------------------------------------------------
-    # STEP 2: Samtools pt.2
+    # STEP 2: Samtools parte.2
     # ---------------------------------------------------------
     # "working_dir é o diretorio montado dentro do docker
 
