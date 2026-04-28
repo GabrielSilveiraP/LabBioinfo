@@ -2,10 +2,10 @@
 library(DESeq2)
 library(tidyverse)
 library(pheatmap)
-
-tabelagenes <- read.csv("C:/UFSC/LabInfo/prepDE/DadosAntigos_CerVSAdi/tabelagenes.csv", row.names = 1 )
+library(here)
+tabelagenes <- read.csv(here("prepDE", "tabelagenes.csv"), row.names = 1)
 head(tabelagenes)
-tabelatranscritos <- read.csv("C:/UFSC/LabInfo/prepDE/DadosAntigos_CerVSAdi/tabelatranscritos.csv", row.names =  1 )
+tabelatranscritos <- read.csv(here("prepDE", "tabelatranscritos.csv"), row.names =  1 )
 head(tabelatranscritos)
 #Porq os dois colnames e n sendo um row? Por causa que os sao somente colunas, vai ter diferenças nas linhas
 all(colnames(tabelagenes) %in% colnames(tabelatranscritos))
@@ -27,7 +27,7 @@ all(colnames(tabelagenes) == rownames(DadosAmostras))
 
 #Juntando os dados com o DEseq2
 dds <-DESeqDataSetFromMatrix(
-  countData = tabelatranscritos,
+  countData = tabelagenes,
   colData = DadosAmostras,
   design =  ~ tecido)
 
@@ -63,14 +63,19 @@ summary(res)
 #Fazendo com q o p value seja de 0.01 e n 0.1
 res0.01 <-  results(dds,alpha = 0.01)
 res0.05 <-  results(dds,alpha = 0.05)
-
+res_df <- as.data.frame(res) %>%
+  rownames_to_column("id_completo") %>%
+  mutate(
+    id_anotacao = sub(".*\\|", "", id_completo),      # pega depois do | pipe
+    id_stringtie = sub("\\|.*", "", id_completo),     # pega antes do |
+    external_gene_name = id_anotacao                  # o nome já É a anotação, n precisa mais escrever algo
+  )
 summary(res0.01)
 summary(res0.05)
 
 sum(res$padj < 0.1, na.rm=TRUE)
 #Plottando
 
-plotMA(res)
 plotMA(res0.01)
 plotPCA(vsd, intgroup = "tecido") + 
   geom_text(aes(label = colnames(vsd)), vjust = 2, size = 3)
@@ -82,7 +87,42 @@ pheatmap(assay(ntd)[select,],
          cluster_rows=FALSE, 
          show_rownames=FALSE,
          cluster_cols=FALSE, 
-         annotation_col=DadosAmostras)
-plotDispEsts(dds)
+         annotation_col = DadosAmostras[, "tecido", drop=FALSE])
+
+#plotDispEsts(dds) #Esse sozinho é o fitted
 
 
+select <- order(rowMeans(counts(dds,normalized=TRUE)),
+                decreasing=TRUE)[1:20]
+df <- as.data.frame(colData(dds)[, "tecido", drop=FALSE])
+nomes_linhas <- rownames(assay(ntd)[select,])
+nomes_anotados <- res_df$external_gene_name[
+  match(sub(".*\\|", "", nomes_linhas), res_df$id_anotacao)
+]
+labels <- ifelse(is.na(nomes_anotados), nomes_linhas, nomes_anotados)
+pheatmap(assay(ntd)[select,],
+         cluster_rows = FALSE,
+         show_rownames = TRUE,   # <- aqui aparece o nome do gene
+         labels_row = labels,    # <- aqui entra a anotação
+         annotation_col = df)
+
+
+# Ver quais são os 4 genes significativos
+genes_significativos <- res_df %>% #Esse %>% é o pipe do tidyverse
+  filter(padj < 0.05) %>%
+  arrange(padj) %>%
+  select(id_completo, external_gene_name, log2FoldChange, padj)
+
+head(genes_significativos)
+
+select_sig <- which(rownames(assay(ntd)) %in% genes_significativos$id_completo)
+
+# Labels com nome anotado
+labels_sig <- sub(".*\\|", "", rownames(assay(ntd)[select_sig,]))
+
+# Heatmap plottadinho
+pheatmap(assay(ntd)[select_sig,],
+         cluster_rows = FALSE, #É essa linha que altera a hierarquia, pelo menos a do lado
+         show_rownames = TRUE,
+         labels_row = labels_sig,
+         annotation_col = DadosAmostras[, "tecido", drop=FALSE])
