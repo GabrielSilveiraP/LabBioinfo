@@ -5,7 +5,7 @@ library(pheatmap)
 library(tximport)
 library(txdbmaker)
 library(GenomeInfoDbData)
-#-----1 -> Só jogando as coisas p trabaiar------------
+#-----1 -> Só jogando as coisas p trabaiar
 diretorio_base <-"/home/gabriel/Documents/CoisasdoLab"
 #Aqui já vai ser diferente porq os arquivos tao escondidos dentro de outras pastas
 arquivos_amostras <- list.files(diretorio_base, pattern = "quant.sf", recursive = TRUE, full.names = TRUE)

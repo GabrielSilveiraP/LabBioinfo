@@ -1,10 +1,11 @@
 #Primeiro script tentando buscar a expressao diferencial
 library(DESeq2)
 library(tidyverse)
+library(pheatmap)
 
-tabelagenes <- read.csv("C:/UFSC/LabInfo/prepDE/tabelagenes.csv", row.names = 1 )
+tabelagenes <- read.csv("C:/UFSC/LabInfo/prepDE/DadosAntigos_CerVSAdi/tabelagenes.csv", row.names = 1 )
 head(tabelagenes)
-tabelatranscritos <- read.csv("C:/UFSC/LabInfo/prepDE/tabelatranscritos.csv", row.names =  1 )
+tabelatranscritos <- read.csv("C:/UFSC/LabInfo/prepDE/DadosAntigos_CerVSAdi/tabelatranscritos.csv", row.names =  1 )
 head(tabelatranscritos)
 #Porq os dois colnames e n sendo um row? Por causa que os sao somente colunas, vai ter diferenças nas linhas
 all(colnames(tabelagenes) %in% colnames(tabelatranscritos))
@@ -45,10 +46,15 @@ dds$tecido <- relevel(dds$tecido, ref = "adiposo")
 
 #Rodando o deseqdds
 dds <- DESeq(dds)
+ntd <-normTransform(dds)
 
 res <- results(dds)
 
 res
+
+vsd <- vst(dds, blind = FALSE)
+#Vst(Variance stabilazing Transformation)
+#transformação considera o delineamento experimental (tecido cerebral vs adiposo)
 
 
 #ja tamos nos resultados aqui
@@ -56,11 +62,27 @@ res
 summary(res)
 #Fazendo com q o p value seja de 0.01 e n 0.1
 res0.01 <-  results(dds,alpha = 0.01)
+res0.05 <-  results(dds,alpha = 0.05)
 
 summary(res0.01)
+summary(res0.05)
 
-
+sum(res$padj < 0.1, na.rm=TRUE)
 #Plottando
 
 plotMA(res)
 plotMA(res0.01)
+plotPCA(vsd, intgroup = "tecido") + 
+  geom_text(aes(label = colnames(vsd)), vjust = 2, size = 3)
+
+select <- order(rowMeans(counts(dds,normalized=TRUE)),
+                decreasing=TRUE)[1:20]
+#DadosAmostras <- as.data.frame(colData(ntd)[,c("tecido")])
+pheatmap(assay(ntd)[select,],
+         cluster_rows=FALSE, 
+         show_rownames=FALSE,
+         cluster_cols=FALSE, 
+         annotation_col=DadosAmostras)
+plotDispEsts(dds)
+
+
