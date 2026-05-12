@@ -133,8 +133,8 @@ res_df_ProVulcanPlot <- res_df[!is.na(res_df$padj), ]
 
 #Oque ta abaixo é pra colorir os up e os down-coluna de cor
 res_df_ProVulcanPlot$ExpressaoGenica <- "Não significativo"
-res_df_ProVulcanPlot$ExpressaoGenica[res_df_ProVulcanPlot$padj < 0.05 & res_df_ProVulcanPlot$log2FoldChange > 1] <- "Up regulado (superexpresso)"
-res_df_ProVulcanPlot$ExpressaoGenica[res_df_ProVulcanPlot$padj < 0.05 & res_df_ProVulcanPlot$log2FoldChange < -1] <- "Down regulado (subexpresso)"
+res_df_ProVulcanPlot$ExpressaoGenica[res_df_ProVulcanPlot$padj < 0.05 & res_df_ProVulcanPlot$log2FoldChange > 2] <- "Up regulado (superexpresso)"
+res_df_ProVulcanPlot$ExpressaoGenica[res_df_ProVulcanPlot$padj < 0.05 & res_df_ProVulcanPlot$log2FoldChange < -2] <- "Down regulado (subexpresso)"
 
 #Fazendo label -> fazendo com que apareceça o nome dos melhores 5
 top5genes <- head(res_df_ProVulcanPlot[order(res_df_ProVulcanPlot$padj, na.last = NA),"external_gene_name"], 5)
@@ -142,7 +142,7 @@ res_df_ProVulcanPlot$nomedosTop5 <- ifelse(res_df_ProVulcanPlot$external_gene_na
 
 #Aq ta o core do volcano plot
 ggplot(data = res_df_ProVulcanPlot, aes(x = log2FoldChange, y = -log10(pvalue), color = ExpressaoGenica, label = nomedosTop5)) + 
-  geom_vline(xintercept = c(-1, 1), col = "gray", linetype = "dashed") +
+  geom_vline(xintercept = c(-2, 2), col = "gray", linetype = "dashed") +
   geom_hline(yintercept = c(-log10(0.05)), col = "gray", linetype = "dashed") +
   geom_text_repel(max.overlaps = Inf) +
   scale_color_manual(values = c("red", "grey","blue"),
