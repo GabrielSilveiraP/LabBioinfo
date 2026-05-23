@@ -7,5 +7,3 @@ Alunos colaboradores:
 1. [Beatriz](https://github.com/beatriz-figueredo)
 1. Gabriel
 
-- [ ] Testar novamente o código
-- [ ] Arrumar os dashboards provenientes da geração desses dados
