@@ -1,12 +1,18 @@
 # %%
 import pandas as pd
+import pysus 
 from pysus import sih
 #Importando oque  precisa
 
 # %%
-df_SP = sih(state="SP", year=2018, month=list(range(1,6)))
 
+df_Teste = sih(state="SP", year=2024, month=[1, 2, 3])
+#df_SP = pd.concat(df, ignore_index=True)
 df_SC = sih(state="SC", year=2018, month=list(range(1,7)))
+#Botar pra baixar
+# %%
+df_SP = pd.concat([pd.read_parquet(f) for f in df_Teste], ignore_index=True)
+#%%
 df_Concatenado = pd.concat([df_SP,df_SC])
 #Baixando dados
 
@@ -70,7 +76,7 @@ df_Metricas["UTI_INT_TO"] = df_Metricas["UTI_INT_TO"].fillna(0)
 df_Metricas.loc[:, ["DIAS_PERM", "UTI_MES_TO", "UTI_INT_TO", "QT_DIARIAS"]] = (df_Metricas[["DIAS_PERM", "UTI_MES_TO", "UTI_INT_TO", "QT_DIARIAS"]].replace({None:0}).astype(int))
 #Transformei esses em int, apra que eu consiga fazer contas. Nota: podia ter feito dessa maneira concatenada pra ali p cima.
 #%%
-df_Metricas["DIAS_PERM"].apply(type).value_counts()
+df_Metricas["DIAS_PERM"].apply(type).value_counts(ply(type).value_counts()
 #Retorna qual tipo, se ta com coisa misturada e value.count é pra contar essa qtd de vezes
 #%%
 for col in ["UTI_MES_TO", "UTI_INT_TO", "QT_DIARIAS"]:
