@@ -73,11 +73,9 @@ tabelona["Atualização Evolução"].value_counts().sort_index()
 #tabelona.loc[tabelona["Atualização Evolução"] == "Setor de internação"]
 #Nao ta aqui porq botei o replace ali em cima
 #%%
-dummy_vars = [
-    "Se paciente internado, qual setor de internação?",
-    " Evolução do paciente:",
-    "Atualização Evolução"
-]
+    #dummy_vars = [
+    # "Se paciente internado, qual setor de internação?",
+    # " Evolução do paciente:","Atualização Evolução"]
 
 #%%
-df["tabelona"] = (df["Evolução do paciente:.óbito">0).astype(int)
+#df["tabelona"] = (df["Evolução do paciente:.óbito">0).astype(int)
