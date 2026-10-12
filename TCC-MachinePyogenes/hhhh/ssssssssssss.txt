@@ -1,0 +1,8 @@
+Lista de arquivos modificados 
+
+git add . ========> adicionar na lista de commit (stage)
+
+
+git status =====>> a lista de arquivos adicionados
+git commit -m "mensagem"
+git push =========> envio
