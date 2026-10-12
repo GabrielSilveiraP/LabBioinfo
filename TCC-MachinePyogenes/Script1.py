@@ -79,8 +79,12 @@ for col in ["UTI_MES_TO", "UTI_INT_TO", "QT_DIARIAS"]:
 #%%
 for col in ["DIAS_PERM", "UTI_MES_TO", "UTI_INT_TO", "QT_DIARIAS"]:
     df_Metricas[col] = df_Metricas[col].astype(int)
+    #%%
+    (df_Metricas["DIAS_PERM"] == df_Metricas["QT_DIARIAS"]).mean()
 #%%
 df_Metricas
+#%%
+(df_Metricas["DIAS_PERM"] == df_Metricas["QT_DIARIAS"]).mean()
 #%%
 #A primeira vez que fiz faltou colocar o & entre os filtros, lembrar de colocar ele ou | 
 cids = ["J02.0", "J03.0", "A40.0", "B95.0"]

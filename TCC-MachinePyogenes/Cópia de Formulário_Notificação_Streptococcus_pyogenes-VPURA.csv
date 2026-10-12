@@ -1,0 +1,1191 @@
+﻿LACEN;LACEN;CIEVS;LACEN;LACEN;LACEN;LACEN;LACEN;LACEN;LACEN;CIEVS;Dados do notificador;;;;;;;Definição de caso;;;;;;;;;;;;;;;;Dados da amostra;;;;Dados do paciente;;;;;;;;;;;;Dados da notificação;;;
+Confirmação de Streptococcus pyogenes pelo Lacen:;Resultado Lacen/SC;Amostras a serem enviadas para sequenciamento;Número interno;Número da amostra;Amostra Viável;Amostras enviadas ao Laboratório de pesquisa;Data envio Laboratório Externo;Resultado Laboratório Externo;Data resultado Laboratório Externo;Contabilizado na análise?;Carimbo de data/hora;Endereço de e-mail;Nome completo do responsável pela notificação:;Nome da Instituição:;Se outro, informe nome e CNES da unidade:;E-mail (institucional):;Telefone para contato:;"I - Casos com isolamento da bactéria em material geralmente estéril OU de amostras obtidas de aspirados de locais corporais profundos ou amostras intraoperatórias, cuja clínica do paciente seja compatível com o sítio de isolamento do agente infeccioso;
+
+Material estéril: sangue, líquido cefalorraquidiano, líquido pleural, líquido pericárdico ou líquido sinovial;
+
+Aspirados profundos ou intraoperatórias: fragmento ósseo ou de tecido profundo.";II - Casos com isolamento da bactéria em material de local não estéril associado a uma das seguintes condições clínicas: fasciíte necrosante, pneumonia clinicamente determinada, endometrite ou salpingite.;"I - Diagnóstico histopatológico: necrose da fáscia superficial E infiltrado polimorfonuclear E edema da derme reticular, gordura subcutânea e/ou fáscia superficial (deve ser diferenciado da necrose que ocorre dentro de um abscesso);";II - Diagnóstico clínico: edema grosseiro de fáscia E necrose encontrados em procedimento cirúrgico OU necrose franca no exame físico.;Nenhuma das opções anteriores:;III - Síndrome do choque tóxico não atribuível a qualquer outra causa, definida como Síndrome do Choque Tóxico Estreptocócico (STSS).;"A. De sítio normalmente estéril (por exemplo, sangue, líquor, líquido peritoneal, tecido de biópsia);";B. Em sítio não estéril (por exemplo, amigdala, escarro, secreção vaginal, cicatriz cirúrgica aberta, lesão superficial de pele).;"A. Hipotensão: pressão sistólica ≤ 90 mmHg em adultos ou <100mmHg em gestantes ou inferior ao quinto percentil para a idade em crianças < 16 anos;";"B. Dois ou mais dos seguintes sinais:
+a. Insuficiência renal: concentração de creatinina ≥ 2mg/dL para adultos ou pelo menos 2 vezes o limite superior do intervalo de referência para a idade;";"B. Dois ou mais dos seguintes sinais:
+b. Coagulopatia: contagem de plaquetas ≤ 100.000 mm3 e/ou coagulação intravascular disseminada;";"B. Dois ou mais dos seguintes sinais:
+c. Envolvimento hepático: alanina transaminase (ALT) elevada, aspartato transaminase (AST) ou bilirrubina total ≥ 2 vezes o limite superior do valor de referência para a idade;";"B. Dois ou mais dos seguintes sinais:
+d. Síndrome do desconforto respiratório do adulto;";"B. Dois ou mais dos seguintes sinais:
+e. Rash eritemato-macular generalizado que pode descamar;";"B. Dois ou mais dos seguintes sinais:
+f. Necrose de tecidos moles, incluindo fasciíte necrosante ou miosite ou gangrena.";Indivíduo que tenha evoluído para choque e falência múltipla de órgãos?;Código da requisição cadastrada no GAL e encaminhada ao LACEN:;Número da amostra cadastrada no GAL;O microrganismo foi isolado de qual tipo de amostra biológica?;Data da coleta da amostra referida acima:;Nome completo do paciente:;Data de nascimento:;Idade (em anos):;Sexo biológico:;Município de residência:;Se outro município de residência, descreva:;Regional;Suspeita diagnóstica:;Se paciente internado, qual setor de internação?;Evolução do paciente:;Atualização Evolução;Breve descrição do caso (data de início dos sintomas, sinais e sintomas): ;O evento trata-se de:;Leia as informações na descrição da seção acima:;Número da notificação SINAN:;Pontuação
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;04/06/2024;Tipo M: emm1.0 (emm-cluster A-C3);22/08/2024;Sim;5/24/2024 16:10:20;richelleparodi@gmail.com;RICHELLE CAROLINE DOS SANTOS PARODI;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Sangue;19/05/2024;;;11;Masculino;421000 Luiz Alves;;Itajaí;Meningite;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Meningite;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;27/05/2024;Tipo M: emm1.0 (emm-cluster A-C3);02/08/2024;Sim;5/29/2024 11:01:09;nuhvehsi@redesc.org.br;Laura da Silva Lima;2558246 Hospital Santa Isabel;;;;Sim;;;;;;;;;;;;;;;;;;Líquor;09/05/2024;;;48;Feminino;421320 Pomerode;Pomerode/SC;Blumenau;Meningite;Setor de internação;Mantém internação;Óbito em 15/11;Meningite;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;04/06/2024;Tipo M: emm112.0 (emm-cluster E-4 / ST194);29/11/2024;Sim;5/31/2024 19:44:36;epidemio.hgcr@gmail.com;Ingrid Laura Cavalcanti Schaefer Bittencourt;2691841 Hospital Governador Celso Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/05/2024;;;21;Feminino;420540 Florianopolis;;Florianópolis;Sepse de foco abdominal, endometrite;Urgência e Emergência;Mantém internação;Alta hospitalar;"Paciente encaminhada da maternidade Carmela Dutra, após avaliação da obstetrícia e
+descartadas causas obstétricas. Puerpera (PN ha 3 dias). HD: Provável sepse de foco abdominal; Endometrite como diagnóstico diferencial";Caso isolado;;;
+Não;Streptococcus dysgalactiae;Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;6/6/2024 11:46:30;epidemiologia.marieta@hospitalmarieta.org.br;Mariana Pereira Rebelo;2522691 Hospital Marieta Konder Bornhausen;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;01/06/2024;;;94;Masculino;421250 Penha;;Itajaí;;Setor de internação;Óbito;Não se aplica;;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;04/06/2024;Tipo M: emm1.0 (emm-cluster A-C3);05/08/2024;Sim;6/6/2024 14:51:22;epidemiologiahu@unimedlitoral.coop.br;Franco Delcort;Outra:;5504775 Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;24/05/2024;;;1;Masculino;420820 Itajai;;Itajaí;;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;01/07/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;6/8/2024 9:23:51;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;07/06/2024;;;7;Feminino;421250 Penha;;Itajaí;Sepse com choque tóxico;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Início dos sintomas: 04/06. Paciente apresenta dor abdominal difusa, febre, vômitos e dificuldade para deambular. Encaminhada para UTI devido desconforto respiratório importante e taquidispneia.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;01/07/2024;;;Sim;6/14/2024 8:09:14;sciras@hjaf.org.br;Camila Macedo Mathias;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Secreção orofaringea;03/06/2024;;;8;Masculino;420910 Joinville;;Joinville;Angina de Ludwig e Choque séptico refratário à volume com Dengue;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"Paciente proveniente da Enfermaria da Pediatria Geral (setor G) por quadro de Celulite cervical.
+Solicitada vaga devido edema importante submandibular e cervical por quadro de celulite e linfonodomegalia importante. História de abscesso dentário percebido há 3 dias. Internado por quadro de dengue há 24h. Mas com rápida evolução do quadro de celulite.";Caso isolado;;;
+Sim;Streptococcus pyogenes (beta hemolítico grupo A);Sim;;;;;01/07/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;6/14/2024 8:19:36;sciras@hjaf.org.br;Camila Macedo Mathias;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;05/06/2024;;;7;Masculino;420130 Araquari;;Joinville;Pneumonia, dengue grupo C E proteinúria não nefrótica;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Paciente admitido dia 04/06/2024 com quadro de febre diariamente há 02 semanas, associado a tosse seca, fraqueza, dispneia, dor intensa em ombro esquerdo e dificuldade na deambulação. No início do quadro apresentou cefaleia e nucalgia. Aceitando pouco dieta, tolerando líquidos regularmente. Constipado há 04 dias;Caso isolado;;;
+Não;Staphylococcus aureus;Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;6/14/2024 17:03:41;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;;;;;;;;;;;;;;;;;;;Secreção das pústulas;11/06/2024;;;10;Masculino;420820 Itajai;;Itajaí;Infecção secundária de dermatite atopica grave;Setor de internação;Mantém internação;Não se aplica;Mãe relata quadro de dermatite atopica grave e refratária a diversos tratamentos com histórico de impetiginização frequentes desde os 6 anos de idade. Relata que há 15 dias iniciou quadro de impetigo e foi avaliado pelo pediatra assistente e realizado tratamento com cefalexina por 10 dias. Apresentou melhora parcial de lesões de MMSS e manteve lesão em MMII. Relata novas lesões em MMSS e febre há 1 dia, paciente queixa dor em MMII. Pele: lesões crostrosas em região cervical / lesões hiperemiadas em face, pápulas e pústulas + poucas crostas milicéricas em antebraços e dorso das mãos e face anterior de ambas as pernas.;Caso isolado;;;
+Sim;Streptococcus pyogenes (beta hemolítico grupo A);Sim;;;;;01/07/2024;Tipo M: emm4.0 (emm-cluster E-1 / ST39);06/03/2025;Sim;6/18/2024 13:48:27;epidemiologiahu@unimedlitoal.coop.br;Mariana Elisa Martins;Outra:;5504775 Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;12/06/2024;;;56;Masculino;420820 Itajai;;Itajaí;Confirmado;Paciente não internado;Alta hospitalar;Alta hospitalar;Dor região lombar a direita após queda ha 4 dias e dor em mse apos queda ha 2 dias e necrose em 5ºpde;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;OBS: Cepa não viável;Não se aplica;Não se aplica;Sim;6/19/2024 16:15:57;nhe.hupest@ebserh.gov.br;Gilson de Bitencourt Vieira;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;16/06/2024;;;80;Masculino;420540 Florianopolis;;Florianópolis;Erisipela;Urgência e Emergência;Óbito;Óbito; Evidenciou piora das lesões de membros inferiores bilateralmente, com aumento de eritema, vesículas e edema local,.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;6/20/2024 9:43:12;mariana.elisa@unimedlitoal.coop.br;Mariana Elisa Martins;Outra:;5504775 Unimed Litoral;;;;;;;;;;;;;;;;;;;;;secreção de paroníquia;16/06/2024;;;4;Feminino;420200 Balneario Camboriu;;Itajaí;Confirmada;Paciente não internado;Alta hospitalar;Não se aplica;Trauma em III QDE há 2 dias (esmagamento), foi atendida e não apresenta fraturas, evoluiu com febre e auemnt de volume local.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;6/21/2024 8:40:19;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;;;;;;;;;;;;;;;;;;;Secreção de ouvido;19/06/2024;;;2;Masculino;420820 Itajai;;Itajaí;OMA supurativa D;Setor de internação;Mantém internação;Não se aplica;Há 4 dias iniciou quadro de febre (até 39 graus). Há 2 dias passou a queixar de otalgia e hoje houve otorreia purulenta volumosa à D.  Estava em uso de dipirona, mas vomitava as doses. Hoje mais prostrado e apresentou 2 episódios de vômitos após administração de antitérmico. Tem tosse produtiva persistente nos últimos 3 dias. Aceitando muito pouco a alimentação.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;OBS: Cepa não viável;Não se aplica;Não se aplica;Sim;6/21/2024 11:39:43;nvehmtr@gmail.com;Cristina Camargo de Araujo;2504332 Hospital Geral e Maternidade Tereza Ramos;;;;;Pneumonia clinicamente determinada;;;;;;;;;;;;;;;;;Secreção traqueal;07/06/2024;;;23;Masculino;421650 Sao Joaquim;;Lages;choque séptico pulmonar;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"06/06/24- Paciente encaminhado de São Joaquim, recebido na emergência do HMTR com ambulância branca. Relato de quadro gripal há 8 dias, com tosse seca, febre e dor no corpo. Há 1 dia, evolui com dispneia súbita, associada à dor torácica posterior em lado direito e importante esforço respiratório, com piora à movimentação, com relato de saturação a 80% AA. Feito hidrocortisona em origem. Chega taquidispneico, em MH sat 93% A 10L/min em alto fluxo. COVID + Influenza negativos (TR)Diurese preservada. Ao EF: REG Lúcido, orientado, comunicativo, sudoreico, taquipneico, anictérico. 07/06/24 foi entubado na emergência, aonde permanece aguardando leito de UTI. TC pneumonia extensa bilateral com necrosem em HTD. Transferido à UTI às 19:51h. Realizado painel viral: NÃO DETECTÁVEL.
+21/06/24- SCIH recebe laudo de aspirado traqueal com crescimento de S. pyogenes (cadastrado dia 12/06/24 e liberado dia 20/06/24). ";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;23/07/2024;;;Sim;6/24/2024 11:07:24;tefranzoi@gmail.com;MARIA TERESA FRANZOI FLORES;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;secreção de abcesso cervical;18/06/2024;;;67;Feminino;421660 Sao Jose;;Florianópolis;SEPSE POR ABCESSO CERVICAL ;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"Paciente vem por meios próprios, encaminhada pela UPA de Fourquilinhas. Iniciou há 3 dias com um quadro de tosse produtiva com expectoração de muco esverdeado,dor de garganta e febre não aferida. Há 2 dias apresentou um nódulo na região cervical anterior, doloroso à palpação e associado a disfagia e odinofagia à ingestão de sólidos/ líquidos. Sem se alimentar há 2 dias. Nega outros sintomas associados. 
+TC de Pescoço 18/06:
+Edema subcutâneo e nos tecidos adiposos profundos cervicais bilaterais. Coleção mal dellimitada adjacente à artéria carótida comum direita medindo cerca de 5,4 x 1,5 x 1,2 cm. Glândulas
+EVOLUI PARA ABORDAGEM CIRURGICA 18/06
+22/06 evolui com instabilidade hemodinamica necessitando de IOT";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;01/07/2024;;;Sim;6/24/2024 11:23:06;vigilanciaalvf@gmail.com;Eduarda Correa Klein;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;20/06/2024;;;38;Masculino;420420 Chapeco;;Chapecó;Streptococcus Pyogenes;Setor de internação;Mantém internação;Alta hospitalar;Paciente vem ao PS para realizar pulsoterapia, conforme orientação de médico assistente. Suspeita de pênfigo bolhoso ou Dermatite por IgA. Já esteve internado no HRO por 4 dias (01/06-05/06), com controle das eruṕções cutâneas. Retorno ontem do eritema bolhoso disseminado pelo corpo, com dor e edema local. Refere febre há 2 dias com Tax. máx 37,7º.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/07/2024;;;Sim;6/28/2024 14:52:59;sciras@hjaf.org.br;Camila Macedo Mathias;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;17/06/2024;;;9;Masculino;420130 Araquari;;Joinville;Choque séptico de foco pulmonar;Urgência e Emergência;Óbito;Óbito;"Paciente admitido no pronto socorro dia 17/06/2024 às 14h e 51min com queixas de Mãe relata febre e desconforto respiratório com inicio há 1 dia e piora progressiva. Iniciado protocolo de sepse e administrado amicacina e pipe-tazocin. Raio-x de tórax opacidades em LSE, condensação extensa em base direita. Ex. laboratoriais: HB 9,9  HT 31,6   leuco 12900  meta 12  bast 20  seg 61 (GRANULAÇOES TOXICAS, VACUOLO CITOPLASMATICO)  PLT 385000 / PCR 345,4  NA 126   K 3,6  / creat 2,32 LACT 3,7 /GSO 7,33/138/40/21,1/-4,5/99%. Ausculta Respiratória: murmúrio vesicular presente, simétrico e bilateral e roncos difusos. Em uso de musculatura acessória e retração subcostal.. Puncionado acesso venoso central e solicitado vaga de UTI. Evoluiu com bradicardia >48 btm/min e 2 paradas cardiorrespiratórias evoluindo com choque séptico de foco pulmonar e óbito. Estava aguardando leito de UTI e já regulado no SISREG. 
+- 18:00 o paciente evoluiu com hipotensão, cianose de extremidades, iniciado adrenalina.
+- 19:10 Apresentou mais 2 episódios de bradicardia importante, sendo necessárias as manobras de RCP. 
+- 19:48 Paciente em parada cardio respiratória. Realizado 3 ciclos de Adrenalina.
+- 20:20 Iniciado expansão de SF0,9% 600ml em 40min.
+- 20:22 Paciente em parada cardio respiratória, realizado 1 ciclo de Adrenalina.
+- 21:00 Iniciado expansão com SF 0,9% 600ml em 40min.
+- 21:09 Realizado hgt 21, administrado Glicose ( Glicose 25% 4ml + 6 ml SF 09%).
+- 21:20 Iniciado Solução de Noradrenalina 4ml/h.
+- 21:38 Realizado hgt MMS 10mg/dl, hgt MMI 17mg/dl; Administrado Glicose ( Glicose 25% 4ml+6ml SF 0,9%);
+- 22:08 Hemoglicoteste 31mg/dl.
+- 22:12 Paciente apresentou nova parada cardio respiratória sendo realizado 8 ciclos com Adrenalina.
+- 23:00 Iniciado Expansão com SF 0,9% 500ML.
+Coletado sangue para exames laboratoriais.
+- 23:33 Administrado bicarbonato.
+- 00:23 Iniciado Solução de Lactato de Milrinona.
+0:55 paciente apresentou PCR iniciado RCP.
+0:56 realizado 12 doses de adrenalina.
+01:05  DR constatou o óbito por sepse com foco pulmonar.
+Realizado acolhimento da mãe e explicado sobre os procedimentos a serem seguidos. Paciente com swab de secreção traqueal (não estéril) também positivo para Strep. pyogenes coletado no mesmo dia (17/06/2024).";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;7/2/2024 8:44:32;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção das lesões cutâneas;27/06/2024;;;11;Masculino;421130 Navegantes;;Itajaí;Impetigo bolhoso - refratário ao tratamento ambulatorial;Setor de internação;Mantém internação;Não se aplica;Avó relata que há 20 dias criança iniciou com lesões de pele difusas, inicialmente vesículas evoluindo para crostas. Procurou atendimento médico em UBS sendo prescrito amoxicilina 7 dias e após cefalexina 5 dias (última dose na semana passada - SIC). Ontem apresentou dor de forte intensidade em MIE e febre, máxima de 39,3°C. Apresentou 3 episódios de febre desde o início do quadro. Diurese e evacuação presentes e sem alterações. Reside com avó e pai em região rural de Navegantes. Tem gato, cachorro e calopsita em casa. Frequenta escola.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;23/07/2024;;;Sim;7/3/2024 10:26:35;tefranzoi@gmail.com;MARIA TERESA FRANZOI FLORES;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Fragmento de tecido profundo;30/06/2024;;;41;Masculino;421630 Sao Joao Batista;;Florianópolis;sepse cutanea por fasceite necrotizante ;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"Paciente proveniente do Hospital de Nova Trento, onde estava internado desde 27/06, por quado de TVP MID/erisipela MID. Relato de furúnculo em MSD com surgimento há cerca de 15 dias, evoluindo com lesão semelhante em terço distal de MID na última semana. Sintomas gripais concomitantes. Refere dor e edema em MID iniciados em 22/06, associada a febre e piora progressiva, culminando em dificuldade para deambular e piora do aspecto das lesões – surgimento de bolhas e pústulas em MID e algumas pelo corpo. Transferido ao HRSJ por necessidade de tratamento de maior complexidade devido a piora clínica, tendo apresentado dispneia e feito uso de Amoxicilina+Clavulanato, Rivaroxabana e Ceftriaxona. Admitido na Reanimação acordado, contactuante, hipotenso, taquicárdico, bem perfundido, com dor intensa à mobilização de MID.
+PO debridamento fasciíte necrotizante com colocação de curativo a vácuo (29/06)";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;7/3/2024 11:50:34;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferimento corto-contuso;30/06/2024;;;3;Masculino;420820 Itajai;;Itajaí;Celulite em face a direita / Infecção secundária a trauma com ferimento corto-contuso;Setor de internação;Alta hospitalar;Não se aplica;Há 2 dias caiu na escola com lesão de rosto a direita, evoluiu com edema e hiperemia, ontem iniciou com febrícula e secreção purulenta no local.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;13/08/2024;M1UK - Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;7/3/2024 13:18:05;scihhospital@cepon.org.br;Kendra Natasha Sousa Castanha dos Santos;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;30/06/2024;;;21;Masculino;420570 Garopaba; ;Florianópolis;Paciente com provável infecção de foco desconhecido, apresentando febre e hipotensão corrigida com soro.  Diagnóstico de trombocitemia essencial ;Setor de internação;Alta hospitalar;Alta hospitalar;"02/07/2024 - Paciente retorna para AIO após 24 horas com quadro de hipotensão. Aberto protocolo de sepse na chegada.
+Paciente refere que iniciou quadro há 24 horas com febre, dor abdominal alta, que piorava à movimentação e melhorava ao repouso, associado à náusea e vômitos. Nega diarreia/dispneia/sangramentos/alteração nas fezes/ disúria/polaciuria/sincope. ";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;7/5/2024 8:36:13;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;04/07/2024;;;5;Masculino;421130 Navegantes;;Itajaí;TCE com fratura de osso frontal à direita / Infecção de partes moles, sem alteração em SNC;Setor de internação;Mantém internação;Não se aplica;Paciente encaminhado por TCE após queda de quadriciclo sem capacete. Após o trauma, apresentou sangramento profuso e necessitou de sutura em FCC. Mãe nega perda de consciência, vômitos ou convulsão após. Ficou apenas pouco sonolento após trauma. No dia seguinte, retornou devido a cefaleia, sonolência e 1 episódio de vômito pela manhã. Durante internação evolui com edema peripalpebral e frontal + febre e alterações laboratoriais.;Caso isolado;;;
+Não;OBS: não havia hemocultura, foi enviado soro para pesquisa multipatógenos;Sim;;;;;28/05/2024;Não detectável (Pesquisa multipatógenos II);11/07/2024;Não;7/5/2024 17:02:15;cievssc@saude.sc.gov.br;Fabiola Bagatini Buendgens;2302500 Hospital Salvatoriano Divino Salvador;CIEVS/SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;26/04/2024;;;13;Feminino;421930 Videira;;Videira;Suspeita inicial leptospirose, não confirmada. Choque séptico. Óbito Inusitado com causa a esclarecer;Unidade de Terapia Intensiva;Óbito;Óbito;"Paciente atendida na UPA em 21/04, relatando tonturas, náuseas, inapetência, odinofagia há 1 semana. Hoje relata vômitos, desconforto abdominal, nega diarréia e febre. Está fazendo uso de nimesulida e dipirona com alívio do quadro. Nega desconforto de vias urinárias. Ao exame físico: BEG LOTE EUPNEICOA EM AA ANICTÉRICOA CORADOA HIDRATADOA AFEBRIL NEUROLOGICO: ECG 15, PIFR, SEM DNF, SEM IRRITAÇÃO MENÍNGEA, AC: BNF, 2T, RR, SS // AP: MVUD, SRA, EXTREMIDADES: QUENTES E AQUECIDAS, TEC < 3S, SEM EDEMA, SEM EMPASTAMENTO DE PANTURRILHA CD: SINTOMÁTICOS + ORIENTO SINAIS DE ALARME E RETORNO SN. Buscou atendimento novamente na UPA no dia 24/04 na UPA.
+Em 26/04 retorna ao atendimento da UPA - Paciente com 13 anos com história de dor de garganta, febre, astenia há 4 dias, em uso de nimesulida e dipirona, sem melhora das queixas, mantendo quadro de febre e astenia, náuseas e inapetência, evoluindo com dor em MMII. Orofaringe sem alterações. Encaminhada ao Hospital Divino Salvador. PANCITOPENIA, 22% BASTOES, PLQT 83.000, LEUCOCITOS 2790, TGO 95 TGP 74 CREATININA 1.1 UREIA 39,6, PCR 96. No Hospital evoluiu rapidamente, está em leito de UTI, piorando função renal. suspeita de dengue, lepto e hantavirose. O exame para dengue já está no Lacen Joaçaba, sai hoje o resultado. S) Paciente encaminhada da UPA devido a quadro de astenia, náuseas, dor em MMII e lombalgia. Realizado LABS na UPA com alterações. No momento da consulta queixa-se de lombalgia (principalmente à direita) associado a náuseas e dor em MMII. Fez uso de dipirona e nimesulida.
+#HPP: nega comorbidades; #MUC: nega; #Alergias: nega O) BEG LACOH afebril; AC: BNF 2T RR SS; AP: MVRD SRA taquipneica. Oroscopia: amigdalas grau 2, sem presença de placas ou hiperemia; Abd: plano, depressível, RHA+, sem sinais de peritonismo, Murphy e Blumberg negativo, sem dor à palpação e sem sinais de visceromegalias.
+Extremidades: aquecidas, perfundidas, TEC < 3s, pulsos cheios e simétricos, sem presença de edema
+Neurológico: sem sinais meníngeos, sem déficits focais, Glasgow 15 e PIFR
+LABS UPA: Hb 10,3 / Ht 29,3 / leuco 2790 / 22% bastões / plaq 81000 / creat 1,1 / ureia 39,6 / TGO 95,7 / TGP 74,1 / ureia 39,6 / bHCG NR / PCR 96
+A) dengue? P) medico EV. Sinais de Choque séptico.
+Exames negativos para dengue, leptospirose/hantavirose. Óbito Inusitado com causa a esclarecer. Enviado soro para fazer sequenciamento. Sem isolado bacteriano, pois não foi realizada hemocultura. Análise de multipatógenos realiazada no Lacen/PR não identificou nenhum patógeno.";Caso isolado;;;
+Não;OBS: a cultura de pyogenes foi descartada pelo lab local, mas há soro no Lacen, assim, solicitamos o envio para pesquisa multipatógenos;Sim;;;;;23/07/2024;Sequenciamento não realizado;Não se aplica;Não;7/5/2024 17:45:55;cievssc@saude.sc.gov.br;Fabíola Bagatini Buendgens;2302500 Hospital Salvatoriano Divino Salvador;CIEVS/SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;25/06/2024;;;11;Feminino;421930 Videira;;Videira;Suspeita inicial leptospirose e arbovirose. Choque séptico. Óbito Inusitado com causa a esclarecer;Urgência e Emergência;Óbito;Óbito;Atendimento médico UPA 24/06: Paciente apresentando vomito, cefaleia e cervicalgia iniciadas na tarde de ontem há cerca de 16 horas. Nega febre, nega diarreia e nega dores abdominais. No dia 25/06 Pietra começou com dores intensas em membros inferiores impossibilitando até de caminhar, foi acionado o SAMU para levá-la ao hospital. Após chegada ao hospital Pietra teve piora no estado geral, evoluindo para uma PCR as 19hrs, sendo revertida, foram coletados alguns exames para ajudar no diagnóstico, mas ela acabou evoluindo a óbito. Sinais de choque séptico. Coletada hemocultura;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;3973;422091788;Sim;;23/07/2024;;;Sim;7/5/2024 18:52:58;cievssc@saude.sc.gov.br;Fabíola Bagatini Buendgens;2302500 Hospital Salvatoriano Divino Salvador;CIEVS/SC;;;Sim;;;;;;;;;;;;;;;;;;Secreção traqueal;02/07/2024;;;41;Masculino;421930 Videira;;Videira;Suspeita inicial leptospirose e arbovirose. Choque séptico. Óbito Inusitado com causa a esclarecer;Unidade de Terapia Intensiva;Óbito;Óbito;Paciente procurou o primeiro atendimento junto ao serviço no dia 30/06 às 07:58 alegando teste positivo externamente para Influenza A no dia 26/06 e que no mesmo momento iniciou com uso de Tamiflu, procurou atendimento por conta de quadro de tosse, mialgia, com piora da dor de garganta no dia, realizado medicações e liberado após, com orientação de retorno se necessário. No dia 01/07 paciente apresentou um novo broncoespasmo após secreção em via aérea superior, relatando dificuldade para deglutir devido a dor de garganta, realizado um novo RX de tórax que evidenciou Tênues infiltrados intersticiais nas regiões peri-hilares, inespecíficos, esposa refere que paciente vem apresentando dificuldade respiratória com secreção em vias aéreas, além de dor em tórax anterior e orofaringe durante. Refere disfagia para líquidos, paciente encaminhado para emergência, conversando sem alterações significativas em exames laboratoriais, sendo que após paciente descompensou evoluindo para IOT, e sucessivamente apresentando alterações em leucócitos, e função renal, antes da piora clínica e evolução para IOT paciente destacou para o Dr. dor em região cervical, garganta e tórax posterior. Ficando instável com FR: 40bpm, FC: 130 /140 bpm e iniciando com quadro de lesões urticariformes em região de abdome e membros, piorando nas horas subsequentes. Paciente apresentando importante edema em região cervical, sendo que foi avaliado após óbito com laringoscópio o que evidenciou necrose de  amígdala. Suspeita de choque séptico.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;3807;422087688;Sim;;23/07/2024;Tipo M: emm1.29 (emm-cluster A-C3 / ST28);09/01/2026;Sim;7/15/2024 15:21:13;ccih@hrav.com.br;Fernanda Carla Pereira;Outra:;2568713 Hospital Regional do Alto Vale;;;Não;Não;;;;Sim;Sim;Não;Não;Não;Não;Não;Não;Não;Não;;;;Líquor;04/07/2024;;;5;Masculino;421480 Rio do Sul;;Rio do Sul;Meningite bacteriana;Setor de internação;Mantém internação;Alta hospitalar;Internou dia 04/07/2024. Mãe refere que há 2 semanas iniciou com quadro de otite supurativa. Em 01/07/2024 teve piora, com várias idas a emergência, com vômitos, sonolência, anorexia, com cefaleia intensa e febre alta sem melhora com anti-térmico. ;Caso isolado;;;
+Não;Não houve crescimento na cultura. Enviado soro para PCR Pesquisa Multipatógenos II;Sim;;;;;23/07/2024;Amostra insuficiente. Exame descartado;09/08/2024;Não;7/19/2024 18:45:28;cievssc@saude.sc.gov.br;Fabiola Bagatini Buendgens;Outra:;CIEVS/SC;;;Não;Não;;;;Não;;;;;;;;;;Sim;;;Sangue;12/06/2024;;;8;Masculino;421400 Presidente Getulio;;Rio do Sul;Choque séptico;Urgência e Emergência;Óbito;Óbito;Paciente com histórico de infecção de vias aéreas superiores (febre, sintomas gripais e dor lombar) 5 dias antes do óbito. Procurou atendimento na madrugada do dia 12/06 com dor lombar à direita de início súbito, negando trauma. Foi liberado com sintomáticos. às 16h do dia 12/06, teve mal súbito e foi atendido pelos Bombeiros. Conforme consta no prontuário, paciente com cianose pelo corpo, moteamento e edema em tórax, abdomen e flanco direito, sudorese pegajosa, taquipneico, taquicardico. Foi transferido ao Hospital do Alto Vale em Rio do Sul, chegando em PCR e evoluindo a óbito.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;13/08/2024;Tipo M: emm68.2 (emm-cluster E-2 / ST989);06/03/2025;Sim;7/25/2024 8:53:34;ccih@hrav.com.br;Fernanda Carla Pereira;Outra:;2568713 Hospital Regional do Alto Vale;;;Sim;;;;;;;;;;;;;;;;;;Sangue;15/07/2024;;;46;Masculino;421085 Mirim Doce;;Rio do Sul;Streptococcus pyogenes? Streptococcus beta hemolítico isolado de 3 amostras de hemoculturas.;Paciente não internado;Óbito;Óbito;"Internou em 14/07/2024 devido suspeita de derrame pleural/pneumonia (apresenta desconforto respiratório + febre). Paciente já em acompanhamento com cardiologista devido insuficiência mitral severa.
+Após avalição do cardiologita, definido endocardite bacteriana infecciosa com insuficiência mitral severa, com disfunção renal. Realizou cirurgia em 17/07, óbito em 17/07 devido choque refratário. 
+";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;02/09/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);29/11/2024;Sim;7/29/2024 17:28:32;scirasunimedchapeco@gmail.com.br;Lediane Uliana;Outra:;2537397 Hospital Unimed Chapecó;;;Sim;Não;;;;Não;;;;;;;;;;Não;;;Sangue;15/07/2024;;;41;Masculino;420420 Chapeco;;Chapecó;SRAG influenza;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;Paciente com inicio de sintomas respiratório dia 08/07, interna com diagnóstico de Influenza e sopbreposição bacteriana no dia 15/07/2024. Internação em UTI com tranferencia em VM para HRO dia 20/07/2027.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;13/08/2024;Tipo M: emm1.0 (emm-cluster A-C3 / novo);;Sim;8/2/2024 10:27:19;marianaelisa950@gmail.com;Mariana Elisa Martins;Outra:;5504775 Hospital Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/07/2024;;;57 anos;Feminino;420200 Balneario Camboriu;;Itajaí;Confirmado;Paciente não internado;Alta hospitalar;Alta hospitalar;Paciente deu entrada com queixa de dor lombar irradiada para MID há 2 dias com piora signifcativa desde as 14h. ;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;02/09/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);29/11/2024;Sim;8/15/2024 12:45:02;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Sangue;10/08/2024;;;10 dias;Masculino;421280 Balneario Picarras;;Itajaí;Icterícia neonatal;Setor de internação;Alta hospitalar;Alta hospitalar;Paciente acompanhado pela mãe, a qual relata que apresenta icterícia desde o segundo dia de vida. Consultou ontem com pediatra, onde realizou exames laboratoriais com resultados alterados:  BT 23 / BD 1,5 / BI 21,5. Necessitando de internação para fototerapia.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;8/19/2024 19:08:02;ccih.itajai@institutosantaclara.org.br;Yasmim André Fantoni;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção auricular;15/08/2024;;;10 meses;Masculino;420820 Itajai;;Itajaí;OMA D supurada;Setor de internação;Mantém internação;Não se aplica;Mãe refere que criança apresenta febre há 48h, associada a tosse, coriza e há 1 dia apresenta vômitos (diversos episódios), hoje mãe refere que hoje criança dormiu dia inteiro e evoluiu com exantema. Já buscou atendimento 2x, recebeu apenas sintomáticos. Eliminações vesicais reduzidas. Internou inicialmente na UTI por suspeita de meningite, contudo, durante coleta de líquor, observado saída de secreção purulenta de conduto auditivo direito. A suspeita de meningite foi descartada após resultado de líquor, mantendo internação pelo diagnóstico de OMA. ;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;02/09/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);29/11/2024;Sim;8/22/2024 13:55:30;ccih@joinville.unimedsc.com.br;Jéssica Cassias Pereira;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;19/08/2024;;;34;Feminino;420910 Joinville;;Joinville;Pneumonia;Paciente não internado;Alta hospitalar;Alta hospitalar;Estado gripal há alguns dias - DIS: 13/08. Tosse intensa e sede intensa, coriza, mialgia, febre, cefaléia, astenia, anorexia e mal estar, dor torácica. AP estertores finos e piora inspiratoria. bdomen: Normal. Orofaringe com hiperemia e edema, amígdalas sem pus. Seios da face  normais. C torax: Consolidação alveolar com broncogramas aéreos, comprometendo parcialmente os segmentos ápico-posterior e lingulares superior e inferior do lobo superior esquerdo. Discretas consolidações parenquimatosas focais esparsas no lobo inferior esquerdo. Os achados sugerem processo pneumônico (broncopneumonia). ;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;24/09/2024;Tipo M: emm101.0 (emm-cluster A-C3 / ST11);;Sim;8/23/2024 14:15:02;eduarda.peres@cepon.org.br;Eduarda Carolini Peres;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;20/08/2024;;;44 ANOS;Feminino;420540 Florianopolis;;Florianópolis;1. IVAS  ​2. Protocolo de sepse (hipotensão + febre) ;Paciente não internado;Alta hospitalar;Alta hospitalar;Paciente admitida com queixa de dor em região cervical / odinofagia de forte intensidade, associada a febre 38,6°C de início hoje. Refere que vem apresentando coriza há alguns dias, sem tosse. Nega queixas gastrointestinais ou genitourinárias. Nega demais queixas. ;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;24/09/2024;M1UK - Tipo M: emm1.0 (emm-cluster A-C3 / ST28);;Sim;8/26/2024 18:00:40;al.costa@hsan.com.be;Alessandra Costa;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;24/08/2024;;;7 anos ;Masculino;420240 Blumenau;;Blumenau;Choque séptico refratário  - Hemorragia Pulmonar - CIVD - LRA - PAC grave com derrame pleural a D;Urgência e Emergência;Óbito;Óbito;"Mae relata quadro que inicia com picos febris no 21/08 inicialmente acompanhado de dor abdominal, procurou atendimento em UBS onde foi iniciado, no 23/08 paciente queixa-se de dor para respirar mantendo picos febris e dor abdominal. Dia 24/08 mãe encontra paciente prostrado, febril, apresentando vômitos sanguinolentos e epistaxe, traz paciente ao HSA COM PIORA DO ESTADO GERAL, DOR ABDOMINAl, HEMATÊMESE. Paciente evolui para insuficiência respiratória e sinais de choque.  taquipneico e com rebaixamento de conciencia. Apresentou instabilização do quadro, piora do desconforto respiratorio, realizada IOT Paciente evoluiu com hemorragia pulmonar, sangramento importante em TOT.Paciente encaminho para leito de UTI. Paciente apresentou melhora do sangramento gástrico, porém manteve sangramento pulmonar importante. Piora das petéquias no dorso. Plaquetopenia, Entra em PCR logo apos ser transferido ao leito de UTIPed, sendo realizada massagem cardiaca. Paciente apresenta novas PCRS, sem resposta a reanimação. Obito as 22:40h.
+";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;5168;422118804;Sim;;03/12/2024;;;Sim;8/29/2024 10:14:36;epidemio.hgcr@gmail.com;Rejane Albuquerque;2691841 Hospital Governador Celso Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;28/08/2024;;;77 anos;Feminino;420540 Florianopolis;Florianópolis/SC;Florianópolis;Aneurisma;Unidade de Terapia Intensiva;Mantém internação;Óbito;Paciente transferida do hospital regional devido a diagnóstico de HSA de provavel origem aneurismatica. No dia 21/08 apresenta febre persistente com uso de ATB. Refeito esquema de ATBterapia.;Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;24/09/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);29/11/2024;Sim;8/29/2024 16:24:37;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;18/08/2024;;;8a. 6m. 10d.;Feminino;420910 Joinville;;Joinville;- Pneumonia extensa à esquerda ;Setor de internação;Mantém internação;Alta hospitalar;"Paciente encaminhada na UPA Sul com quadro de pneumonia extensa à esquerda. Informante refere tosse secretiva , febre e desconforto respiratório com piora hoje. Menor queixa-se de dor abdominal. Rx de tórax (18/08): Obliteração do hemitórax à esquerda, com desvio do mediastino para direita. Instalado dreno de tórax dia 18/08 -23/08. Características do líquido pleural purulento (400ml).  TC de tórax 25/08:  Extensa pneumonia com necrose comprometendo o pulmão esquerdo, especialmente o lobo inferior. Pequeno empiema pleural à esquerda. Segue internada em ar ambiente tratando com oxacilina 5° dia e já recebeu ampicilina por 5 dias. Menor queixa-se de dor abdominal. Em chamada em upa realizado ciclo aerolin + prednisolona via oral. solicitado exames. Após exames realizado dose ataque ceftriaxona, iniciado hidrocortisona (16:30h) e aerolin.
+- Lab 18/08: GA pH 7,44 pCO2 36 HCO3 24,5 BE 0,6 pO2 130 / Hb 11,6 Ht 34,7 / Leuco 18.720 (Meta3 B12 S80 L3 Mon2) / Plaq 295.000 / PCR 510,5
+- Rx de tórax (18/08): Obliteração do hemitórax à esquerda, com desvio do mediastino para direita. Aguarda laudo
+- Líquido Pleural 18/08: Hemácias 10 / Leucócitos 91.000 (N15 L65 Mon20) / Ác lactico 10,7 / LDH 2.609 / Glicose <2 / PT 4,8 / Purulento Acastanhado / Cl 97
+- Cultura líquido pleural: Streptococcus pyogenes (S clinda, eritromicina, penicilina, Sulfa+tri)
+- US tórax 18/08: Presença de moderado/volumoso derrame pleural à esquerda, com conteúdo anecogênico e sem sinais de complexidade. Condensação dos segmentos pulmonares adjacentes, que pode corresponder a atelectasia restritiva e/ou consolidação. Ausência de derrame pleural à direita no presente estudo.
+- Rx tórax 19/08: imagem apresentando melhora importante em relação ao exame anterior
+- Lab 23/08: Hb 12,2 HT 36,9 L 34320 Mielo 3% Meta 1% S 69% LT 20% Plaq 497000 PCR 20,7 
+- Lab 24/08: Hb:10,1  Ht:29,1  VCM:80,4  HCM:27,8   RDW:13%   Leuco:36.930  (S:86   E:1   LT:6   M:7)   Plaq:395.000
+- Rx tórax 24/08: presença de velamento de hemitórax a esquerda - piora significativa da imagem quando comparada com anterior
+- TC de tórax 25/08:  Extensa pneumonia com necrose comprometendo o pulmão esquerdo, especialmente o lobo inferior. Pequeno empiema pleural à esquerda. Pequeno derrame pleural à direita. Demais achados descritos no corpo do laudo.
+- Rx e tórax 28/08: diminuição do velamento à esquerda, melhora em relação à imagem anterior
+";Caso isolado;;;
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;24/09/2024;M1UK - Tipo M: emm1.3 (emm-cluster A-C3 / ST28);;Sim;9/4/2024 9:00:06;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;25/08/2024;;;44;Feminino;420540 Florianopolis;;Florianópolis;Sespe com foco cutâneo;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;22/08/2024 percebeu aparecimento de lesões periorais, indolores. 24/08/2024 aparecimento de lesão entre 4° e 5° pododátilos esquerdos, com dor local, descontinuidade de pele, com saída de pequena quantidade de sangue e pus seguido de edema de pé esquerdo.  Fez uso de paracetamol. Refere tontura. Não evacua há 5 dias. Paciente evoluiu com hipotensão na madrugada, não responsiva após 1000 ml de cristalóide, necessitando de DVA. Estabilizada hemodinamicamente em sala de reanimação. Lesão com descontinuidade de pele entre 4° e 5° pododátilos esquerdos, com pequeno sangramento local. Lesões bolhosas e hematoma em dorso do pé E, associado a edema que já alcança joelho. Ausência de pulso tibial posterior e pedioso bilateralmente. Possível lesão isquêmica em 5º pododáctilo E. Debridamento cirúrgico MIE 26/08. HMC com crescimento de Strepto Pyogenes em 25/08. Primodiagnóstico de B24 em 26/08 - SINAN 7745271. Pancitopenia. Motivo de internação UTI: monitorização pós-operatória (de urgência);Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;24/09/2024;Tipo M: emm3.93 (emm-cluster A-C5 / ST315);29/11/2024;Sim;9/9/2024 8:55:47;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;22/08/2024;;;03;Masculino;420910 Joinville;;Joinville;Síndrome do choque tóxico;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"Paciente proveniente da emergência devido choque séptico compensado. Paciente trazido ao PS 22/08 com quadro de febre, inapetência e rash cutâneo com 4 dias de evolução. Suspeita de estafilococcia (pneumonia + otite média aguda).- RX de Tórax (22/08): Opacidade com consolidação em ápice a direita - Pneumonia com derrame pleural a direita. 
+segue na enfermaria terminado o ciclo de antibioticoterapia.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;5436;422123954;Sim;;06/11/2024;;;Sim;9/9/2024 16:51:31;;;Outra:;2537397 Hospital Unimed Chapecó;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/08/2024;;;31;Masculino;420420 Chapeco;;Chapecó;Gangrena úmida de pé;Setor de internação;Alta hospitalar;Alta hospitalar;"PACIENTE COM HISTÓRICO DE CELULITE EM REGIÃO DE INTERDIGITOS DO PÉ DIREITO COM PIORA PROGRESSIVA HÁ CERCA DE 1 MÊS (30/07/2024), DÁ ENTRADA NO SERVIÇO REFERINDO DOR E EDEMA HÁ CERCA DE 5 DIAS (25/08/2024). REFERE EPISÓDIOS FEBRE. HF PRESERVADO. HISTÓRICO DE USO DE BOTINA QUE ""MACHUCAVA A REGIÃO DO PÉ NO SERVIÇO"". NEGA DIABETES OU DEMAIS PATOLOGIAS. CRESCIMENTO DE GERME EM HEMOCULTURA.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;5492;422124819;Sim;;06/11/2024;;;Sim;9/11/2024 14:28:27;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;; PUNÇÃO INFRAPATELAR MEDIAL;04/09/2024;;;25;Masculino;420240 Blumenau;;Blumenau;Infecção de joelho esquerdo;Paciente não internado;Alta hospitalar;Alta hospitalar;Paciente vem ao pronto socorro referindo que dia 24/08 sofreu queda de moto com escoriações em região de joelho esquerdo, refere que foi atendido no HSI e não foi evidenciada fratura - sic. Conta que hoje notou aumento de edema local, com presença de hiperemia e rubor em local da lesão. Paciente interna no dia 01/09/24, e no dia 04/09/24 foi coletado Secreção Intrapatelar de Joelho esquerdo. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;12/11/2024;;;Sim;9/12/2024 13:45:26;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;07/09/2024;;;8A;Feminino;421800 Tijucas;;Florianópolis;PNEUMONIA;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Encaminhada de Tijucas dia 07/09/2024,devido Pneumonia com Derrame Pleural à direita. Iniciou há 5 dias da admissão com tosse e odinofagia. Estava em uso de ibuprofeno  e dipirona. Há 2 dias evoluiu com febre não aferida e diarreia (3x/d, sem pp) + aparecimento de lesões de pele em abdome e membros, mais prostrada e com redução da aceitação alimentar. Realizou US , DP livre 2cm à direita.Realizou toracostomia com drenagem pleural fechada à D no CC com saída de 400ml de líquido purulento - mantida em MNR, SA com propofol e fentanil. Evoluiu com queda de saturação e desconforto respiratório, sendo procedita IOT,diurese não aferida.Criança segue internada em unidade de terapia intensiva com ventilação mecanica.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;5916;422133566;Sim;;15/10/2024;;;Sim;9/20/2024 14:01:05;;;Outra:;2521431 Centro Hospitalar Unimed;;;Não;Pneumonia clinicamente determinada;;;;;;;;;;;;;;;;;Lavado broncoalveolar;17/09/2024;;;72;Masculino;420910 Joinville;;Joinville;Pneumonia aspirativa;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Admissão no PS do HMSJ por crise convulsiva, em IOT. AngioTC de crânio: Aneurisma sacular com aparente origem da artéria carótida interna esquerda, situado na fossa icerebral média esquerda, medindo 4,3 x 3,7 cm em íntimo contato com M1 da cerebral media esquerda.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;9/23/2024 12:44:42;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;19/09/2024;;;53;Masculino;420910 Joinville;;Joinville;Sinusopatia complicada ;Setor de internação;Mantém internação;Alta hospitalar;" Paciente com hx de longa data de sinusite de repetição, este ano 3 episódios. Iniciou com pressão facial e espirros há 1 semana, há 2 dias com hiperemia em região malar e febre. Interna por suspite de celulite de face, iniciado unasyn.  
+Strepto pyogenes em hemocultura 
+Celulite de face";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);09/01/2026;Sim;9/23/2024 13:17:19;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;19/09/2024;;;33;Masculino;420420 Chapeco;;Chapecó;pneumonia bacteriana ;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Refere febre com inicio 15/09/24, com valor máximo de 40ºC, associado a tosse produtiva, 17/09/2024 procurou atendimento devido a dor súbita em região toracoabdominal a direita após movimento leve de rotação de tronco;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;9/24/2024 12:41:05;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Líquido sinovial;16/09/2024;;;1 ANO;Masculino;421660 Sao Jose;;Florianópolis;ARTRITE SEPTICA DE JOELHO;Paciente não internado;Alta hospitalar;Alta hospitalar;"Há 10dias está sem andar, colocando só a ponta do pé no chão com recusa alimentar. Refere que estava com pouco de coriza e iniciou com febre. Refere que a febre durou 6dias. 
+Refere piora da claudicação progressiva e refere que tem reclamado de dor ao tentar caminhar e evoluiu para dor a qualquer manipulação de MID. 
+Está sem febre há 2dias, mas persiste com bastante dor em MID. 
+Mãe acha que testículo está mais inchado ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm3.93 (emm-cluster A-C5 / ST315);06/03/2025;Sim;10/3/2024 12:21:00;;;Outra:;2521385 Hospital Dona Helena;;;Sim;;;;;;;;;;;;;;;;;;Sangue;29/09/2024;;;8;Masculino;421620 Sao Francisco do Sul;;Joinville;Celulite;Setor de internação;Alta hospitalar;Alta hospitalar;29/09/2024 - Paciente com lesão em 5º dedo da mão direita há uma semana. Há dois dias notada formação bolhosa no local e hoje com progressão para o 4º dedo, com edema, eritema, formação de bolhas local. Amigdalite aguda. Celulite. Interna para antibioticoterapia E.V..;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;10/3/2024 12:57:51;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;28/09/2024;;;45;Masculino;420910 Joinville;;Joinville;Sepse de foco pulmonar / Mediastinite;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"# 23/09 Há 10 dias quadro viral, atendimento com TC Torax: artrodese dorso-lombar, hernia gastrica hiatal.- Alta hospitalar  
+# 24/09 EDA eletivo Esofago Barret? - biopsia, gastroplastia redutora prévia sem alterações  
+# 25/09 Inicio de febre 
+# 29/09 Internação por Pneumonia 
+- TC Torax: Mediastinite com possivel causa de diminuta fistula esofagica+ Edema                traqueia.  
+# 29/09: Admissão UTI - Sepse de foco pulmonar / Mediastinite : Tazocin + vancomicina 
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.0 (emm-cluster A-C3 / ST28);06/03/2025;Sim;10/4/2024 13:43:13;;;Outra:;9671145 Hospital Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;20/09/2024;;;55;Feminino;421660 Sao Jose;;Florianópolis;  Motivo Internação :  Sepse de foco cutâneo (celulite grave) ;Unidade de Terapia Intensiva;Óbito;Óbito;"HMA :  Paciente relata dor em hemitórax E de início há 3 dias (18/09). Relata pico febril isolado há 2 dias, temperatura aferida em 38°C. Relata ter percebido ontem diminuição de volume urinário. Hoje notou lesão de pele abaixo da axila, sangrante, com solução de continuidade da pele e hematoma. Eritema se estende até lateral do abdome.
+Nega sintomas de TGI ou urinários, tosse, ou outras queixas. Paciente na primeira avaliação na observação acordada, lúcida, extremidades frias, TEC~6s, taquipneia leve em ar ambiente, após ressuscitação volêmica de 2500mL. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;06/11/2024;;;Sim;10/7/2024 11:29:20;;;Outra:;2568713 Hospital Regional do Alto Vale;;;Sim;;;;;;;;;;;;;;;;;;Sangue;04/10/2024;;;30;Feminino;420020 Agrolandia;;Rio do Sul;Streptococcus pyogenes;Setor de internação;Mantém internação;Alta hospitalar;"Encaminhada de Agrolândia em 04/10/2024 no D9 Puerpério – Pós parto vaginal em (26/09 as 4H) com laceração de 2º grau. Comorbidade: Obesidade com IMC de 56.
+Encaminhada devido dor abdominal e dispneia com início há 2 dias. Refere que sentiu mal estar, com piora hoje (04/10), com fortes dores abdominais difusas, associado a diarreia e sensação de falta de ar. Más condições de higiene. Internada na clínica medica. 
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;6268;422144047;Sim;;06/11/2024;;;Sim;10/7/2024 12:55:56;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;30/09/2024;;;51;Masculino;420910 Joinville;;Joinville;Sepse sem foco definido;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;" Choque Séptico foco A/E    LISTA DE PROBLEMAS ATIVOS :  Chega ao PA com queixa de febre, inapetência e fraqueza, Relata cirurgia para descompressão de coluna em 05/09 com Dr Lauffer sem alteração em exame de imagem oi FO. No momento relata dor em flanco inferior direito e muita dor lombar. PCR:265. ATUAL: 30/09: Sépse foco A/E, iniciado noradrenalina             - Iniciado TAzocin  01/09: Piora Hemodinâmica > IOT, Admitido UTI             HMC: cocos gram +             - Associado Vancomicina             EcoTT: Hiposcinesia difusa, provável Hipertensão pulmonar             TC quadril D: lesões blasticas difusas no osso da bacia provável neo 2°             TC Tórax: Consolidação pulmão E 02/09: HMC Streptococcus pyogenes MS             Retiramos Vancomicina(D1) 
+            ecoTE: ausência de vegetações 04/10: Extubação";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;06/11/2024;;;Sim;10/8/2024 14:46:59;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Fasciíte necrosante;Sim;Sim;Não;;;;;;;;;;;;;;abcesso;06/10/2024;;;69;Feminino;421800 Tijucas;;Florianópolis;ERISIPELA BOLHOSA/POi debridamento de tecidos desvitalizados em MSD e drenagem de abscesso em região posterior de antebraço D;Setor de internação;Mantém internação;Alta hospitalar;"data de internação 04/10/2024
+ POi debridamento de tecidos desvitalizados em MSD e drenagem de abscesso em região posterior de antebraço D
+HDA: Paciente encaminahda da clínica médica,com relato de hiperemia com bolhas e úlceras em região de antebraço até mão direita, em piora. No qual iniciado sintomas há 2 semanas, sem melhora com uso de amoxacilina + clavulanato, cefalexina, paciente esteve internada por 7 dias em Tijucas com mesmo quadro, sem melhora, encaminhada da clínica médica após contato prévio com Dr. Diogo
+TOMOGRAFIA COMPUTADORIZADA DE BRAÇO, ANTEBRAÇO E PUNHO 04/10:   strutura e densidade óssea de aspectos normais. Superfícies articulares íntegras, com espaços preservados. Não há sinal de fratura.  Extensa infiltração líquida da pele e subcutâneo da face medial do antebraço  e dorsal do punho, com acúmulo líquido laminar, porém sem serem individualizadas coleções organizadas no momento. Não há evidência de derrame articular através do método. Planos mioadiposos profundos preservados.
+D4 VANCOMICINA
+D0 TAZOCIN";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;15/10/2024;Tipo M: emm1.29 (emm-cluster A-C3 / ST28);06/03/2025;Sim;10/9/2024 11:40:38;;;Outra:;2568713 Hospital Regional do Alto Vale;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;27/09/2024;;;4;Feminino;420190 Aurora;;Rio do Sul;Streptococcus com beta hemólise (precisamos saber a identificação). ;Paciente não internado;Óbito;Óbito;Em 27/09/2024 paciente acompanhada da mãe, vem encaminhada do HBJ de Ituporanga, através do SAMU. Mãe refere que paciente vem apresentando odinofagia, tosse e febre desde sábado (21/09) (intervalos de 6h, que persistiram até quarta feira, porém desde quarta mãe vem intercalando 2 antitérmicos). Há 3 dias queixando de dor abdominal em hipogástrio, diarréia sem produtos patológicos, vômitos, prostração, inapetência e piora do estado geral. Desde a tarde/noite de ontem com taquipnéia, mais sonolenta, gemente. Esteve em atendimento na UBS de Aurora na quarta, prescrito apenas sintomáticos. Na noite de ontem procurou o HBJ. SIC médico do HBJ durante atendimento apresentou 1 episódio de Hemoptise, mãe refere não ter visto.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;22/10/2024;;;Sim;10/17/2024 19:57:11;;;2302500 Hospital Salvatoriano Divino Salvador;;;;Não;Fasciíte necrosante;Não;Sim;Não;;;;;;;;;;;;;;Secreção de ferida ;13/10/2024;;;62;Feminino;421930 Videira;;Videira;Fascite Necrosante;Unidade de Terapia Intensiva;Óbito;Óbito;Paciente procurou a emergência do hospital no dia 13/10 com queixa de dor e edema em MSD evoluindo para lesões bolhosas e de evolução rápida de ferida.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;06/11/2024;;;Sim;10/18/2024 15:01:57;;;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;14/10/2024;;;72;Feminino;420540 Florianopolis;;Florianópolis;Neoplasia Maligna de mama;Setor de internação;Mantém internação;Alta hospitalar;Paciente refere que ontem notou membro superior direito edemaciado, evoluindo com piora no dia de hoje. Nega febre. Nega sintomas respiratórios ou urinários. Nega outras queixas. CX de mama em 2015 com esvaziamento axilar. Paciente hipotensa, relata que já teve outros períodos com hipotensão e que na ocasião foram retirados anti hipertensivos. Atualmente não está em uso de nenhum anti hipertensivo. Acompanha com a cardiologia.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;10/24/2024 18:53:49;;;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção auricular;19/10/2024;;;1 ano;Masculino;420820 Itajai;;Itajaí;Febre prolongada + OMA à esquerda;Setor de internação;Mantém internação;Não se aplica;Mãe refere que paciente iniciou febre alta de 39-39,5ºC no dia 09/09, no mesmo dia levou a atendimento médico, onde foi prescrito amoxicilina por 7 dias. Criança ficou afebril após 2 dias de início do ATB (11/09) até dia 16/09. Por volta do dia 18/09 voltou a fazer febre e no dia seguinte, (19/09) levou novamente em atendimento médico, onde foi prescrito bactrim por 10 dias. Após 2 dias de início do ATB, ficou afebril (20/09). Fez o tto por 10 dias, e após cerca de 2 dias de encerrado o ATB (30/09) voltou a fazer febre. No dia 01/10, levou novamente para atendimento, onde foi prescrito amoxicilina/clavulanato por 7 dias, após 2 dias do início da medicação ficou afebril novamente. Após cerca de 2 dias do término da medicação no dia 12/10, voltou a fazer febre, quando a mãe procurou atedimento no CIS, onde foram feitos exames laboratoriais. Refere somente prostração e inapetência associada, sem nenhum outro sintomas localizatório.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;10/25/2024 13:38:09;;;Outra:;5504775 Hospital Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;20/10/2024;;;70;Feminino;420200 Balneario Camboriu;;Itajaí;Confirmada;Setor de internação;Mantém internação;Não se aplica;Reabordagem operatoria por febre com siada de secreçao purulenta;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7057;422161616;Sim;;03/12/2024;;;Sim;10/30/2024 18:26:58;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;secreção articular;26/10/2024;;;4;Masculino;421190 Palhoca;;Florianópolis;ARTRITE SEPTICA DO QUADRIL D;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Paciente com história de febre em 20/10 (domingo passado) e dor na bochecha que evoluiu para otalgia bilateral. No dia seguinte, levou-o na UPA, foi diagnosticado com OMA e prescrito ibuprofeno de horário. Manteve febre diária e na quarta-feira, dia 23/10, começou a queixar-se de dor em quadril direito não conseguindo mais deambular, só chorando. Veio encaminhado para este hospital do HRSJ na noite passada. Feito penicilina benzatina e associado oxacilina. Fez TC de quadril D que já mostrou edema volumoso. Foi para CC para drenar.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7123;422162311;Sim;;03/12/2024;;;Sim;10/31/2024 9:24:52;;;2411393 Hospital Regional São Paulo;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;24/10/2024;;;54;Feminino;421950 Xanxere;;Xanxerê;Choque séptico refratário / abcesso amigdaliano / acidose metabólica / IRA;Urgência e Emergência;Óbito;Óbito;Atendida na emergência no dia 24/10/2024 às 02h26min, com quadro de odinofagia e dor em região cervical anterior, associada a otalgia e edema importante em região mandibular à direita há cerca de 7 dias. Refere febre não aferida sustentada. Relata dispneia moderada associada, além de hiporexia e queda do estado geral. Fez uso de sintomáticos sem melhora. Paciente evolui com PCR em assistolia, realizado IOT, presença de abaulamento e opacidade de MT a direita, cianose local.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7038;422160837;Sim;;26/11/2024;;;Sim;10/31/2024 17:25:03;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Líquor, Sangue;28/10/2024;;;73;Masculino;420570 Garopaba;;Florianópolis;aneurisma de aorta abdominal ;Setor de internação;Mantém internação;;Paciente encaminhado via vaga zero da UPA Garopaba devido a quadro de dor abdominal há 1 dia, difusa, com irradiação para dorso, associado a vomitos. Na UPA de origem paciente apresentava PA elevada com diferença entre os membros superiores (PA MSD 225/116 e PA MSE 250/113), além de abdome plano, normotimpanico, doloroso a palpação mais em HCE e massa pulsátil em abdome;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;11/4/2024 13:45:35;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;25/10/2024;;;41;Feminino;421130 Navegantes;;Itajaí;INFECÇÃO PÓS OPERATÓRIA;Paciente não internado;Alta hospitalar;Não se aplica;Paciente submetida a mamoplastia há 1 mes, há 10 dias iniciou com dor, hiperemia e secreção em mama D. Há 2 dias iniciou com febre. Estava em uso de atb - Clindamicina + Moxifloxacino há 2 dias e hoje na Unimed BC administrado oxacilina e bactrim.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;11/5/2024 8:39:34;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;30/10/2024;;;25;Masculino;421660 Sao Jose;;Florianópolis; POI DEBRIDAMENTO DE COXA ESQUERDA. PRESERVADO MATERIAL DE SINTESE. IDENTIFICADO GRANDE QUANTIDADE DE SECREÇÃO HEMATOPURULENTA. DEBRIDADO MODERADA QUANTIDADE DE MUSCULATURA DESVITALIZADAE NECROTICA - PROCEDIMENTO SEM INTERCORRENCIAS *COLETADO 3 AMOSTRAS PARA CULTURA  Paciente evadiu dia 15/10 Internação atual: NO CC 24/10 - REALIZADO DEBRIDAMENTO DE INFECÇÃO EM FOCO DE FRATURA PÓS OSTEOSSINTESE, SEM INTERCORRENCIAS No CC 30/10 - Realizado debridamento cirurgico + limpeza e colocacao de dreno de Penrose mantendo parte da FO aberta. Coletadas novas culturas.;Setor de internação;Mantém internação;Evadiu do hospital;" POI DEBRIDAMENTO DE COXA ESQUERDA. PRESERVADO MATERIAL DE SINTESE. IDENTIFICADO GRANDE QUANTIDADE DE SECREÇÃO HEMATOPURULENTA. DEBRIDADO MODERADA QUANTIDADE DE MUSCULATURA DESVITALIZADAE NECROTICA - PROCEDIMENTO SEM INTERCORRENCIAS *COLETADO 3 AMOSTRAS PARA CULTURA 
+Paciente evadiu dia 15/10
+Internação atual:
+NO CC 24/10 - REALIZADO DEBRIDAMENTO DE INFECÇÃO EM FOCO DE FRATURA PÓS OSTEOSSINTESE, SEM INTERCORRENCIAS
+No CC 30/10 - Realizado debridamento cirurgico + limpeza e colocacao de dreno de Penrose mantendo parte da FO aberta. Coletadas novas culturas.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7262;422165204;Sim;;26/11/2024;;;Sim;11/5/2024 10:49:01;;;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/10/2024;;;8 anos;Masculino;421350 Porto Belo;;Itajaí;Celulite MID / Artrite séptica de joelho e quadril a direita;Setor de internação;Mantém internação;Alta hospitalar;Mãe refere que menor queixou de dor em joelho direito há 4 dias - sintomas iniciados após jogo de futebol. Relata que foi chutar bola e após sentiu dor. Nega queda ou trauma local. Há 1 dia iniciou com febre e piora da dor.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7274;422164098;Sim;;26/11/2024;;;Sim;11/11/2024 12:23:29;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Líquido sinovial;01/11/2024;;;57;Masculino;420240 Blumenau;;Blumenau; Artrite séptica;Setor de internação;Alta hospitalar;Alta hospitalar;"Paciente retorna ao PS por permanência de febre e edema em MSE após 3 dias de amox+clav.
+Nega náuseas ou vômitos. Nega alterações de hábitos intestinais ou urinários. 
+Presença de edema, hiperemia e rubor em cotovelo E.
+8 meses PO de lesão complexa cortante na face volar do punho c/ rupturas de todos os t. flexores, N. mediano e N. ulnar.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7720;422175746;Sim;;;;;Sim;11/19/2024 14:36:35;;;2558246 Hospital Santa Isabel;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;14/11/2024;;;61;Masculino;420240 Blumenau;;Blumenau;choque séptico cutâneo;Urgência e Emergência;Óbito;Óbito;Inicio dos sintomas 12/11 - Dor intensa, hipotensão e confusão mental. Hiperemia e dor intensa.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7727;422177517;Sim;;;;;Sim;11/21/2024 12:34:36;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;14/11/2024;;;10 meses;Masculino;421660 Sao Jose;;Florianópolis;MENINGITE BACTERIANA;Unidade de Terapia Intensiva;Óbito;Óbito;" iniciou no domingo com febre 38.7 ºC associada a coriza e tosse. Evoluiu durante o dia com exantema. Apresentou 2 episódios de vômito e 3 episódios de diarreia. À chegada solicitados exames e colocado em CNO2. Evoluiu por volta das 05h AM com piora do desconforto respiratório, perfusão de 5s, pele moteada, hipotensão e petéquias difusas; satO2 75% AA, FR 60irpm, FC ~180bpm. Recebeu FR 40ml/kg SF0,9%, resgate com 5 Jatos de salbutamol. Sem melhora do padrão respiratório e saturação optado por inicio precedex e CNAF. Hipoglicemia de 25mg/dl
+Choque séptico refratário
+	Suspeita de meningococcemia
+Realizado coleta de painel vira com resultado DETECTÁVEL PARA INFLUENZA B
+Realizado coleta de liquor para investigação de meningite, encaminhado material ao LACEN";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7460;422169894;Sim;;26/11/2024;;;Sim;11/22/2024 12:00:19;;;Outra:;2560771 Hospital Universitário Santa Terezinha;;;Sim;;;;;;;;;;;;;;;;;;Líquor;08/11/2024;;;6 meses;Masculino;420860 Jabora;;;Meningite Bacteriana ;Unidade de Terapia Intensiva;Óbito;Óbito;febre + irritabilidade, recusa alimentar desde 31/10, inicialmente em uso de sintomáticos, sem muita melhora, sendo reavaliado em 06/11 e apresentando lesões orais compatíveis com herpangina. no dia seguinte apresentou diarreia,  mãe achou que a criança apresentava dificuldade na mobilização cervical e de mmss, persistia febril, 08/11 mãe achou paciente mais prostrado e irritado, e pais perceberam prejuízo na movimentação de MSE e o levaram para reavaliar, evoluindo piora do estado geral e paresia do MSE, além de taquicardia e desidratação leve.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7901;422178539;Sim;;;;;Sim;11/25/2024 14:49:50;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de abcesso cervical;19/11/2024;;;54;Feminino;420240 Blumenau;;Blumenau; Abscesso faringeo;Setor de internação;Mantém internação;Alta hospitalar;"Paciente relata que iniciou há 4 dias com dor cervical e febre aferida >38º. Esteve ontem neste serviço sendo avaliado linfonodos cervicais, sem outros sinais. Hoje afirma inicio de hiperemia, edema e piora da dor, seguindo com febre.
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;11/25/2024 14:57:40;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de lesão de pele;21/11/2024;;;2;Masculino;420240 Blumenau;;Blumenau; Impetigo e celulite;Setor de internação;Alta hospitalar;Não se aplica;"Acompanhado da mãe, refere que em 18/11 paciente iniciou com ""bolinhas"" na pele em MMII. Passou em consulta pela UBS, encaminhada ao HSA para aplicação de benzetacil. Neste PS não realizado aplicação, re-encaminhado a UBS porém não procurou novo atendimento até hoje. Ontem mãe notou prostração e inapetência, hoje com febre (máx de 39°C) e evolução das lesões bolhosas para crostas além de lesões avermelhadas e endurecidas em pernas bilateralmente. Notou novas lesões vesiculares em face e região de fralda (nádegas).";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;422181238;Não;;;;;Sim;11/26/2024 11:16:19;;;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;21/11/2024;;;20;Masculino;420430 Concordia;;Concórdia; Psoíte + miosite até coxa evoluindo com choque septico e intubação;Unidade de Terapia Intensiva;Mantém internação;Óbito;"Paciente proveniente do AIO com suspeita de psoíte + miosite até coxa evoluindo com choque septico e intubação. Relato de febre 40ºC, dor de garganta, otalgia e diarreia de início na sexta-feira. Além disso, referiu dor intensa em coxa esquerda. Procurou a emergência de Caçador onde foi prescrito ciprofloxacino e metronidazol. Devido à ausência de melhora do quadro, buscou o AIO. Chega a UTI intubado, com DVA dose alta.  
+
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8219;422189273;Sim;;;;;Sim;12/6/2024 7:35:58;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Líquido sinovial;26/11/2024;;;01;Feminino;420910 Joinville;;Joinville;Artrite séptica no joelho direito;Unidade de Terapia Intensiva;Óbito;Óbito;"Data da admissão: 24/11/2024.
+Mãe relata que dia 22/11 a filha iniciou com febre e recusa alimentar. Dia 23/11 a criança quase caiu do carrinho, porém a mesma a segurou pela coxa direita. Dia 24/11 iniciou com edema e dificuldade para deambular. Dia 26/11 Realizado cirurgia no joelho direito para tratamento de artrite séptica com saída de liquido articular hemático e turvo, com aspecto infeccioso e coletado cultura estéril. Na UTI dia 27/11 a criança evoluiu com bradicardia seguida de 3 PCR - Parada Cardiorrespiratória. Na 3ª PCR não retorno da circulação em nenhum momento desde o começo da reanimação. Constatado óbito por choque séptico e artrite piogênica.
+
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8380;422193228;Sim;;;;;Sim;12/10/2024 15:12:46;;;2691841 Hospital Governador Celso Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;04/12/2024;;;83;Feminino;421020 Major Gercino;;;Síndrome neurológica a esclarecer. AVC com delta para trombectomia Sepse?;Urgência e Emergência;Óbito;Óbito;Admitida em 03/12 estava internada no hospital de Alfredo Wagner.Relato de que esta internada há 3 dias por queda do estado geral e 'infecção nos rins' (nao descrito em nota de transferencia). Durante a madrugada passada (há mais de 24h), iniciou com confusao mental. Por volta das 11h apresentou RNC.Familair informa historia de troca valver há 30 dias no ICSC, óbito em 04/12;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8361;422192517;Sim;;;;;Sim;12/11/2024 13:26:03;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Líquido sinovial;05/12/2024;;;27;Masculino;421660 Sao Jose;;Florianópolis; ARTRITE SEPTICA DE JOELHO ESQUERDO;Setor de internação;Mantém internação;Alta hospitalar;"Paciente encaminhado da UPA continente. Refere que a 2 dias iniciou com hiperemia e edema em perna esquerda, associado a calafrios e febre(não aferida). evoluiu com dor em joelho esquerdo e limitação funcional local. possui histórico de HIM de tibia esq 09/22. Nega novos traumas ou ferimentos.
+No CC 05/12 - Realizado debridamento + manipulação articular de joelho esquerdo, sem intercorrencias. Notada moderada/grande quantidade de secreção purulenta. Deixado dreno de penrose para drenagem
+ATBterapia/Culturas:
+HMCs e Culturas do liquido sinovial 05/12: em andamento";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;6311;422146834;Sim;;;;;Sim;12/16/2024 11:33:17;;;Outra:;2377829 Hospital Bom Jesus;;;Não;Fasciíte necrosante;Sim;Sim;Não;;;;;;;;;;;;;;Secreção de ferida operatória;03/10/2024;;;16;Masculino;421920 Vidal Ramos;;;quadro infeccioso;Paciente não internado;Alta hospitalar;Alta hospitalar;Paciente 16 anos, trazido  16/06/24 de Vidal Ramos em ambulância do município com técnica de enfermagem, vítima de acidente automobilístico hoje por volta das 11 horas, colisão moto x moto. Realiza na mesma data cirurgia de Osteossintese de fratura diafisaria de femur direito exposta com fixador externo + osteossintese de fratura de radio distal bilateral SH2 com FK. Reabordagem cirurgica em 17/06/24 - fratura diafisária de fêmur direito - fratura cominutiva. Em 25/06 drenagem de abscesso em coxa direita e alta hospitalar em 28/06/24. 20/08/24 nova internação para desbridamento de tecidos desvitalizados/ revisão cirúrgica em coxa direita com alta em 22/08/24. 02/09/24 reinterna por  quadro de secreção sero purulenta em coxa direita, hipocorado com alta em 07/09/24. 02/10/24 Pct comparece ao PS encaminhado de Vidal Ramos devido quadro febril, hipotensão, secreção purulenta em FO de Cx ortopédica. Interna na UTI em 02/10 por sepse. 03/10 - RETIRADA MATERIAL (PLACA EM FEMUR d) + COLOCAÇÃO FIXADOR EXTERNO. Alta da UTI em 06/10/24. 11/10- alta hospitalar sob orientações, acompanhamento ambulatorial.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;12/16/2024 12:33:32;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;13/12/2024;;;77;Masculino;420240 Blumenau;Santa Catarina;;Sepse / Choque séptico: Provável foco urinário Adenocarcinoma metastatico de prostata;Urgência e Emergência;Óbito;Óbito;" Paciente da entrada em PS trazido por cuidadora. A mesma relata piora do estado geral progressiva iniciando com febre entre 38,6C - 38,9C  há 3 dias e oligúria. Último episodio febril ontem. Paciente estava em uso de SVD com retirada há cerca de 15d por obstrução, passando a utilizar SVA 4x/d desde então. Acompanhante relata que há cerca de 7h paciente passou a apresentar cianose periférica progressiva. Admito paciente vigil, PA 190/100, contactuante, taquipneico com so2 98% MR 6L/min, mal-perfundido, com livedo reticular difuso. 
+Apos manobras iniciais para choque, paciente progride com rebaixamento de sensório e hipotensão PA 78/56, HGT segue low. Inicio com DVA noradrenalina 10ml/h e sigo corrigindo demais disfunções.
+Comorbidades: Desconhece / Vulnerabilidade social - paciente ex-morador de casa asilar morando recente com apoio de cuidadora, sem rede de apoio familiar presente / Paralisia de MMII por provável infiltração metastatica / Escara sacral / Sd consuptiva";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7270;422166168;Sim;;;;;Sim;12/17/2024 9:45:51;;;Outra:;2306336 Hospital São José;;;Sim;;;;;;;;;;;;;;;;;;Líquor;01/11/2024;;;29 anos;Masculino;420650 Guaramirim;;;Meningite;Urgência e Emergência;Óbito;Óbito;Internou no setor de emergência no dia 01/11/2024 apresentando: cefaléia, febre, vômitos, diarréia, RNC e hipertonicidade MMSS;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;6396;422148576;Sim;;;;;Sim;12/17/2024 17:11:19;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;10/11/2024;;;35;Feminino;421150 Nova Trento;;Florianópolis;Derrame pleural exsudativo com predominio de linfomono de etiologia a esclarecer;Setor de internação;Mantém internação;Alta hospitalar;"
+HDA: Transferida do Hospital Nova Trento após contato com quadro de cerca de 4 dias de evolução de dor torácica direita e dispneia. Identificado DP volumoso à direita e evoluiu com dessaturação, taquicardia e esforço ventilatório. Relato de Sat 94% em MR 8L e FR 30mrpm. Sem descrição de condutas realizadas no serviço de origem. Refere dor torácica ventilatório dependente, febre, dispneia e mal estar iniciados há cerca de 4 dias. Nega alterações do TGI. RX 09/10/24 - após toracocentese: Opacidade em todo o hemitórax direito. Sem alterações à E
+
+LAB 09/10: hb 14,9 ht 42,3 leuco 2.750 plaq 213.000 Na 132 ureia 126 Cr 3,99 proteinas totais 6,4  albumina 3,4 Na 128 K 4,3 TGO 16 TGP 11 GGT 22 FA 25 LDH 146 PCR 566  Lactato 3,3 Gaso pH 7,28 HCO3 14,6
+
+LAB 10/10: Hb 15,1 Ht 42,1 Leuco 2110 (linf 274) Plaq 142.000 Cr 5,06 Ur 173 Na 133 K 4,7 Mg 1,8 PCR 608,62 GV pH 7,28 hco3 15,7
+
+TR 09/10: HIV, hepatite C, hepatite B, sifilis negativos
+
+TC de torax 09/10: Dreno torácico à dirieta com presença de pneumotórax, sem derrame pleural. Enfisema subcutâneo no hemitórax direito. Extensa consolidação no segmento posterior do LSD. Faixas atelectásicas difusas no LID. Aumento do volume cardíaco.Neurológico: ECG 15, orientada, sem sedoanalgesia. Pupilas médias isofoto.
+Hemodinâmica: Compensada, sem DVA, PAM 72, Taquicardia sinusal ao scope, FC 138, segue sudoreica, pele fria e pegajosa, tec <2seg. AC BNF RR 2T SS. Recebendo solução bicarbonatada 125ml/h + 500ml SF 0,9% em aliquotas.
+Ventilatório: Eupneica em CNO2 2l/min, sat 95%, enfisema subcutaneo a direita sem aumento, dreno com secrecao serohematica oscilando, não borbulha. AP MV+ reduzido a esquerda.
+Renal: Oligoanurica desde as 08h. Aguardando balanço hidrico durante o dia. Função renal em piora, Cr 5,06 Ur 173.
+Metabolico: Aceitando alimentação e água. Sem registro de evacuacoes.
+Infeccioso: leucopenia, PCR 566, recebe ceftriaxona + azitromicina, aguarda hemoculturas.
+
+TRASNF AO HNR EM 11/11";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;12/18/2024 15:09:52;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;05/07/2024;;;67;Masculino;420420 Chapeco;;;septicemias;Paciente não internado;Óbito;Óbito;Paciente conduzido pelos Bombeiros por relato de rebaixamento de sensório hoje. Familiar relata que paciente já acordou referindo mal-estar, porém, após se alimentar, apresentou síncope e manteve-se confuso/desorientado.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7027;422160363;Sim;;;;;Sim;12/18/2024 15:29:13;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;26/10/2024;;;42;Masculino;420420 Chapeco;caxambu/sc;;septicemias;Paciente não internado;Óbito;Óbito;Paciente encaminhado de Caxambu com lesão extensa em perna E, com bordas necróticas, de longa data, mas com evolução recente de dor intensa e edema de MIE. Apresenta lesão em face lateral da perna E com sinais flogísticos que se estende até pé E, com presença de secreção purulenta. Hoje iniciou com náuseas, vômitos e febre referida. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8115;422184970;Sim;;;;;Sim;12/18/2024 15:43:21;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;secreção antebraço esquerdo;11/11/2024;;;40;Masculino;420420 Chapeco;;;Suspeita de sindrome compartimental;Paciente não internado;Óbito;Óbito;"Paciente com trauma em MSE há 2 dias.
+Realizou radiografias hoje mais cedo, sem fraturas
+Apresenta edema importante do membro, com dor intensa e tensão aumentada";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;12/23/2024 11:05:20;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;16/12/2024;;;34;Masculino;420910 Joinville;;Joinville;Fournier;Setor de internação;Mantém internação;Alta hospitalar;"Diagnóstico de admissão :  fournier 
+  Diagnóstico infeccioso :  sdr fournier por Streptococcus pyogenes 
+d5 de meropenem, com boa evolução 
+  Infecção do sítio cirúrgico :  Sim 
+ 
+  Antibiótico prescrito   
+ 
+  Carbapênico :  Sim 
+  Plano :  Adequar ATB ao resultado das culturas 
+  Orientações :  conforme cultura e antibiograma, troco meropenem por unasyn  
+em camara hiperbarica 
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;12/26/2024 14:46:47;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;17/12/2024;;;46;Feminino;421800 Tijucas;;Florianópolis;Sepse foco cutâneo ;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"HDA 17/12: Paciente vem com relato de que há 7 dias, após treino de crossfit, iniciou com dor em região medial e posterior de coxa E, com piora progressiva, e evolução há 2 dias com oliguria, episódios de incontinencia urinária, disúria, associado a prostração, sudorese, pele pegajosa e calafrios, sem aferição de temperatura. Relata náuseas e 1 episódio êmese hoje, última evacuação há 2 dias, sem alterações. Relata ter feito uso de AINES há 5 dias, conforme prescrição. Corrimento vaginal hialino, sem odor ou prurido, há cerca de 15 dias, fazendo uso de miconazol tópico. Relata aplicação de vitamina B12 IM em região glútea há 9 dias. 
+À admissão UTI: paciente acordada, comunicativa, ECG 15. Desidratada ( 3/4+). Normotensa. Scope TS -FC 126 bpm. Afebril. Recebe ATbterapia. Dieta VO. HGT 107. Diurese concentrada em SVD. 
+
+Comorbidades e Diagnósticos: 
+Comorbidades: Nega 
+Hx de cirurgias: correção de cistocele em 05/24 com colocação de tela - sling? 
+MEU: Anticoncepcional (Qlaira)
+Alergias: nega 
+
+Lista de problemas: -
+
+Exames Complementares: 
+TC de MIE 17/12: Extensa densificação do tecido subcutâneo da face anterior e medial da coxa, sem coleção orgaizada no presente estudo (Celulite). Planos musculares preservados. Estruturas ósteo-articulares preservados.
+TC de abdome 18/12 - sem contraste: Sinais de gás no sistema porta que deve estra relacionado a sepses sistêmica. Densificação da gordura pélvica associado a aumento do volume do músculo obturador interno à esquerda, devido a coleção no seu interior medindo 37 x 21 mm, sendo melhor identificado neste exame da pelve completa. Nota-se um pouco de derrame articular coxo-femoral.  
+TC DE COXA 18/12: Extensa densificação do tecido subcutâneo da face anterior e medial da coxa, sem coleção orgaizada no presente estudo ( Celulite). Planos musculares preservados. Estruturas ósteo-articulares preservados. Pequeno derrame articular coxo-femoral esquerda.
+TC DE PELVE 18/12: Sinais de gás no sistema porta que deve estra relacionado a sepses sistêmica. Densificação da gordura pélvica asociado a auemnto do volume do músculo obturador interno à esquerda , devido a coleção no seu interior  medindo 37 x 21 mm, sendo melhor identificado neste exame da pelve completa. Nota-se um pouco de derrame articular coxo-femoral.
+TC ABDOME/PELVE /COXA ESQUERDA (com contraste) 18/12: Persiste a densificação da gordura da gordura pérlvica à esquerda, com um pouco de líquido livre,   assim como do tecido subcutâneo da parede pélvica anterior estendendo-se para a face anterior  medial da coxa. Após a administração do meio de contraste identificamos que não há coleções na cavidade pélvica ou na parede da região inguinal esquerda.
+Identifica-se uma coleção no ventre do músculo obturador interno, medindo 47 x 56 x 28 mm ( Volume de 40 ml).Sem condições de acesso percuâneo, necessita de anestesia geral. Mínimo derrame articular. Não há sinais de trombose venosa.
+TC de coxa, tórax e pelve 19/12: Não há alterações significativas em relação aos exames de controle, e embora se identifique um aumento da spartes moles conforme anunciado pela indicação clinica, não há sinais de identificação de focos gasosos nestes locais.
+TC de coxa s/c 22/12: Aumento volumétrico com heterogeneidade e áreas liquefeitas no adutor magno esquerdo, extensivas ao obturador interno e externo deste lado, sugestivo de abscesso intramuscular. Infiltração líquida da pele e subcutâneo da coxa esquerda. Estrutura e densidade óssea de aspectos normais. Pequeno derrame articular no joelho.
+TC abdome s/c 22/12: Aumento volumétrico com heterogeneidade e áreas liquefeitas no obturador interno e externo esquerdos, sugestivo de abscesso intramuscular. Pequena quantidade de líquido livre nos recessos peritoneais inferiores. Infiltração líquida difusa do tecido celular subcutâneo, indicativo de má distribuição hídrica. Derrame pleural bilateral. Consolidaçõs nas bases pulmonares.
+
+Avaliações Especializadas: 
+- CG 18/12: Coleção de pequena monta, sem indicação de laparotomia de urgencia. Se aumento de coleção, sugerimos discutir caso com radiologia intervencionista para punção
+Manter antibioticoterapia. Sugerimos oxacilina devido possivel disseminação hematogenica e provavel etiologia sendo S.aureus
+- Nefrologia 18/12: - Em acompanhamento
+- Ginecologia 18/12: Visto não haver certeza se tela de sling seria foco infeccioso, abscesso pequeno e acesso cirúrgico difícil, optam por observar resposta ao ATB. Abscesso por ser pequeno pode responder à ATBterapia. Cirurgia para correção de tela de sling de forma eletiva - encaminhar para o serviço do HRSJ na alta. Se piora clínica, acionar novamente equipe para reavaliação de condutas.
+- Infecto 18/12 (após TC): Demonstrando consolidação pulmonar - Ceftriaxona 2g 1x/dia; Clindamicina 600mg 6/6h ; Vancomicina 12/12h
+- Ortopedia 19/12: Sem indicação de abordagem cirurgica pela ortopedia.
+- Gineco/Obstetricia 24/12: Na avaliação ginecológica não se observa a  presença de sling como fator causal da infecção muscular sendo a  provável porta de entrada a realização de injeção intramuscular. Além disso, não indicamos o tratamento cirúrgico ginecológico (vaginal ou abdominal) como opção terapêutica no presente momento.
+
+ATBterapia e Culturas: 
+- Ceftriaxona + clindamicina 18/12 > dose única, escalonado para Pipe/tazo 18/12 madrugada -> Suspenso
+- Daptomicina D1 18/12 - Suspenso
+- Ceftriaxona + Clindamicina + teicoplanina: 18/12 ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8648;422200906;Sim;;;;;Sim;12/30/2024 8:02:13;;;2411393 Hospital Regional São Paulo;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;14/12/2024;;;39;Masculino;421950 Xanxere;;;STREPTOCOCCUS;Urgência e Emergência;Óbito;Óbito;"PACIENTE VEM NO DIA 14/12 REFERINDO DORSALGIA, FEBRE E TOSSE PRODUTIVA, APRESENTANDO TAMBÉM TAQUICARDIA SINUSAL. PACIENTE PASSA POR ATENDIMENTO MÉDICO E LOGO EVOLUI REPENTINAMENTE COM HIPOTENSÃO SEVERA, TAQUIPNÉIA E CIANOSE COM NECESSIDADE DE INTUBAÇÃO OROTRAQUEAL. PACIENTE FOI TRANSFERIDO PARA UNIMED CHAPECO PARA SUPORTE DE UTI.
+MATERIAL COLETADO E ANALISADO EM NOSSO LABORATÓRIO INTERNO APRESENTOU CRESCIMENTO DE STREPTOCOCCUS NÃO IDENTIFICADO, E ENTÃO ENVIAMOS AO LACEN PARA ANÁLISE COMO SUSPEITA DE PYOGENES DEVIDO EVOLUÇÃO E ÓBITO.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7083;422162094;Sim;;;;;Sim;12/30/2024 10:52:09;;;Outra:;2302969 Instituto de Cardiologia de Santa Catarina;;;Sim;;;;;;;;;;;;;;;;;;Sangue;28/10/2024;;;84 anos;Masculino;420120 Antonio Carlos;;;Insf. cardiaca descompensada por infec foco cutâneo, Dermatite crônica em MMII evoluindo com celulite;Urgência e Emergência;Alta hospitalar;Alta hospitalar;Paciente interna dia 28/10 comqueixas de tremores generalizados, fraqueza e náusea com início hoje após o almoço. Nega sintomas infecciosos, febre. Nega dor torácica, palpitações. Queixa também de dor em MID com início segunda feira, associada a edema. Apresenta Dermatite crônica em MMII evoluindo com celulite. Coletado culturas. dia 31 com os registros de: Quadro infeccioso com melhora clínica + piora laboratorial recente (creat/ureia + PCR + hemograma em platô), optado por manter linezolida no dia anterior, após discussão com infectologia. Manter linezolida até TSA de hemocultura. Dia 01/11 associado clindamicina conforme orientaçao da infecto. recebeu alta dia 13/11;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;72;422206433;Sim;;;;;Sim;1/6/2025 13:45:07;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;27/12/2024;;;10;Masculino;421190 Palhoca;;;MENINGITE;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;"
+Paciente com história de tratamento para OMA entre 10 e 21/12 Amox clav 54mg/kg/dia. Em 25/12 reiniciou com otalgia e zumbido, febre (até 39 graus) e vomitos (3 episódios). Refere vomitos com raias de sangue em pequena quantidade no início, e 1 episódio de vomito com sangue vermelho vivo na entrada do hospital. Baixa aceitação alimentar e hídrica. Realizada FR 20ml/kg e Ceftriaxona. Verificada regidez de nuca. Iniciado Ceftriaxona e Vancomicina e realizada TC de crânio. Transferido aos cuidados da UTI, onde permaneceu por três dias. Realizou EDA devido à hematêmese, com resultado normal, sem novos episódios. Apresentou melhora clínica evolutiva, e recebeu alta da UTI aos cuidados da equipe da neurologia para seguimento. Na efenrmaria, obsevada dificuldade autiva importante, inciada Dexametasona. Melhora nos sintomas, completou tratamento antimicrobiando, em condições de alta hospitalar. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;71;422206326;Sim;;;;;Sim;1/6/2025 14:11:41;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;01/01/2025;;;62;Masculino;420070 Alfredo Wagner;;Florianópolis;sepse de foco pulmonar;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;Transferido do Hospital de Alfredo Wagner por dor em epigástrica associado a náuseas, dispneia de +/-48 hrs de evolução. Evoluiu para insuficiência respiratória tendo sido procedido a intubação e posterior sedação, sendo necessário na sequência a introdução de DVA. Paciente com chegada as 17:20 de 31/12/2024 no HU, aos cuidados da clinica médica, que aciona equipe da vascular as 23:58 de 31/12/2024, para avaliar tomografia. Paciente além de séptico apresenta ulcera penetrante de aorta, com hematoma  - indicado cirurgia de emergência. Não possui familiares presentes para esclarecimentos. Deu entrada na UTI no POI.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/9/2025 15:59:42;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Não;;;;Sim;Não;Sim;Sim;Sim;Não;Sim;Sim;Não;Não;;;;aspirado de lesão ;03/01/2025;;;42;Masculino;421190 Palhoca;;;Choque séptico foco cutâneo provável;Unidade de Terapia Intensiva;Óbito;Óbito;" REANIMAÇÃO GERAL
+
+HDA: Paciente trazido pelo SAMU básica sem contato com relato de mal-estar, confusão mental, dislalia, extremamente livedado, PA inaudível na cena. Dá entrada na reanimação em PCR, em AESP, iniciada RCP com RCE em 1º ciclo. Realizada IOT e iniciado DVA em periférico, em ascensão. Recebeu~150mEq bicarbonato intra-PCR + 1000ml RL pós-PCR.
+Tem relato de atendimento no início da última noite na porta devido dor e edema em MID, realizou LAB porém optou por não aguardar resultado de exames e evadiu há cerca de 4h da admissão em PCR. 
+Também há descrição de atendimento na porta há 2 dias com queixa de febre, vômitos e fezes amolecidas, referindo contato prévio com filho internado em hospital por meningite - sic
+Comorb: ?
+MUC: ?
+Alergias: ?
+
+No momento:
+RASS-5, pupilas médias pouco reagentes, analgosedação PPF + FNT
+Hemodinamica instavel, NoraC 200mlh + Vaso 12mlh, PAM 40, FC 88, livedo central, extremamente mal perfundido, Lactato 19.8
+Em VM VCV assiste alguns ciclos, VC 440 PEEP 6  FiO2 100% FR 22, Sat 95 (GA), AP simetrica bilateral
+Disfunção renal. sem débito em SVD, HiperK e HiperMg, acidose mista grave, recebeu 250 ml bicarbonato puro, recebendo solução bicarbonatada
+Afebril, leucocitose 21 mil, DE importante, PCR 190, recebeu Ceftriaxona + Clindamicina
+
+Exames complementares:
+Lab 03/01: Hb 17.8  Ht 54  Leuco 7860 Mielo 2% Meta 6% Bastoes 20% Segm 5030 Linfo 314  Plaq 151.000  D-Dimero 2280  Ur 133  Cr 4.57  TAP 13.4  RNI 1.47  TTPA 30.9  
+Lab 03/01: Hb 13,8  Ht 44,7  Plaq 157.000  Glicemia 154  Ur 146  Cr 5.45  Na 137  K 6.7  CK 7635  BT 2.67 BD 1.84 BI 0.83  TGO 634  TGP 268  GGT 27  FA 55  Mg 5.8  Ca ion 4.9  PCR 190  GA: pH 6.8 pCO2 49.9 pO2 134.5 HCO3 8.1 BE-26.3  Sat 95.4  Lactato 19.8
+
+Avaliação: 
+1. Pós PCR por provável acidose
+2. Choque séptico foco cutâneo provável
+     -Dor e edema MID, DE importante, PCR elevada, relato de febre
+     -Foco SNC? Relato de contato domiciliar de paciente com meningite bacteriana
+3. Disfunção renal com hiperK e hiperMg
+     -Cr 5.45, K 6.7, Mg 5.8
+4. Rabdominólise provável
+      -CPK 7635 na admissao
+5. Acidose mista grave 
+      -pH 6.8 pCO2 49.9  HCO3 8.1 em GA pos IOT
+6. Paciente gravíssimo, prognóstico sombrio
+
+Conduta: 
+Realizo punção lombar, seguindo passos de assepsia e de antissepsia. Punção única, sem
+sangramento, líquido ligeiramente turvo, de bom fluxo. Procedimento sem intercorrência. HGT 126. 
+Solicito análise de líquor, urgencio.
+Solicito labs controle.
+Mantenho reposição Bica.
+Medidas HiperK.
+Aguarda culturas.
+Ponderado TC de MID + AngioTC de torax, mas mantém sem condições hemodinamicas.
+Conversamos com esposa do paciente, Mariana, sobre prognóstico e gravidade, realizamos acolhimento e sanção de dúvidas conforme protocolo SPIKE de comunicação de más notícias.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/10/2025 9:02:05;;;2558246 Hospital Santa Isabel;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;03/01/2025;;;33 anos;Masculino;420240 Blumenau;;;Icterícia;Setor de internação;Setor de internação;;"Iniciou hoje com odinofagia intensa à E e edema e dor em MSD sem associação com trauma. Nega febre. nega outras queixas.  
+Questiono paciente sobre quadro clinico. Refere que que há 20 dias passou pelo Mato Grosso em viagem a trabalho. Caminhoneiro. Nega febre, diarreia ou demais queixas ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/23/2025 10:18:36;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Líquor;20/01/2025;;;51;Masculino;420420 Chapeco;;;MENINGITE;Urgência e Emergência;Alta hospitalar;Alta hospitalar; Paciente com quadro de febre e nodulações em cervical de início ontem, evoluindo com cefaleia intensa occipital do tipo pulsátil, irradiada por todo trajeto de coluna até MID hoje. Nega vômitos. Nega queixas respiratórias. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;2/4/2025 13:36:35;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/01/2025;;;41;Feminino;421660 Sao Jose;;Florianópolis;Erisipela boblosa;Setor de internação;Mantém internação;Alta hospitalar;"Paciente com HMP de cirrose hepática. Relata que há 5 dias iniciou com vômitos esverdeados sem sangue, náuseas, febre aferida máxima de 39ºC, dor abdominal, diarreia pastosa com sangue, artralgia e mialgia. Há 2 dias evoluiu com edema em MMII, associado a hiperemia, calor e lesões com secreção amarela. Nega desmaio, tosse ou outros sinais e sintomas. Etilismo ativo, ingeriu bebida alcoólica hoje. Refere pouca ingesta alimentar. Tem contato frequente com água de enchentes devido a situação de rua. Sem demais queixas. 
+Na internação apresenta no exame físico: MMII: Edema bilateral até o joelho, cacifo em MID +/4 e MIE ++/4. Presença de escoriações difusas, presença de manchas eritematosas difusas com predomínio em MIE. Presença de lesão bolhosa 5-6cm com saída de secreção aquosa amarelada em parte posterior de MIE. Pulsos pediosos presentes.  ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;2/5/2025 11:35:56;;;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;30/01/2025;;;21;Feminino;420740 Imbuia;;Florianópolis;Osteossarcoma fêmur esquerdo EC IB -- atual IV (recidiva em sacroilíaca esquerda);Paciente não internado;Paciente não internado;Alta hospitalar;Paciente internou por febre me casa e neutropenia. Refere odinofagia.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;2/6/2025 11:38:49;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;Não;;;;Não;;;;;;;;;;Não;;;secreção de ferida MSE;04/02/2025;;;25;Feminino;420540 Florianopolis;;;Erisipela Bolhosa;Setor de internação;Alta hospitalar;Não se aplica; Iniciou há 4 dias com flictena, que evoluiu com edema e formação de lesões bolhosas, que romperam espontaneamente, com saída de líquido translúcido, sem cheiro em MSE. Tem dor local, com piora importante desde ontem. Notou também aumento de calor no MSE. Procurou a UPA norte ontem, no qual foi prescrito ATB (Ceftriaxona) e orientado retorno se piora dos sintomas. Teve 3 episódios de febre (38,5°C),;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;2/6/2025 14:23:41;;;Outra:;2537397 Hospital Unimed Chapecó;;;Sim;;;;;;;;;;;;;;;;;;Abcesso;23/01/2025;;;59;Masculino;420420 Chapeco;;;Abcesso ;Setor de internação;Alta hospitalar;Não se aplica;Refere desconforto anal e sangramento pós evacuatória há 05 dias;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;1329;422243399;Sim;;;;;Sim;2/20/2025 17:24:25;;;Outra:;5504775 Hospital Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;17/02/2025;;;26;Feminino;420820 Itajai;;Itajaí;Confirmada;Setor de internação;Mantém internação;Alta hospitalar;FEBRE /DOR NO TORAX/ DOR DE GARGANTA/ INAPETENTE;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;1560;422248958;Sim;;;;;Sim;2/26/2025 17:10:53;;;Outra:;6680305 Hospital Baia Sul;;;Sim;;;;;;;;;;;;;;;;;;Sangue;22/02/2025;;;73;Masculino;420120 Antonio Carlos;;Florianopolis;Streptococcus pyogenes;Unidade de Terapia Intensiva;Mantém internação;Óbito;Vem com queixa de cervicalgia axial com irradiação para a base do cranio há 3 dias, com piora há 1 dia. Paciente relata que tem edema cronico em mmii por alterações vasculares que costuma melhorar com uso de meias elasticas e diureticos, porem ontem fez uso de 2 furosemidas e meia elastica, sem melhora. Relata que mesmo com uso de diureticos, conseguiu urinar apenas quantidade diminuta e turva/ com sangue. Comorbidades: HAS hiperuricemia. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;3/11/2025 11:55:20;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de lesão na perna esquerda, coletada cirurgicamente.;13/02/2025;;;11 anos;Masculino;421620 Sao Francisco do Sul;;;Abscesso na perna esquerda;Urgência e Emergência;Alta hospitalar;Alta hospitalar;Paciente admitido no pronto socorro dia 12/02/25 com queixas de contusão fechada na perna esquerda durante partida de futebol há 03 dias. Após 02 dias iniciou com dor, calor edema e eritema no local com febre associada. Ultrassonografia com coleção líquida e necessidade de intervenção cirúrgica. Realizado debridamento cirúrgico de tecidos moles desvitalizados e drenagem de secreção purulenta e esverdeada + implante de dreno penrose. Recebeu alta após tratamento com oxacilina endovenosa por 10 dias. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;3/18/2025 9:46:12;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;04/03/2025;;;2;Feminino;420910 Joinville;;;Síndrome Nefrótica;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;Paciente internou dia 03/03 para tratamento de síndrome nefrótica. Apresentava queixas de febre intermitente há uma semana, inapetência, queda do estado geral e redução da diurese.  Realizou tratamento com ceftriaxona e albendazol. Recebeu alta dia 09/03 e está em acompanhamento no ambulatório da nefrologia.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;3/24/2025 9:41:07;;;Outra:;2744937 Hospital Infantil Pequeno Anjo;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida;18/03/2025;;;10 anos;Masculino;420710 Ilhota;;;Dermatite atópica grave/Infecção secundária (Impetiginização);Setor de internação;Alta hospitalar;Não se aplica;Iniciou há 2 dias (16/03) com aumento das lesões e prurido, evoluiu hoje (18/03) pela manhã com secreção purulenta em região de fronte e em fossa poplítea bilateralmente.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;3/27/2025 9:56:15;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;26/03/2025;;;76;Feminino;420910 Joinville;;;sepse de foco urinario ;Paciente não internado;Óbito;Óbito;" # nov/24 - Angioplastia artéria renal (rim único) 
+# Jul/24 - Internação por sepse foco urinário com insuficiência renal aguda 
+Hipertensão Arterial; Depressão; Dislipidemia; Uso de anticoagulantes (longo prazo e atual); Insuficiência Coronariana; Insuficiência renal crônica;  
+# cirurgia revascularização miocárdica 
+  HISTÓRIA CLÍNICA DE ADMISSÃO :  # Sepse de foco A/E 
+# Em avaliação inicial suspeita de ITU por quadros prévios - entapetem; # USG vias urinarias - neuropatia crônica e cisto renal simples à direita 
+ Recebo paciente proveniente do PS, internação por sepse de foco A/E, em primeiro momento suspeita de foco urinário, realizado USG, sem sinais de pielonefrite. 
+Chega sonolenta mas respondendo a comandos, sinais de má perfusão 
+ AVALIAÇÃO APARELHOS E SISTEMAS   
+  Neurológico :  Respondendo a comandos de forma lenificada 
+  Cardiovascular :  Ritmo sinusal ao scope, instável hemodinamicamente, sem DVA. 
+Extremidades frias, tec 5s 
+  Respiratório :  MV+, bilateral, s/ra. Bom padrão respiratório. 
+Gasoa 7,32/78/21/42/-4,3/94%;  
+  Gastrointestinal :  RHA+, flácido 
+  Metabólico/Endócrino/Renal :  Diurese em SVD; Crea 2,6;  
+  Infecção :  Afebril; Leuco 4140; M1%: B7%;  
+  Nutricional :  NPO 
+  Hematológico :  Hb 10,4; Ht 30,9; plaq 88000; 
+ ANÁLISE :  Sepse de foco A/E - má perfusão, hiperlactatemia, IRA";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;4/1/2025 7:11:03;;;Outra:;0019402 Imperial Hospital de Caridade ;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/03/2025;;;89;Feminino;420540 Florianopolis;;;Streptococcus pyogenes;Unidade de Terapia Intensiva;Óbito;Óbito;Refere que paciente teve broncoaspiração ha 1 mes necessitando de IOT, tendo internação prolongada na UTI do SOS cardio. Data dos primeiros sintomas 28/03/2025.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;4/2/2025 16:39:14;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;29/03/2025;;;66;Masculino;420420 Chapeco;;Chapecó;A419 - Septicemia não especificada;Unidade de Terapia Intensiva;Mantém internação;Óbito;"Paciente admitido após transferência via SAMU, proveniente de UPA. Na admissão, paciente apresenta hipotensão e hipoperfusão. Conforme relato de acompanhante, paciente apresentou-se com febre mão aferida, calafrios, oligúria, inapetência e fraqueza, e dor abdominal com início à cerca de 20 dias. Refere quadro de constipação há cerca de 5 dias. Diurese preservada, porém reduzida. Nega uso de medicação sintomática. 
+Recebeu medicação analgésica hoje às 11h segundo acompanhante. Nega uso de ATB recente.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;4/9/2025 11:55:15;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/03/2025;;;11;Masculino;420370 Canelinha;;Florianópolis;CELULITE EM PÉ ESQUERDO;Setor de internação;Mantém internação;Alta hospitalar;"No dia 31/03/2025 paciente deu entrada na emergência do HIJG com relato de que na semana anterior esteve resfriado e apresentou febricula, no dia 30/03/2025 iniciou com dor no pé esquerdo, aumento dos episódios de febre, com picos de febre de 40ºc, com dificuldade para apoiar o pé esquerdo no chão, edema importante, apresenta hiperemia em pé esquerdo e tornozelo, iniciou cefazolina no dia 01/04/2025 até 03/04/2025. Iniciou penicilina cristalina no dia 03/04/2025.  
+No dia 31/03/2025 realizado exame no laboratório interno do HIJG, no dia 03/04/2025 resultado positivo para Streptococcus pyogenes (Strep. grupo A), no dia 08/04/2025 encaminhado repique da cepa ao LACEN.
+No momento paciente segue internado em unidade de internação, sem febre, com melhora da dor,edema e hiperemia.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;5/12/2025 10:21:35;;;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Sangue;05/05/2025;;;73 anos;Feminino;421660 Sao Jose;;;Carcinoma de endométrio doença M1 - TVP em MIE. ;Setor de internação;Óbito;Óbito;"TRAZIDA PELO SAMU SEM AVISO PREVIO em 05/05/2025.
+​Relata que mãe foi encontrada ao chão hoje, com queda doestado geral.
+Há uma semana dor em MIE.
+​Não realiza tratamento medicamentoso conforme prescrição a domicilio.
+Análise: Carcinoma de endométrio doença M1 / SEPSE CUTANEA?";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;5/15/2025 14:22:17;;;2537788 Hospital Regional do Oeste;;;;Não;Pneumonia clinicamente determinada;;;;;;;;;;;;;;;;;Líquor;13/05/2025;;;08;Masculino;420420 Chapeco;;;meningite ou  encefalite;Urgência e Emergência;Óbito;Óbito;PACIENTE VEM DO HOSPITAL DA CRIANÇA COM RELATO DE AGITAÇÃO PSICOMOTORA + SONOLENCIA + DESCONECTADO COM O MEIO + RELATO DE CEFALEIA + VÔMITOS HÁ 1 DIA. PROCUROU A UPA ONTEM E PRESCRITO AZITROMICINA. com queixa de sintomas gripais e cefaleia há 5 dias, evoluindo com alteração de comportamento, RNC e confusão mental hoje.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;5/23/2025 13:10:20;;;2664879 Hospital Nereu Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;15/05/2025;;;37;Feminino;420240 Blumenau;;;CEC de colo uterino EC IIIC/IV (suspeita de invasão de bexiga);Urgência e Emergência;Óbito;Óbito;" Antecedentes:
+#CEC de colo uterino EC IIIC/IV (suspeita de invasão de bexiga)
+- QTRT C1 06/09/21 a 22/10/21 
+- Braquiterapia na Corb de 04/11/21 a 22/11/21
+- Dez/23 - recidiva em região paravertebral
+- QT de 1a linha: Carbo-Taxol C1 09/02/24 
+- Pembrolizumabe C1 20/06/24
+- Out/24 - PD local
+- QT de 2a linha: Gencitabina C1 15/01/25 
+
+Paciente trazida pelo SAMU, no momento queixa-se de mialgia difusa, principalmente em quadril. Deu entrada com HGT de 22, familiar relata que há alguns dias não está alimentando-se devido inapetência, realizado 4 ampolas de glicose, novo HGT após 20 min, 110. No momento queixa-se de Edema em Lado Direito de Corpo (mão;pé;pernas) e oligúria.
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/9/2025 15:44:10;;;Outra:;Hospsital baia sul filial;;;Não;Não;;;;Não;;;;;;;;;;Sim;;;Sangue;05/06/2025;;;52 anos;Masculino;420540 Florianopolis;;;.;Unidade de Terapia Intensiva;Óbito;Óbito;"Lista de problemas
+02/06 - IAMCSST antero lateral 
+02/06 - PO ATC Primária em ACD + ADA 
+02/06 - Trauma passagem SVD 
+02/06 - Febre sem estigmas infecciosos
+
+Paciente evoluiu com parada cardiaca em assistolia na porta da hemodinamica, sendo realizada reanimação cardio-pulmonar 13 ciclos com adrenalina; e um episódio de defibrilação com 300J por FV, retornando a assistolia, sem sucesso. Atestado óbito às 07:35hs.  do dia 07/06/2025";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/12/2025 7:37:37;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Escarro, Fragmento de tecido profundo, Fragmento ósseo, Líquor, Líquido peritoneal, Líquido pleural, Líquido sinovial, Lavado broncoalveolar, Sangue, Secreção de ferida operatória, Secreção traqueal;12/06/2025;;;28;Masculino;420420 Chapeco;;Chapecó;streptococcus pyogenes;Setor de internação;Mantém internação;Alta hospitalar;Paciente relata quadro de edema, hiperemia e rubor iniciado ontem em joelho esquerdo, após ouvir leve estalido na região. Compareceu em UPA hoje à tarde, tendo sido submetido a drenagem de possível abscesso na região, mas relata que médico informou que não havia secreção para ser drenada. Relata ainda quadro de sensação febril.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/17/2025 9:20:04;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Não;;;;Sim;Sim;Não;Sim;Sim;Sim;Sim;Sim;Não;Não;;;;Sangue, hemocultura;11/06/2025;;;45;Feminino;420540 Florianopolis;;Florianópolis;Choque séptico de foco cutâneo: > Celulite pré-septal OE ;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;" REANIMAÇÃO - EVOLUÇÃO MATUTINO
+
+Comorbidades: HIV com tratamento irregular, depressão, neoplasia de ovário em 2022 (realizou 9 sessoes de quimioterapia), osteossarcoma (?) em 2° quirodactilo esquerdo em NOV/24 com tratamento quimioterapico no CEPON em novembro e dezembro de 2024
+Comorbidades oftalmológicas: DR prévio em OE há 2 anos (optou por não operar)
+Alergias: nega
+Medicações de uso contínuo: Atazanavir (300mg); Tenofovir+Lamivudina (300mg+300mg); Ritonavir (100mg); sertralina 100 mg x/dia
+HDA: Paciente refere que, há 3 dias, iniciou com lesão em pálpebra superior de olho esquerdo, com edema peripapebral associado. Apresentou piora progressiva procurando atendimento na UPA onde prescreveram tobramicina com dexametasona, sem melhora. Retorna hoje para reavaliar. Mantém dor intensa no local, não consegue abrir o olho, não aferiu temperatura mas apresentou sensação febril. 
+Sem trauma local. 
+Admissão reanimação: Sou chamado para avaliar paciente no andar devido dessaturação, na ocasião, paciente taquipneica, máscara de O2 10L/min saturando 92%, hipertensa 190x100mmhg, na AP creptantes bilaterais, com impressão de EAP - realizado 60mg furosemida. Admitida na reanimação lúcida e orientada, GCS 15, FR 40irpm, FC 100bpm, em máscara com reservatório 10L/min saturando 92%, hipertensa. Alocada e monitorizada em leito, realizao + 80mg furosemida com diurese abundante, iniciado tridil 15ml/h e colocada em VNI. Durante ventilação não invasiva, desmame progressivo e total de tridil. EAP sem resposta ao tridil e VNI > necessidade de TOT em contexto de refratariedade, droga de indução com cetamina e succilnicolina, tubo 7, manutenção com propo e fentanil, necessidade de conciliar midazolam devido assincronia na ventilação. VMCV 420ML, FiO2 100%, FR  20, peep 5, presença de sangue em tubo, necessidade de aspiração.
+--------------------------------------------------------------------------------------------------------------------
+Exames complementares:
+24/04/2025: CV 116.000 | CD4 142
+Labs 17/06: Hb 10,5 / Ht 31,7 / Leuco 9.110 - 11% de bastões / Plaq 51.000 / BNP 1109 / TropoUS 295 / Ureia 142 / Creat 3,4 / Na 142 / K 3,8 / BT 1,07 BD 0,65 BI 0,42 / Magn 2,3 / Gaso venosa pH 7,12 pCO2 58,7 pO2 75,1 HCO3 19 CO2 total 20,8 BE -10,3 SatO2 89,8 / Lactato 1,2 / Gaso arterial pH 7,07 pCO2 73 pO2 60,9 HCO3 21 CO2 total 23,3 BE -10,8 SatO2 80
+TC crânio e órbitas (11/06): Parênquima cerebral com morfologia e coeficientes de atenuação preservados. Tronco cerebral e cerebelo sem alterações. Cisternas basais, fissuras e sulcos cerebrais e cerebelares conservados. Sistema ventricular de configuração e topografia habituais. Ausência de coleções ou sinais de sangramento recente intra ou extra-axial. Estruturas da linha média centradas. Não há realces anômalos após a administração do meio de contraste. Calota craniana íntegra. Edema periorbital difuso com realce pós-contraste, mas sem coleção, caracterizando celulite periorbitária. Globos oculares de forma, contornos, dimensões e topografia usuais. Cristalinos anatômicos. Nervo óptico anatômico. Musculatura extrínseca normal. Espaços intraconais conservados. Estruturas ósseas sem alterações.
+USG OE (11/06): DR em funil aberto.
+Dispositivos:
+11/06 - CVC Femoral direita / SVD / AVP
+Antibióticos:
+Ceftriaxona - 11/06 - 12/06
+Oxacilina 11/06 - 12/06
+Vancomicina - 12/06 - 13/06
+Daptomicina 12/06 - 16/06
+Bactrim 12/06 - atual
+Clindamicina 14/06 - atual
+Penicilina G 16/06 - Atual
+
+Culturas:
+HMC 11/06: Streptococcos pyogenes (Aguarda TSA)
+----------------------------------------------------------------------------------------------------------------------
+
+No momento:
+Neurologico: RASS -5 em sedoanalgesia com Propofol 20ml/h, Cetamina 10ml/h, Fentanil 10ml/h e Midazolam 20ml/h, pupilas isomióticas fotorreagentes
+Hemodinâmica: estável com NoraC 4ml/h (0,05mcg/kg/min), PA 90/54mmHg (PAM 66), FC 83bpm, TEC ~4s, ritmo sinusal ao scope, Lactato 1,2. AC: RCR, 2T, bulhas hipofonéticas, SS.
+Ventilatório: em VM, bem acoplada, sincrônica, VCV 460ml, FiO2 75%, FR 26, PEEP 8, mantendo SatO2 98%. AP: MV+ bilateralmente, estertores difusos, sibilos em ápices.
+Renal: diurese clara em SVD, disfunção renal em platô, CKD-EPI 16, balanço hídrico positivo
+
+Renal: Leão renal em aparente plato. Relação Ur/Cr mantem-se alta, sugerindo provavel componente pré renal, além de componente septico
+Metabolico: Normoglicemica. Sem disturbios hidroeletrlotiticos
+Nutricional: Dieta VO com boa aceitação. Ausencia de evacuação, porém apresentou ao menos 2 episódios de evacuação duante permanência da UTI
+Infeccioso: Afebril, em uso de bactrim +Penicilina + clindamicina. Leucopenia mantida, além de plaquetopenai. Discutido com infectologia, provavelmente relacionado ao choque toxico. 
+Hematológico: Hb/Ht estavel, sem sangramento exteriorados. Plaquetopenia mantida, em leve melhora
+
+Avaliação
+1. Choque séptico de foco cutâneo:
+> Celulite pré-septal OE 
+
+2. HIV em tratamento irregular:
+> CV 116.000 | CD4 142 - abr/2025
+> Plaquetopenia em piora, provavel componente misto, daptomicina e HIV com tratamento irregular
+
+3. Choque tóxico
+> Streptococcos pyogenes em hemocultura 
+> Disfunção renal + pancitopenia
+
+4. IRA ou ICR agudizada
+> Pré renal + Septico
+> Poliuria, resolvida
+
+Conduta:
+Solicito RX controle pós-TOT; Solicito TC tórax - quantidade significativa de sangue durante TOT sem trauma de VA (hemorragia alveolar?); Solicito laboratório admissão; Solicito leito de UTI via NIR; Vigilância respiratória";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/17/2025 9:35:06;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Secreção traqueal, secreção de abcesso cervical;09/06/2025;;;37;Feminino;421630 Sao Joao Batista;;;abcesso cervical ;Setor de internação;Alta hospitalar;Alta hospitalar;"Comorbidades: nega
+Muc: nega
+Alergias: nega
+
+HDA:
+Paciente relata início há 4 dias de odinofagia, tomou nimesulida, evoluiu com febre, íngua cervical a direita, há 3 dias recebeu Benzetacil em farmácia, mas ontem evoluiu com piora e buscou hospital. Também havia feito uso de Azitromicina por 2 dias. 
+Nega risco gestacional.
+Nega ter tido amigdalite este ano ou ano passado. 
+
+Exames Complementares:
+TC PESCOÇO 06/06: 
+Lesão expansiva heterogênea e lobulada, sem significativo realce pelo contraste, com aparência liquefeita, localizada entre os espaços submandibular e parotídeo esquerdos, medindo cerca de 4,7 x 2,7 x 2,7 cm (LxTxAP), podendo corresponder a degeneração necrótica de linfonodo ou abscesso cervical.
+Há infiltração líquida dos espaços submandibular, parotídeo, mastigatório e carotídeo esquerdos.
+Nota-se importante compressão com colapso parcial da veia jugular interna esquerda.
+Aumento volumétrico e infiltração líquida das glândulas submandibular e parótida esquerdas.
+Aumento volumétrico e infiltração líquida do esternocleidomastoideo esquerdo.
+Demais linfonodos cervicais levemente proeminentes.
+Laringe sem alterações ao método.
+Coluna aérea da rino e orofaringe centrada, com aspecto anatômico.
+Parótida e submadnibular direitas e tireoide, com dimensões normais, contornos regulares e realce homogêneo.
+
+TC PESCOÇO 09/06:
+Exame de controle evolutivo comparado com TC prévia de 06/06/2025.
+Observa-se maior definição da lesão expansiva heterogênea e lobulada com aparente conteúdo de densidade líquida homogênea (natureza cística?) com discreto realce parieral pós-contraste, medindo cerca de 4,7 x 2,9 x 2,9 cm, localizada entre os espaços submandibular e parotídeo esquerdos (nivel do ângulo da mandíbula), se insinuando entre as estruturas do espaço mastigatório e jugulo-carortídeo, neste último com trajeto fistuloso descendente até o nível da tireóide. Há, ainda, leve densificação do tecido adiposo adjacente assim com aumento do volume / edema das glândulas submamdibular e parotídea homolaterais e promovendo ainda efeito de massa com compressão e reduição do lume oro e hipofaringeo adjacenteme veia jugular interna correspondente. Abscesso cervical profundo com extensão desncendente e risco de mediastinite e compressão de via aérea deve ser considerado. Linfonodo necrosado, cisto congênito complicado com infecção ou lesão de outra natureza não pode ser totalmente descartado.
+Leve edema do TCSC da face lateral esquerda do pescoço e mandíbula.
+Pequenos linfonodos cervicais de aspecto reacional nos níveis II, III e IV esquerdos.
+Laringe sem alterações ao método.
+Parótida e submadnibular direitas e tireoide, com dimensões normais, contornos regulares e realce homogêneo.
+
+06/06: hb 13.5 / ht 40.4 / lt 29580 / plq 273.000 / ur 17/ cr 0.52 / na 137 / k 4.3 / tgo 55 / tgp 132 / pcr 224
+
+07/06: hb 11.8 / ht 35.4 / lt 27990 / plq 273.000 / pcr 229
+
+HbA1c: 4,9%
+
+Intercorrências nas últimas 24h: sem
+
+No momento:
+Paciente em leito de enfermaria, acompanhada de sua mãe, sem queixas. Ontem foi retirado o dreno de penrose pela cirurgia. Paciente com bom controle de dor com analgesia, apresenta melhora importante do edema, nega dispneia ou tosse. Boa aceitaçõa alimentar e ingesta hídrica vo adequada. Hábitos fisiológicos preservados, boa noite de sono.
+
+SSVV no período: estáveis
+
+Ao Exame:
+BEG, LOTE, CHAAAE, ECG 15, deambula, tec < 2 seg
+Melhora do edema cervical e dos sinais flogísticos retroauriculares.
+Oroscopia com diminuição do edema.
+Curativo seco, pontos em bom aspecto.
+AP: mv+ sem ruídos adventícios, paciente eupneica em AA, sem esforço respiratorio. Sat 99%
+AC: brnf 2t ss. FC 75.
+Abdome flacido rha+ indolor sem sinais de massas ou vcm, sem sinais de peritonite
+MMII: simétricos, sem edema, panturrilhas livres
+
+Avaliação:
+1. Abcesso peritonsilar
+- Drenado pela cx cabeça e pescoço em 09/06.
+
+Conduta:
+ALTA HOSPITALAR
+- Paciente estável, com melhora clínica e laboratorial, em condições de alta hospitalar e seguimento ambulatorial.
+- Forneço resumo de alta
+- Forneço receituário de PACO, amoxiclav por mais 10 dias para completar D14 de atbc.
+- Forneço cópia de exames
+- Forneço atestado médico correspondente aos dias de internação
+- Encaminho ao amb de desospitalização (Aguarda cultura do abcesso e resultado de sorologias) 
+- Oriento ao paciente e familiares a respeito de sinais de alarme, e retorno imediato
+- Equipe a disposição";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/24/2025 8:37:09;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Não;;;;Sim;Não;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;;;;secreção abcesso colhida em cc;18/06/2025;;;61;Feminino;421630 Sao Joao Batista;;Florianópolis;Choque septico de foco cutâneo;Unidade de Terapia Intensiva;Mantém internação;Óbito;"Mastoidite evoluindo obstrução de via aérea superior e choque séptico  Data: 16/06/25  Procedência: Reanimação cirúrgica
+Historia da admissão: Trazida pelo arcanjo do Hospital Monsenhor - São João Batista na tarde de hoje com quadro de edema facial rapidamente progressivo sem tempo de início exato, evoluindo com sinais iniciais de obstrução de via aérea superior, sendo optado por IOT para manutenção de via aérea. 
+Conforme relato por equipe aérea, apresenta quadro de infecção dentária complicada há cerca de dez dias e OMA, estando em uso de ATB oral, evoluindo na manhã de hoje com piora sintomática expressiva e edema periorbitário bilateral E>D. Havia iniciado uso de dipirona e nimesulida há um dia. Inicialmente, avaliada no PA da origem e considerada possibilidade de anafilaxia, recebendo: prometazina; hidrocortisona 500mg; dexametasona 10mg; ipratrópio; salbutamol; adrenalina IM 0,5mg 3x e adrenalina EV em BIC - refratária. Na chegada da equipe aérea, optado por IOT por sinais iniciais de obstrução de VAS. Realizada IOT em SRI (fentanil, etomidato e succinilcolina), CL2 com edema de base de língua e região periglótica, com sucesso em passagem de TOT Nº 7,5 em primeira tentativa.
+
+À admissão na reanimação: Recebo paciente em leito de reanimação clínica em IOT, ventilando por BVM, recebendo propofol em BIC 30ml/h por AVP (recebeu 1amp rocurônio para o transporte), estável hemodinamicamente com taquicardia sinusal leve em RS pelo scope, sem broncoespasmo, portando AVP Nº 18G em ambos MMSS. 
+Historia Pregressa: # Comorbidades: hipotireoidismo # Histórico de OMA recorrente e sinusite crônica # Med uso cont: levotiroxina # Alergia medicamentosa: nega  
+
+No momento:
+Neurologico: RASS -4, olho com vedaçao, necrose em palpebras, sem possibilidade de avaliar pupila
+Sedoanalgesia: PCDX 4
+Hemodinâmica: Estavel, sem DVA.
+Ventilatório: Em uso de VM pelo TOT, em suporte, bem acoplada e sem esforço respiratório, saturando 94%.
+Renal: Anurica. Em TRS. 
+Metabolico: Normoglicemico
+Nutricional: Dieta enteral
+Infeccioso: Afebril, em uso de clindamicina
+
+Ao exame: 
+RASS -4, olho com vedaçao, necrose em palpebras, sem possibilidade de avaliar pupila. Necrose em labio
+AP: MV+, nao ausculto RA
+AC: RR, 2T, BhF, nao ausculto sopros
+Abdome: Globoso, RH+, flacido, depressivel, ausencia de sinais de peritonismo 
+Extremidades: aquecidas, presença de edema de 2/4+ em MSIS e em MSSS
+
+Avaliação: 
+1. Choque Séptico de Foco Cutâneo
+        - OMA complicada à esquerda / mastoidite / rinossinusite bacteriana / celulite pré-septal bilateral. 
+        - Obstrução de VA superior por edema de partes moles evoluindo com IOT
+        - PCR em queda expressiva, afebril
+        - Plaquetopenia transinfecciosa provável, HIT possível
+
+2.  PO drenagem de abscesso + sinusectomia do seio maxilar esquerdo com irrigação abundante + exodontia e curetagem apical dos dentes 24 --> 17/06
+
+3. PCR em ritimo chocável inicialmente (17/06 - Pós abordagem em CC pela Bucomaxilo)
+
+4. Injúria Renal Aguda --> Secundária ao Choque Séptico
+        - eGFR estimado: 11.5 mL/min/1.73m²
+        - Iniciada HD em 19/06 > hoje bem tolerada, UF 3L
+
+5. Hipertrigliceridemia --> Evitar sedação com Propofol
+
+6. Lesões Necróticas em Pálpebras e Lábios
+- Secundárias a hipoperfusão em contexto de Choque Séptico?
+- Solicitado parecer à Cx Plástica e Oftalmologia --> Debridamento?
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/24/2025 9:28:40;;;Outra:;2537397 Hospital Unimed Chapecó;;;Não;Não;;;;Não;;;;;;;;;;Sim;;;Sangue;11/06/2025;;;38;Masculino;421210 Palmitos;;;Pneumonia ;Unidade de Terapia Intensiva;Óbito;Óbito;"Dia 05/06 refere que há 3 dias iniciou com quadro gripal com mialgia, cefaleia, coriza e tosse, evoluindo com leve dispnéia que se acentuou hoje pela manhã, quando apresentou vários episódios de hemoptise associado a tosse (escarro hemático). Refere episódios de calafrios e febre (não aferida).
+Chega ao PA da unimed com taquidispneia importante, esforço respiratório, cianose periférica e queixa de dor em importante em HD, com SpO2 70% em ar ambiente. 
+Hipotenso na chegada, melhorou com noradrenalina, agora 110/70 mmHg. Apresenta positividade para influenza A, evoluindo com piora clinica e necessidade IOT. Apresenta positividade de amostras coletadas dia 07/06 para strepto. Transferido para  UTI de Maravilha mantendo quadro grave com evolução de óbito. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;6/24/2025 9:40:17;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;secreção cotovelo;16/06/2025;;;47;Masculino;420230 Biguacu;;Florianopolis;BURSITE INFECCIOSA EM COTOVELO ESQUERDO ;Setor de internação;Mantém internação;Alta hospitalar;"Paciente vem à emergência por meios próprios, deambulando, refere queda de escada há 1 semana, altura média de 3 andares, não procurou atendimento na ocasião. Refere trauma direto de MSE com FCC e TCE. Após a queda manteve mobilidade de MSE, ontem iniciou com edema do mesmo, calor local e diminuição da ampltiude de movimento. Relata sensação febril ontem, temperatura não aferida.
+Nega dorsalgia, dispneia, dor abdominal ou pélvica.
+
+No CC 16/06/25 - Realizado desbridamento de cotovelo esquerdo / bursite infectada / materal enviado a cultura 
+
+-----------------------------------------------------------------------
+Hoje: paciente deitado em leito de enfermaria, com bom controle álgico. Nega febre.mantem quadro
+  
+ CC - 19/06/2025
+POI debridamento de cotovelo esquerdo + coleta de amostra para cultura
+Procedimento sem intercorrências
+Pulsos distais e enchimento capilar preservados em MSE
+
+23/06
+Data da coleta: 16/06/2025
+Material: Secreção cotovelo
+Identificação: Streptococcus pyogenes
+Contagem de colonias: Crescimento raro
+CLINDAMICINA CLI.....: S
+ERITROMICINA ERI.....: S
+LEVOFLOXACINO LEV.....: I
+PENICILINA G PEN.....: S
+VANCOMICINA VAN.....: S
+
+Ao exame:
+BEG 
+Curativo purulento, dreno de penrose supurando pus
+Mobilizando com dificuldade dedos mão E 
+Edema em mão E (1/4+) 
+NVD ok 
+
+Cd: 
+Mantenho plano; Prescrição médica; Orientações gerais; Paciente ciente e colaborativo; aguarda culturas; solicito parecer a psicologia para suporte a condição de ansiedade e preocupação excessiva que potencialmente ameaçam a adesão ao Tto";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/7/2025 12:44:11;;;Outra:;2521431 Centro Hospitalar Unimed;;;Sim;;;;;;;;;;;;;;;;;;Lavado broncoalveolar;04/07/2025;;;70;Masculino;420910 Joinville;;;Insuficiência respiratória á esclarecer;Unidade de Terapia Intensiva;Óbito;Óbito;"INTERNOU NA UTI COM DIAGNÓSTICO DE :  INSUFICIÊNCIA RESPIRATÓRIA À ESCLARECER   
+  HISTÓRIA CLÍNICA DE ADMISSÃO :  Admitido na UTI proveniente da emergência do HDH, história de quadro respiratório, dificuldade de respirar, referia sintomas gripais com tosse há 6 dias, dor em tórax e dor em  MIE. 
+APP: HAS , DM2, extabagista , neo colon 2012. 
+Chega intubado tubo 8 rima 24, ventilando em parâmetros altos, hipotenso, mau perfundido, com 2 acessos periféricos, em uso de DVA.  
+ 
+  AVALIAÇÃO APARELHOS E SISTEMAS   
+Neurológico :  sedado com mida+ fenta, RASS-5, pupilas mioticas fotoreagentes  
+Cardiovascular :  instável  hemodinâmicamente com uso de Noradrenalina 35 ml/h 0,5 ug/kg/min,  bulhas hipofonéticas 2t ritmo regular, extremidades frias, livedo retircular, TEC =6 seg  
+Respiratório :  MV presente bilateral, diminuido em hemitorax direito e sibilos em hemitorax esquerdo  
+IOT VM  PC 15 PEEP 10 FIO2 100% FR 20  ppico 24 - sincrônico sem curva de broncoespasmo  
+TUBO 8 RIMA 25  
+SatO2 94% 
+Gastrointestinal :  abdome globoso, flácido 
+Metabólico/Endócrino/Renal :  hgt 113 
+TEMP 35,8 // urina concentrada 20 ml em SVD  
+ 
+ ANÁLISE :  Insuficiencia respiratória  
+-Sepse de foco pulmonar após pneumonia bacteriana ? viral? 
+-DPO exacerbado com broncoespasmo grave?";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/9/2025 16:42:36;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Lavado broncoalveolar;05/07/2025;;;59;Feminino;420540 Florianopolis;;;Pneumopatia;Paciente não internado;Não se aplica;Não se aplica;" Em investigação: Persiste com tosse, ora seca, ora com expectoração hialina.
+Dispneia aos grandes esforços.2 episódios de tosse com escarro hemoptóico.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/21/2025 8:01:26;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Escarro, Fragmento de tecido profundo, Fragmento ósseo, Líquor, Líquido peritoneal, Líquido pleural, Líquido sinovial, Lavado broncoalveolar, Sangue, Secreção de ferida operatória, Secreção traqueal;18/07/2025;;;60;Masculino;420470 Cunha Pora;;;Streptococcus pyogenes;Setor de internação;Óbito;Óbito;"Paciente interno em 17/07/2025. Paciente vem de Cunha Porã por dispneia, êmese, febre, mialgia, perda de força em MMII. Paciente com quadro infeccioso de foco tumoral de cabeça e pescoço. Drenagem de secreção purulenta.
+Óbito: 19/07/2025 ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;4134;422095743;Sim;;;;;Sim;7/22/2025 12:20:19;;;Outra:;CIEVS/SC;;;Não;Não;;;;Sim;Não;Sim;Sim;Não;Não;Sim;Não;Sim;Não;;;;Tecido Post Mortem;21/07/2024;;;9;Masculino;420460 Criciuma;;;Choque Séptico;Urgência e Emergência;Óbito;Óbito;"Paciente deu entrada na emergência do HMISC com queixa de dor abdominal, extremidades frias, inapetência e vômitos há 5 dias. Refere febre não aferida há 5 dias também. Sem outras queixas, nega alterações urinárias. Doloroso em região periumbilical. Exames realizados: hemograma, PCR e urina. Criança em bom estado geral, desidratada e pálida. Sinais meníngeos ausentes. Edema periorbital à esquerda. Paciente retorna do US com cianose em face, agitado. Encaminhado para sala de emergência para monitorização e atendimento especializado ao mesmo. 
+Impressão Diagnóstica: Adenite Mesentérica? Abdome Agudo? Colangite?
+-Linfopenia Severa, Desvio a esquerda ate meta, 15:39 horas HGT 75.
+16:21 horas Dessaturando, perfusão ruim, hipoativo, realizado IOT. Evolui para PC. Aspiro enorme quantidade de sangue em tubo. RCP por 46 min sem retorno de sinais vitais.
+Paciente com desconforto respiratório, dessaturando e má perfusão periférica, chamo a fisio às 16:30 sequência rápida para IOT, paciente evolui para PCR às 16:58, iniciado compressões e primeira dose às 16:59.
+18:45 horas Médico: Criança realizou US que evidenciou apenas espessamento de vesícula biliar. Colocado em sala de emergência. Apresentou equimoses e sufusões hemorrágicas na face, principalmente na região perioral, associada a rash cutâneo no MMSS. recebeu 3 alíquotas de 20 ml/ Kg ao total, sem resposta na perfusão conforme análise de veia cava inferior (Cava colabada, variação respiro fásica maior que 50%). Recebeu Ceftriaxinona +Metronidazol em dose de SNC, mas persistiu com hipovolemia severa e refratária. Apresentou deterioração clínica importante, com queda de sensório, bradicardia e anisocoria. Evolui para rebaixamento do sensório com necessidade de IOT, rapidamente evolui para PCR, realizando RCP por 45min sem sucesso.  Declarado óbito às 17:45 min.
+Médico da emergência suspeita de doença meningocócica.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/22/2025 15:23:53;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;17/07/2025;;;1;Feminino;421190 Palhoca;;;pneumonia grave com derrame pleural/ sepse com foco pulmonar;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"A criança deu entrada neste hospital dia 17/07/2025, a mãe relatou que a criança estava apresentando tosse seca, coriza, havia apresentado 1 episódio de febre (38ºC) a 6 dias antes da internação. Permaneceu afebril até 1 dia antes da internação, quando iniciou com desconforto respiratório leve e febre (38ºC), com piora intensa do estado geral e da febre no momento que internou.
+RX com resultado: presença de derrame pleural à esquerda e consolidação.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/22/2025 18:53:50;;;2691841 Hospital Governador Celso Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;31/03/2025;;;54;Masculino;421660 Sao Jose;;;Pneumotorax ;Setor de internação;Alta hospitalar;Alta hospitalar;Paciente trazido(a) pelo COBOM, com maca rígida e colar cervical, vítima de trauma por colisão moto x carro, estava na moto, colidiu com carro quando estava fazendo a curva a 50km/h, caindo sobre o lado esquerdo do corpo. Nega TCE, nega perda de consciência, nega náuseas e vômitos. Nega  dispneia, dor abdominal e dor pélvica. Nega cervicalgia e dorsalgia. Refere dor em torax principalmente a esquerda, ombro esquerdo e braço esquerdo..;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/22/2025 19:02:36;;;2691841 Hospital Governador Celso Ramos;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;22/05/2025;;;36;Masculino;420540 Florianopolis;;;Osteomelite;Setor de internação;Alta hospitalar;Alta hospitalar;"Pcte refere há 1 semana início de dor em axila esq. Após relata irradiação da dor para todo o braço, com piora da dor na axila e região posterior de antebraço. 
+Noite passada relata T 37,2. 
+Previamente paciente teve queda de skate e usou o membro esquerdo para apoiar, com escoriacoes em regiao de cotovelo na ocasiao. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;7/24/2025 12:09:47;;;6683134 Hospital Regional Terezinha Gaio Basso;;;;Sim;Não;;;;Não;;;;;;;;;;Não;;;Celulite em panturrilha MIE;08/12/2024;;;3;Masculino;421670 Sao Jose do Cedro;;;Streptococcus pyogenes;Paciente não internado;Não se aplica;Não se aplica;Criança com quadro gripal em curso há 1 semana (02/12/2024), apresentou febre alta no dia 08/12/2024 e dor em membro inferior esquerdo, região inguinal com dor e dificuldade pra deambular relata também dor em região de coxa em parede ventral esquerda e hiperemia ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/24/2025 14:35:34;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Escarro, Fragmento de tecido profundo, Fragmento ósseo, Líquor, Líquido peritoneal, Líquido pleural, Líquido sinovial, Lavado broncoalveolar, Sangue, Secreção de ferida operatória, Secreção traqueal;24/04/2025;;;59;Feminino;420420 Chapeco;;;Streptococcus pyogenes;Setor de internação;Óbito;Óbito;Paciente deu entrada dia 24/04/2025 com queixa de secreção purulenta em pálpebra direita ha 3 dias, nega febre. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/24/2025 14:42:27;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Escarro, Fragmento de tecido profundo, Fragmento ósseo, Líquor, Líquido peritoneal, Líquido pleural, Líquido sinovial, Lavado broncoalveolar, Sangue, Secreção de ferida operatória, Secreção traqueal;22/04/2025;;;38;Masculino;420665 Guatambu;;;Streptococcus pyogenes;Unidade de Terapia Intensiva;Óbito;Óbito;Paciente deu entrada em 22/04/2025 - Encaminhado de Guatambu devido a esforço respiratório, cianose, dessaturação, febre, mialgia, náusea, vômito, taquipneia  e dor abdominal. Painel Vírus respiratório: NR | Arbovirose: NR | Leptospirose: NR | Hanta: NR;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/24/2025 15:27:54;;;Outra:;5504775 Hospital Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;08/06/2025;;;66;Feminino;420320 Camboriu;;;Suspeita;Setor de internação;Setor de internação;Óbito;Paciente com quadro de choque septo de foco cutaneo, inicio de sintomas no dia 08/06/2025, resultado de hemocultura positiva para Strepto pyogenes, transferida para o hospital marienta em itajai no dia 09/06/2025.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;1127;422232819;Sim;;;;;Sim;7/24/2025 17:09:01;;;Outra:;3119289 Hospital do Coração de Balneário Camboriú;;;Sim;;;;;;;;;;;;;;;;;;Sangue;03/02/2025;;;58;Masculino;Outro:;Argentina;;Artrite séptica? TVP?;Setor de internação;Mantém internação;Alta hospitalar;Paciente argentino deu entrada 03/02, com histórico de viagem de ônibus por 30 horas dia 29/01. Há uma semana referiu que torceu o tornozelo quando desceu do ônibus, desde então iniciou com dor local, no qual evoluiu com edema de joelho e perna direita, empastamento de panturilha e pico febril (39.5ºc), apresentou dor a palpação da panturilha e piora da hiperextensão, com hematoma em calcanhar direito. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/25/2025 14:38:23;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;21/07/2025;;;42;Feminino;421660 Sao Jose;São José/SC;;Trauma por TCE? TCE por agressão?;Unidade de Terapia Intensiva;Óbito;Óbito;PACIENTE TRAZIDA PELO COBOM EM 19/07/25, COM RELATO DE SINCOPE, QUEDA, TCE, USO DE DROGAS E AGRESSÃO DO NAMORADO.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;5268;422120914;Sim;;;;;Sim;7/29/2025 10:05:40;;;Outra:;2537397 Hospital Unimed Chapecó;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;28/08/2024;;;36;Masculino;420420 Chapeco;;;Derrame Pleural + EDA;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;"Paciente com inicio dos sintomas 20/06/2024, dor em região lombar à direita, com irradiação para região de glúteo e posterior da coxa.
+Desde ontem com febre, não aferida, hoje com vômitos e dor lombar piorada. 
+Diagnósticado com EDA e derrame pleural.
+Amostra de liquido pleural positividade para S. pyogenes.
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;6947;422158708;Sim;;;;;Sim;7/30/2025 14:45:23;;;Outra:;2522411 Hospital Azambuja;;;Sim;;;;;;;;;;;;;;;;;;Sangue;24/10/2024;;;5;Masculino;420290 Brusque;;;OTORRÉIA;Setor de internação;Alta hospitalar;Alta hospitalar;PCT INTERNADO PARA TRATAMENTO DE OTORRÉIA, COM QUADRO FEBRIL HA 5 DIAS, APRESENTA VARIOS EPSODIOS DE OMA E FARINGOAMIGDALITE ANTERIORES, MEDICADO COM CEFTRAXONA, CETOPROFENO, METILPREDNISOLONA E INICIADO  PENICILINA.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;422163598;Sim;;;;;Sim;7/30/2025 14:54:49;;;Outra:;2522411 Hospital Azambuja;;;Sim;;;;;;;;;;;;;;;;;;Sangue;28/10/2024;;;55;Feminino;420290 Brusque;;;LESÃO NECROSADA POR PICADA DE ARANHA;Setor de internação;Alta hospitalar;Alta hospitalar;PCT INTERNADA PARA TTO DE LESAO NESROSANTE EM REGIÃO ABDOMINAL, EXTENDENDOSSE PARA REGIÃO PUBIANA E COXA. FEZ USO DE ATB: PIPERACILINA + TAZOBACTAN + CLINDAMICINA + CEFTRIAXONA  E CEFAZOLINA.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;7233;;;;;;;Sim;7/30/2025 15:03:56;;;Outra:;5504775 Hospital Unimed Litoral;;;Sim;;;;;;;;;;;;;;;;;;Sangue;18/03/2025;;;83;Feminino;421280 Balneario Picarras;;;celulite em MSD;Paciente não internado;Alta hospitalar;Alta hospitalar;Paciente refere lesão de pele com exantema e microbolhas na nariz, região orbitaria esquerda há uma semana, exantema extenso com microbolhas = herpes zoster, calor, rubor e celulite no braço direito há 3 dias, hoje esta sonolencia, pouco responsiva, diarreia intensa, não tem febre.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/30/2025 15:12:16;;;Outra:;2522411 Hospital Azambuja;;;Sim;;;;;;;;;;;;;;;;;;Sangue;22/05/2025;;;59;Masculino;420290 Brusque;BRUSQUE/SC;;CORPO ESTRANHO EM MÃO DIREITA;Setor de internação;Alta hospitalar;Alta hospitalar;PCT INTERNA DEVIDO PRESENÇA DE CORPO ESTRANHO EM MÃO DIREITA, EM MANUSEIO COM MADEIRA, COM PRESENÇA DE EDEMA, RUBOR, FEBRE, FEZ TTO COM CEFAZOLINA + CLINDAMICINA.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;8512;422197238;Sim;;;;;Sim;7/30/2025 15:37:33;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de lesão cutânea colhida no centro cirúrgico;23/11/2024;;;12;Feminino;420910 Joinville;Joinville/SC;;Sepse de lesão de partes moles;Unidade de Terapia Intensiva;Alta hospitalar;Alta hospitalar;"Admitido paciente dia 21/11/24 com lesão em coxa com sinais de necrose que evoluiu nas ultimas 12 horas com piora intensa e aumento em extensão e profundidade, relato de sonolencia e hipoatividade hoje, cursando com piora laboratorial com disturbio de coagulação. Mãe acredita seja por picada de aranha. Dra. Bianca entra contato com CIATOX para discutir caso novamente; conforme determinado pelos mesmos: não aparenta ser caso desencadeado por animal peçonhento.
+
+Realizado Desbridamento de coxa direita dia 23/11, 10/12 e 14/12 e utilizou curativo a vácuo.Realizou tratamento com ceftriaxona, clindamicina po 15 dias e pipe-tazo or 5 dias. Ganhou alta hospitalar dia 30/12 com acompanhamento do ambulatório e com a comissão de curativos. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;31;422205073;Sim;;;;;Sim;7/30/2025 18:35:33;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;Não;;;;Não;;;;;;;;;;Não;;;Sangue;24/12/2024;;;80;Masculino;420540 Florianopolis;;;Isquemia de MID e DM descompensada;Urgência e Emergência;Alta hospitalar;Alta hospitalar;Sintomas em 20/12/2024, diarreia liquida, escurecimento de MID infra patelar com dor local e poliúria. Interna com glicemia de 745mg/dl. Sinais vitais estáveis.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/31/2025 8:35:46;;;2436469 Hospital Municipal São José;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;10/05/2025;;;32;Feminino;420910 Joinville;;;APENDICITE AGUDA;Setor de internação;Alta hospitalar;Alta hospitalar;"10/05/2025: PACIENTE COM QUADRO DE DOR ABDOMINAL MAIS EM ABDOME INFERIOR INICIOU ONTEM DOR EM PONTADA, DOR INCIOU, NEGA FEBRE, REFERE NAUSEA E VOMITO, NEGA CORRIMENTO DISURIA OU ALTERAÇÕES EVACUATORIAS.
+10/05/2025: POI DE VLP DIAGNOSTICA, EVIDENCIA DE PERITONITE DIFUSA, UTERO E ANEXO HIPEREMIADOS, COM CISTO DE OVARIO ESQUERDO INTEGRO SEM SINAIS DE SANGRAMENTO OU ABSCESSO. PRESENÇA DE APENDICE HIPEREMIADO (APENDICITE AGUDA? REACIONAL?). REALIZADO APENDICECTOMIA VLP + LAVAGEM EXAUSTIVA DE CAVIDADE ABDOMINAL.
+(09/05) HB 12 LEUCO 10460  PLQ 392 MIL
+(10/05) HB 10 LEUCO 12500  PLQ 351 MIL 
+13/05/2025: alta com sintomáticos e antibiótico. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;7/31/2025 17:37:23;;;Outra:;2306336 Hospital São José;;;Não;Fasciíte necrosante;Não;Sim;Não;;;;;;;;;;;;;;secreção de abcesso;23/04/2025;;;44 anos;Masculino;420890 Jaragua do Sul;;;Fasciíte;Setor de internação;Alta hospitalar;Alta hospitalar;Em 21/04/2025 paciente apresentaou edema em cotovelo esquerdo que aumentou de volume nos últimos 2 dias e apresentando hiperemia local. adm livre em cotovelo, sem bloqueio articular. nv inalterado. afebril. nega mal estar. lab com aumento de pcr e leucocitos. iniciou com atb. Nega trauma, nega, febre. Médico solicita retorno em 48 horas. Em retorno, há piora do edema e dor local. Indicado debridamento em cc. Paciente internado de 23/04/2025 a 30/04/2025. Após alta hospitalar, paciente não retornou mais ao hospital.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;8/4/2025 11:17:51;;;Outra:;9671145 Hospital Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;28/02/2025;;;8;Masculino;420540 Florianopolis;;;Celulite ;Setor de internação;Alta hospitalar;Alta hospitalar;"
+Há 2 dias com  antes da internação febrículas, hoje com febre 38ºC. 
+Há 1 semana com tosse, coriza e congestão nasal. 
+pais perceberam  perna vermelha e queixando de dor. Há 7 dias ralou o joelho na escola no mesmo membro. 
+Já teve celulite em tornozelo direito, tratado ambulatorialmente com ATB Amoxi-clav, atendido no HIJG. ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;169;422205435;Sim;;;;;Sim;8/4/2025 11:30:05;;;Outra:;9671145 Hospital Unimed;;;Sim;;;;;;;;;;;;;;;;;;Sangue;03/01/2025;;;81;Masculino;420540 Florianopolis;;;Pneumonia;Setor de internação;Alta hospitalar;Alta hospitalar;"Evolução clínica atual
+Paciente com quadro iniciado há 3 dias com tosse antes da internação 29/12, evoluindo há 2 dias com febre persistente. Procura atendimento hospitalar hoje devido à piora dos sintomas e início de confusão mental. Na admissão, apresentava hipóxia e taquicardia, sendo aberto protocolo de sepse.
+Realizada tomografia de tórax, que evidenciou achados compatíveis com pneumonia.
+
+Antecedentes
+
+Microangiopatia isquêmica cerebral, com manifestação clínica de déficit de memória
+
+Obesidade grau I
+
+O paciente foi de alta/melhora no dia  02/1
+
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;8/5/2025 18:22:27;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Não;Pneumonia clinicamente determinada;;;;;;;;;;;;;;;;;Escarro;13/06/2025;;;4;Masculino;421190 Palhoca;;;PNEUMONIA ASPIRATIVA;Setor de internação;Mantém internação;;"Desnutrição
+- Pneumonia aspirativa
+- Quebra de vínculo com H";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;8/7/2025 14:29:36;;;2537788 Hospital Regional do Oeste;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;03/08/2025;;;51;Masculino;420420 Chapeco;;;Streptococcus pyogenes;Setor de internação;Mantém internação;Alta hospitalar;Paciente deu entrada por queixa álgica diária em tofos gotosos refratários ao uso de morfina. Apresentou feridas em dedos e mãos há 10 dias. ;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;8/8/2025 11:59:34;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Líquido pleural;23/07/2025;;;07;Masculino;421500 Rio Negrinho;;;Choque séptico com foco pulmonar;Unidade de Terapia Intensiva;Óbito;Óbito;"23/07/25 - Paciente transferido de Rio Negrinho via SAMU. Há 5 dias apresentando febre , associado a tosse e coriza nasal , mialgia e dor em hemitórax esquerdo. Chegada em hospital de origem hoje aprox. as 09h da manhã. Criança chega no Hospital Infantil instável , hipocorada, evoluiu em transporte com bradicardia , realizado atropina , com melhora de FC p/ 146.>> Menor Deu entrada na emergência do PS -- aprox. 20:30h, hipocorado e bradicardico; recebendo noradrenalina. Perfusão fria e lentificada. Evoluiu com PCR. Iniciado manobras. PCR de duração aprox. de 12 minutos , recebeu 3 doses adrenalina 0,1mg/kg + 1x bic. HGT 60 , corrigido com glicose 1ml/kg em bolus (com melhora - HGT 80), expansão 500ml EV aberto com retorno. Encaminhada a UTI Pediátrica 23/07 coletado RT-PCR com resultado positivo para rinovírus. Recebeu tratamento com ceftriaxona, oxacilina, drogas vasoativas, diuréticos, corticoide e sedoanalgesia. AP: MV + bilateral, reduzido em base E, alguns creptos. Em VMI conectado pelo TOT - confortável / dreno de tórax a E com curativo ao redor da inserção- seco e limpo, anteriormente com secreção semelhante a do trajeto do dreno/ secreção purulenta no trajeto, não oscilante e não borbulhante. Extremidades: frias, pulsos perif presentes bilateralmente amplitude mediana , TEC 4s. Dia 25/07 apresenta centralização cardiovascular, evoluindo no decorrer da tarde com extremidades geladas cianose fixa de dedos de pé e mão, com gradienter térmico até joelhos e cotovelos bilaterais. Placa marmorada em toda extensão corporal (poupando apenas a face). Ausencia de pulso periferico, pulsos centrais presentes e com aplitude preservada.  Em anúria nas ultimas 12h. Almejamos manter paciente compensado hemodinamicamente nas proximas 12h para tentar colocá-lo em diálise (conforme discutido com nefrologia). Familia ciente do estava crítico. Lab 25/07 - Na 142  K 5,8  (~3,8)  Cai 1,41  P 7,3  Mg 3,1 / Cr 2,57  Ur 83  /Lact 2,7  Albumina 2,4  Glicose 83  /GA 6,95  60  13,2  -18,1  167  98  / TTPa 44,4s RNI 1,26   TAP 30% RNI 2,43 /Hb 9,5  Ht 28,8  Leuc 69.010 Mie2 Meta3 B12 Seg76  Linf5 Mono 2 Plaq 195.000 /PCR 282. dia 26/07 às 10:40h paciente evoluiu com Taquicardia Supraventricular (FC > 250bpm) e logo em seguida com Assistolia, sendo prontamente iniciado manobras de reanimação cardiopulmonar conforme protocolo do PALS, com ventilação com pressão positiva e massagem cardíaca, durante 10 minutos, sem retorno da circulação espontânea em nenhum momento durante a reanimação. Causa do óbito: Choque séptico - CID 10 R57 /Coagulação intravascular disseminada - CID D65 /Insuficiência Renal Aguda - N17 /Pneumonia - J15.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;8/21/2025 16:34:34;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;secreção de ferida de tornozelo E;18/08/2025;;;11;Feminino;421190 Palhoca;;;Celulite de tornozelo Esquerdo;Setor de internação;Mantém internação;Alta hospitalar;"Paciente começou com dor localizada no tornozelo esquerdo enquanto passeavam no shopping. Ambas negaram trauma, entorse, quedas ou feridas na pele. Evoluiu com edema do pé associado a hiperemia e calor local. No dia seguinte, procuraram UPA em Palhoça onde foi realizado RX, sintomáticos e alta com uso de bota ortopédica. Fez uso de nimesulida 40 gotas de 12/12 horas + dipirona por 4 dias e sem melhora. Retornaram à UPA ontem (13/8) pois a paciente não conseguia deambular e o edema havia aumentado. Após avaliação médica encaminhada para o HIJG - onde foi realizado labs, USG de tornozelo e iniciado Clindamicina na dose de 30mg/kg/dose Di 13/8/25. foi Internada aos cuidados da infectologia. No dia 14/08/2025 foi suspendido clindamicina e iniciado oxacilina 2gr 6/6 hrs;
+Nega febre recente e histórico de IVAS há 1 semana atrás.
+precisou de internação.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;9/1/2025 16:30:06;;;Outra:;2568713 Hospital Regional do Alto Vale;;;Sim;;;;;;;;;;;;;;;;;;Sangue;29/08/2025;;;80;Masculino;421480 Rio do Sul;;;Streptococcus pyogenes (Grupo A);Unidade de Terapia Intensiva;Óbito;Óbito;"Paciente tabagista, alcóolatra, HPB, internado desde 29/08/2025, com historia de confusão mental, dor abdominal difusa, oligúria e com achados relevantes ao exame fisico de hipotensão, piora com IRpA sendo realizado a EOT, sedação e iniciado noradrenalina.  Apresentou episódio de FA. TC de abdome (29/08) com fígado em lobo direito com áreas sugestivas de isquemia, rim direito com áreas de isquêmia  com tênue falha de enchimento  em ramo arterial arterial segmentar, sugerindo trombo. 
+
+Exames de chegada no HRAV:Hemograma c/ leucometria=21720, PCR=>160, função renal c/ creat.ureia/MDRD=3,38/148=19 
+Exames de chegada a UTI:  Hemograma c/ leucometria=18820, PCR=>160, função renal c/ creat.ureia/MDRD=4,28/155=14, culminando com diagnóstico de choque misto (cardiogênico x séptico de foco indeterminado), com embolia hepática e renal direita, sendo manejado com ventilação mecanica invasiva protetora, sedação com midazolam e fentanil, vasopressores, drogas coadjuvantes para choque refratário antibiotico em dose ajustada pela gravidade e função renal e para foco tipo indeterminado.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;9/1/2025 17:39:21;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;liquido de linfangiona;28/08/2025;;;7;Masculino;420540 Florianopolis;;;linfangioma;Paciente não internado;Não se aplica;Não se aplica;"Paciente tem malformação linfática desde nascimento, com eventos isolados de sangramento causando comprometimento do globo ocular e da hemiface esquerda. Relato quadro de tosse e coriza desde 13/08,  mãe relata aumento do volume do linfandioma desde o dia 26/08  e febre de inicio dia 27/08.  Internou em 28/08 para embolização de mal formação linfática, após procedimento em centro cirúrgico recebeu alta no mesmo dia.
+
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Não;;;;;Não se aplica;Não se aplica;Não se aplica;Não;9/19/2025 13:28:27;;;Outra:;0019445 CEPON SC;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;16/09/2025;;;63 anos;Masculino;421170 Orleans;;;Infecção em cicatriz de FO | Osteomielite ? | Partes moles ?;Paciente não internado;Não se aplica;Não se aplica;"Paciente esteve em consulta no AIO em 16/09/2025 com quadro infeccioso cutâneo, drenagem de secreção purulenta em região de ferida operatória (Hemipelvectomia interna à D e Reconstrução com Retalho miocutâneo tensor da fáscia lata em 11/06/2024).
+
+- Cultura de secreção de coxa direita coletada em 16/09/2025: com crescimento de Staphylococcus aureus resistente à oxacilina (MRSA) e Streptococcus pyogenes - Grupo A.
+
+Entrado em contato com paciente orientando-o sobre a necessidade de internação para antibioticoterapia endovenosa.";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;9/19/2025 17:24:52;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Sim;;;;;;;;;;;;;;;;;aspirado traqueal;13/09/2025;;;42;Masculino;421660 Sao Jose;;;intoxicação exogena seguida de rnc;Unidade de Terapia Intensiva;Mantém internação;Alta hospitalar;"Admissão HRSJ em 12/09, por intoxicação exógena → IOT por RNC
+Admissão UTI 2 em 12/09 (noite), após reIOT por agitação psicomotora + comportamento agressivo, refratários a medidas farmacológicas
+Procedência: Reanimação Clínica SAPS3: 42.87% (58 pontos) PPS: 100% Z21, DM1, TDAH, uso de GHB, intoxicação exógena prévia
+HDA, comorbidades e diagnósticos, exames complementares e avaliações especializadas descritas detalhadamente em “Documentos → Ficha de Diagnósticos → Evolução Detalhada”
+Lista de Problemas: - 12/09: Síndrome adrenérgica à admissão (hipertensão, taquicardia, diaforese); RNC + IOT por intoxicação exógena por substâncias A/E → Bupropiona e/ou Sertralina (Sem testagem disponível, mas encontradas junto ao paciente)?; TDA negativo; TC crânio e líquor sem alterações
+Extubação durante a manhã; Agitação psicomotora importante → reIOT no início do plantão noturno por agitação psicomotora importante + alteração comportamental refratárias ao manejo medicamentoso; Prolongamento de QT à admissão na UTI → resolvido; Choque séptico de foco pulmonar → choque resolvido; Sintomas respiratórios em 09/09, painel viral negativo; - DM descompensado – HbA1c 7.0%; - Sífilis latente – VDRL reagente 1:8; - HiperTG – provavelmente relacionada ao Propofol; Extubação em 18/09
+Antimicrobianos e Culturas: 
+- Pneumonia aspirativa: Ceftriaxona (D5, 13-17/09)
+- Sífilis Latente: Penicilina Benzatina (1ª dose 16/09)
+- Pneumonia nosocomial?: Piperacilina+Tazobactam (D0 17/09)
+
+- Cultura ST (13/09): Streptococcus pyogenes (resistência a Clindamicina e Eritromicina, intermediário a Levofloxacino)
+- Urocultura (12/09), cultura líquor (13/09), Hemoculturas (12/09): negativas
+- Hemoculturas, urocultura e cultura ST (17/09): em andamento
+
+RNC por provável intoxicação exógena → Despertar agitado, em ajuste diário de antipsicóticos; 
+Reintubação por agitação psicomotora importante + alteração comportamental refratárias ao manejo medicamentoso (Abstinência?)
+Despertar agitado, ainda com desorientação e agitação psicomotora, mas em melhora; Choque séptico de foco pulmonar → choque resolvido; Novos episódios de febre nas últimas 48h; Função renal preservada; Sífilis latente – tratamento iniciado em 16/09
+DM descompensado – em ajuste de NPH – melhor controle nas últimas 48h
+HiperTG – provavelmente relacionada ao Propofol
+Queda de Hb, hematúria → sem novas exrteriorizações, investigação inicial negativa para hemólise
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;10/1/2025 18:36:39;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;27/09/2025;;;21;Masculino;421660 Sao Jose;;;Choque septico de foco urinário e corrente sanguinea;Unidade de Terapia Intensiva;Mantém internação;Mantém internação em 28/11;"Sintomas iniciados em 25/09/2025, com história de urina purulenta e anúria.Sepse de foco urinário. Hipotensão + Taquicardia + conteúdo purulento em bolsa coletora de ureterostomia.Paraplégico desde 04/2022. Anemia da DRC em progressão.
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;10/9/2025 17:33:45;;;Outra:;Hospital Regional Alto Vale - 2568713;;;Sim;;;;;;;;;;;;;;;;;;Sangue;07/10/2025;;;87;Feminino;421480 Rio do Sul;;;Streptococcus pyogenes (Grupo A) ;Urgência e Emergência;Óbito;Óbito;"#Alergia: AAS 
+​#Comorbidades: Asma, HAS, ​ICC, ​Dislipidemia, ​FA recorrente, ​Artrose severa de joelhos com mobillidade restrita
+​#MUC: Losartana // Furosemida // Salbutamol // Concor 2,5mg // Xarelto // Velija // Atorvastatina 40mg  
+
+​S: Paciente conduzida pelo SAMU com astenia e confusão mental de início hoje. Há 04 dias iniciou com lesões hiperemiadas em pernas bilateralmente, associado a febre. Paciente esteve internada nesta instituição por 10 dias, recebendo alta em 25/09/25, fez uso de Clavulin por 10 dias durante a internação. Familiar nega outras queixas. 
+
+O: MEG, hipocorada, desorientada em tempo e espaço, não responsiva
+​PA 90x66 / FC 160 
+AC: Ritmo irregular, 2T, BNF, SS
+​AP: MV+, presença de crepitações em bases pulmonares bilateralmente, dispneica, SATO2 80% em AA 
+​MMII: presença de hiperemia e lesões bolhosas com saída de transudato, cianose de extremidades 
+​TEC > 3s 
+
+A: Choque séptico de foco cutâneo ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;10/24/2025 13:52:08;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;2555646;;;Sim;;;;;;;;;;;;;;;;;;DRENAGEM DE LÍQUIDO COXA ESQUERDA;14/10/2025;;;43 ANOS;Feminino;421660 Sao Jose;;;8º  PO de drenagem de coleção em MIE Celulite com achado de coleção extensa em MIE  ;Setor de internação;Alta hospitalar;Alta hospitalar;Historico de trauma por queda de moto há aproximadamente 1 mês, sem fraturas, porem com ferimento/escoriacao em joelho esquerdo.  Recebeu avaliacao pela ortopedia, sendo liberada com Tramadol e um AINES.  Faz  uso de óleo de girassol por conta própria com o objetivo de cicatrização. Buscou atendimento novamente em 07/10 devido dois episódios de febre (38,5°C), com piora de dor, prurido e edema na coxa esquerda, foi avaliada e liberada com ajuste de terapia antimicrobiana. Retorna novamente devido quadro algico em membro inferior esquerdo, com dificuldade para apoior o membro no chao. Refere uso de cipro + clinda (D3/D7) + dipirona.;Caso isolado;;;0
+;;;;;;;;;;;12/1/2025 12:07:59;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;25/11/2025;;;60;Feminino;420540 Florianopolis;;;SEPSES;Urgência e Emergência;Óbito;;"S: Paciente chega com HGT 34, confusa, pálida, gemente. Filha relata surgimento de mancha vermelha na mama esquerda ontem pela noite, muito dolorosa que evoluiu com equimose local até dorso. Teve 1 episódio de vômito de madrugada. Hoje não se alimentou. Nega tosse, diarreia, disúria ou queixas anteriores ao quadro. 
+PPS 40% - perda de funcionalidade há 3 meses devido artrose no quadril, em fila para cirurgia.";Caso isolado;;;0
+;;;;;;;;;;;12/4/2025 13:10:31;;;2691868 Hospital Infantil Joana de Gusmão;2691868;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória, secração de abcesso em MIE ( PE );27/11/2025;;;4A;Feminino;420540 Florianopolis;;;Abscesso em pé direito.;Setor de internação;Alta hospitalar;;Acompanhante refere que há 04 dias pisou em piranha de ferro com o pé direito, sem sangramento local.  Procurou serviço devido dor e edema em  região plantar D, sendo avaliada e liberada com cefalexina 75mg/kg/dia. Há 01 dia piora da dor, edema, hiperemia, sem drenagem espontânea no período. Dor para deambular. Afebril durante todo o período;Caso isolado;;;0
+;;;;;;;;;;;12/23/2025 16:21:38;;;6048692 Hospital Infantil Dr Jeser de Amarante Faria;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;04/12/2025;;;5;Masculino;420845 Itapoa;;;Pneumonia Adquirida na comunidade com derrame pleural a esquerda;Urgência e Emergência;Alta hospitalar;;"História Patológica Pregressa:
+
+- RNAT (38sem +1d) /  APGAR 8/9  
+- 06/05/20 Correção de coartação de aorta + ligadura de canal arterial
+- 07/05/20: Re-op. para ampliação de aorta descendente com pericárdio bovino 
+- 18/06/20: Correção de aneurisma em pós operatório de COAO + PCA. Necessário Ligadura da subclávia esquerda + Re-inserção da Carótida esquerda no tronco braquiocefálico.
+- 25/03/21: Cateterismo com angioplastia com balão em anastomose distal do homoenxerto em aorta transversa e e stent em ao transversa distal, com bom resultado --instituto de Cardiologia em Florianópolis - Dr Giuliano
+- Paralisia de corda vocal (SIC)
+
+Paciente admitido no pronto socorro dia 04/12/25 com queixas de tosse produtiva, febre, náuseas, vômitos, baixa ingesta alimentar e fezes aquosas hoje. Realizou exames na admissão: 
+
+Raio Tórax = opacidade retro cardíaca esquerda, seio costofrênico a esquerda apagado.
+- Raio de abdome = distensão de alças
+- HMG HB 11,8 HT 34,3 LT 7290 ( Mielo 3 Meta 2 B 17 S 70 L 8) Plaq 200.000 ** presença de vacúolos citoplásmáticos nos neutrófilos
+- PCR 144
+- PU = negativo 
+- USG TÓRAX: área hipoecogênica no parênquima pulmonar esquerdo, que pode estar relacionado a consolidação/ atelectasia.
+
+Internou na UTI Pediátrica para tratar uma PAC com derrame pleural à esquerda. Realizado passagem de dreno de tórax a E e instalado CVC no Centro Cirúrgico dia 04/12 e mantido em ventilação mecânica invasiva. 
+Dia 05/12 realizado decorticação pulmonar.
+
+Realizado tratamento com ampicilina por 7 dias e pipe-tazo por 10 dias. 
+Paciente evoluiu com melhora do quadro e recebeu alta hospitalar dia 19/12/2025 respirando em ar ambiente. ";Caso isolado;;;0
+;;;;;;;;;;;12/29/2025 13:43:57;;;6683134 Hospital Regional Terezinha Gaio Basso;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;21/12/2025;;;9 ANOS;Masculino;420209 Barra Bonita;;;Streptococcus pyogenes;Setor de internação;Mantém internação;;"Paciente encaminhado de Barra Bonita, após contato com pediatra devido a dor em MSD há 5 dias após aplicar medicação em UBS via venosa.
+-PCR 72 / VHS 25 / leuc 18.000 com bast 4%, Solicitada avaliação da ortopedia.
+Avaliação ortopedia: PACIENTE COM DOR E DEMA E CALOR EM COTOVEO DIREITO COM LEUCOCITONESE . SEM HISTORIA DE TRAUMA 
+AO EXAME APRESENTA BLOQUEIO ARTICULAR, solicitada internação.
+PACIENTE SUBMETIDO A TRATAMENTO CIRURGICO DE ARTRITE SEPTICA DE COTOVELO DIREITO NO DIA 21/12.
+EVOLUÇÃO PEDIATRIA: 
+
+; Peso: 37 Kg.
+Criança com história de artrite séptica em cotovelo direito em uso de Ceftriaxona EV (Di 24/12 às 16h).
+Realizou drenagem no CC em 21/12 com melhora clínica desde então.
+Reavalio criança que se encontra em bom estado geral, sentando na poltrona, assistindo televisão, sem queixas.
+Pai refere que criança está aceitando bem dieta, sem queixas. Estava com dor no MSD até ontem e com edema local, hoje já sem dor e melhor do edema.
+Labs coletados hoje com melhora evolutiva --> leuco e PCR em queda, EQU sem alterações. Ag URC.
+HMCT 21/12: positivou em 22/12 com CGP.
+Cultura de secreção de cotovelo direito 21/12: crescimento de CGP.
+Teve 2 episódios de febre com 24h de intervalo, último hoje às 00h, de 38.8 ºC --> menos de 24h da troca de atb.
+Permanece interno para tratamento com antibiotico.
+";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/6/2026 7:35:09;;;2537788 Hospital Regional do Oeste;2537788;;;Sim;;;;;;;;;;;;;;;;;;Sangue;01/01/2026;;;43;Feminino;420420 Chapeco;Chapecó-SC;;Streptococcus pyogenes;Urgência e Emergência;Óbito;Óbito;01/01/2026 Paciente apresenta febre pelo menos 2x ao mês por doença reumatologica há 2 semanas com piora da febre, edema em MSE e MIE, chega ao PS em gasping. Paciente evoluiu para assistolia, pupilas midiáticas fixas, ausência de sinais, óbito.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/8/2026 16:53:21;;;2691868 Hospital Infantil Joana de Gusmão;2691868;;;Sim;;;;;;;;;;;;;;;;;;Sangue, secreção sanguinolenta de brocagem da tibia;09/12/2025;;;4 anos;Feminino;421190 Palhoca;;; Dor em membro inferior direito a esclarecer associado a possivel celulite e porta de entrada infecciosa;Setor de internação;Alta hospitalar;Alta hospitalar;Acompanhante refere que  (em 27/11/25) a criança acidentalmente machucou a perna direita numa mureta em um estacionamento. Nos 2 primeiros dias após o trauma aplicou pomada de Nebacetin (neomicina + bacitracina) 12/12h. Refere que a princípio a criança ficou bem, brincava sem queixas. Relata que há 4 dias a criança queixou um pouco de dor de garganta e teve um episódio de febre. Relata que teve mais um episódio de febre e amanheceu com a perna direita edemaciada, hiperemiada, dolorosa, além de dor na virilha bilateral. Refere redução da aceitação da alimentação, mas continua aceitando bem líquidos. Mantém diurese habitual. Nega ter necessitado usar antibiótico sistêmico nos últimos 3 meses.;Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/21/2026 8:01:13;;;2558254 Hospital Santo Antônio;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;12/01/2026;;;65;Feminino;420240 Blumenau;;;sepse de foco indeterminado;Urgência e Emergência;Óbito;Óbito;"Motivo de internação: IRpA evolui com PCR + choque refratário
+#Comorbidades: HAS, asma, depressão
+#MUC: fluoxetina
+#Alergias: Nega
+
+HDA: Trazida por SAMU em Gasping, sem contactuar, apresentando movimento de membros. Filho refere que ontem paciente estava sem queixas, hoje ao acordar foi ao seu quarto, caiu no chão e ficou não responsiva, motivo que acionou SAMU. Na chegada, Hipotensa 60x40mmHg, corpo moteado. Precedida IOT T 7,5 com etomidato e suxametônio. PCR de 16min30segundos, em AESP, realizado 8 ciclos de RCP com 5 adrenalinas nesse período, realizado sol. polarizante, 3amp gluconato de cálcio, 2 bicarbonatos puros EV. Puncionado CVC femoral direita de emergência.  USG fasta aparente líquido livre espaço hepatorrenal, solicitado avaliação de emergência para Cx Geral Dr. Geraldo que contraindica no momento abordagem cirúrgica, risco cirúrgico + indefinição diagnóstica. Apresenta-se com sujidades pelo corpo, ferida aberta em região tibial direita anterior, ferida em região suprapúbica.
+Conduta:
+Inicio tazocin e vancomicina
+Suporte hemodinâmico e respiratório
+Solicito crioprecipitado e plasma fresco - CIVD
+Solicito vaga de UTI aceito
+	Paciente até o momento não oncológico mas altas doses DVAs sem condições de transporte vaga UTI externa
+
+Apesar de medidas, paciente evolui a bradicardia e assistolia, em uso de noradrenalina 52ml/h dobrada, vaso 12ml/h, dobuta 15ml/h.
+Óbito
+	Insuficiência respiratória aguda
+	Choque séptico refratário ";Caso isolado;;;0
+Sim;Streptococcus pyogenes (grupo A - Lancefield);Sim;;;;;;;;Sim;1/21/2026 10:21:42;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;SECREÇÃO LIQUIDO SINOVIAL;18/01/2026;;;46;Masculino;421190 Palhoca;;;tenossinovite infecciosa;Setor de internação;Mantém internação;;"Realizado tto cirúrgico de tenossinovite infecciosa no 3 QDD com extensão para 3° MTF. Observado no trans-operatório lesão do flexor profundo 3 QDD. Coletado material para culturas.
+NO CC 17/01/2026: Realizado tto cirúrgico de tenossinovite infecciosa no 3 QDD com extensão para 3° MTF. Observado no trans-operatório lesão do flexor profundo 3 QDD. Coletado material para culturas";Caso isolado;;;0
+;;;;;;;;;;;1/23/2026 11:35:05;;;2522691 Hospital Marieta Konder Bornhausen;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;17/01/2026;;;41;Masculino;420200 Balneario Camboriu;;;Streptococcus pyogenes (Grupo A)    ;Unidade de Terapia Intensiva;Mantém internação;; Apresentando febre, mal estar, dor em região de trapézio e cervical há 3 dias (14/01), evoluindo com dor em tornozelo. Realizado laboratório e tomografia na origem, paciente com alteração de função hepática TGO 884 TGP 664 GGT 284 FA 84 BT 1,34 BD 0,8 lipase 29 amilase 29 leuco 6540 B4 plaquetas 147000 Dengue NR hep C NR Hep B NR ;Caso isolado;;;0
+;;;;;;;;;;;2/2/2026 13:05:43;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Não;Não;;;;Sim;Não;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;;;;HEMATOMA;28/01/2026;;;85;Feminino;421660 Sao Jose;;;Hematoma infectado em MSE;Paciente não internado;Óbito;;"Paciente teve alta em 07/01 com hematoma em MSE em resolução e  tendo sido suspensa a anticoagulação (Rivaroxabana 20mg, da qual faz uso por FA) em 06/01, visando resolução do hematoma.
+Acompanhante relata que apos a alta, paciente permaneceu dependente todo o tempo, habitos fisiologicos em fralda, comendo pouco, com insonia. Evoluiu com piora da fraqueza, parou de comer. Há 4 dias teve diarreia e oliguria. Há 3 dias, com insonia, dizia 'me ajuda'- segundo relato de familiar, e ao aferirem fc estava 120-170bpm, quando acionaram ajuda. Nega vomito, nega febre, nega tosse.
+
+HMP
+Comorbidades: HAS, ICFEP, FA. 
+Medicações em uso:  Metoprolol 50mg 1-0-1; Furosemida 40mg 1-1-0; Escitalopram 10mg 1x, Dapagliflozina e Espironolactona.
+Alergias: -
+Ex tabagista
+pps 30% 
+
+Lista de problemas 
+IH 8-12/12 no ICSC por IC perfil B
+23/12-07/01 IH HRSJ ICFEP descompensada por infecção (pnm) - resolvida
+Hematoma em MSE - em melhora gradual
+- Provavelmente por lesão vascular por acesso periférico
+- Região distal ao cotovelo com melhora da coloração e do edema.
+- Em região proximal ao cotovelo esquerdo: Lesão heterogênea na topografia da musculatura da face anterior do braço medindo cerca de 8,8 cm no maior eixo axial, inespecífica à tomografia e que pode ser melhor avaliada através de ressonância magnética. POCUS e exame físico com caracteristicas de hematoma.
+> Atentar para síndrome compartimental ou aumento do volume
+> Avaliada por vascular e ortopedia -> sem sinais de sd. compartimental no membro
+_________________________________________________________________________________________
+
+Exames complementares:
+25/01: hb 10.9 / ht 33.6 / lt 16390 com 6% bastoes / plq 133.000 / glic 107 / ur 59 / cr 0.87 / na 127 / k 2.2 / mg 1.4 / pu leuco 90k nitrito negativo muitas bacterial e muitas leveduras em brotamento
+
+26/01: GSA ph 7.49 - pco2 36.1 - hco3 27.2
+
+No momento: Paciente em leito de enfermaria acompanhada, dormindo, abre os olhos brevemente ao chamado + toque. Sem resposta verbal, nao obedece comandos. Filha refere que ja estava assim em casa. 
+
+Controles:
+fr 12-16 / s 93-94 / t 36 / fc 60-72 / pa 90/70-101/67 / hgt 117-91
+
+Ao exame: 
+MEG, descorada 1+/4, desidratada 1+/4, anictérica, acianotica, afebril, eupneica em AA
+Neuro: pupilas anisocóricas D>E. Dormindo, abre os olhos brevemente ao chamado + toque. Sem resposta verbal, nao obedece comandos.
+AP MV+ S/RA
+AC bulhas arritmicas normofoneticas 2TSS
+Abdome sp
+Membros:
+- MSE edemaciado 4+/4 com cacifo, nao palpo pulsos, hematoma em braco com calor local, demais regioes frias, odor fetido.
+- MSD sem edema bem perfundido, sem alterações
+MMII simetricos edema 1+/4 com escoriações e secreção amarelada, panturrilhas livres.
+
+Análise:
+Paciente reinterna com RNC em vigência de hematoma em MSE (infectado?) e comórbida com FA (FC controlada com metoprolol), tendo sido suspensa a anticoagulação (Rivaroxabana 20mg) em 06/01, visando resolução do hematoma
+Hematoma infectado em MSE?
+ITU?
+AVCi? 
+
+Avaliação vascular 26/01:
+Cirurgia Vascular 
+Idosa frágil, internada por piora de função cardíaca com provável causa secundária de infecção 
+Apresenta hematoma em braço esquerda, com edema de antebraço, ainda com enchimento capilar distal apesar de lentificado 
+Paciente com pusos femorais, radiais finos, irregulares e lentificados, PA de difícil aferição 
+Pela vascular 
+Anticoagulação e eleveção de MSE conforme orietnado a equipe de enfermagem
+
+Conduta:
+Altero atbc para Linezolida e Pipetazo
+Solicito ECG
+Solicito TC cranio e MSE
+Solicito avaliação da vascular -> e à cx geral
+Solicito doppler arterial e venoso do mse
+Reponho K
+Solicito lab controle e novo PU
+Solicito parecer pali
+
+R1 CLM Caroline
+Staff Gabrielle
+
+É de compreensão da equipe assistente, que paciente idoso, frágil com comorbidades avançadas, pps prévio de 40%, com internações recentes e perda de funcionalidade importante após última alta hospitalar (pps 30%), reinterna com possível quadro infeccioso - potencialmente reversível. Em caso de piora clínica, consideramos medidas como DVA, escalonamento de antibioticoterapia e drenagem cirurgica de hematoma possivelmente infectado proporcionais. Porém IOT e RCP são consideradas desproporcionais.
+
+INFORMAÇÕES INCLUSAS APÓS ASSINATURA
+
+26/01/2026 - 17:05 - 
+Em relação à anticoagulação:
+
+- Prescrita para hoje pela emergencia ao internar: 40mg de enoxaparina às 8 da manha
+- Em relação ao MSE, orientado anticoagular pela vascular.
+- Porém, devido a suspeita de AVC, aguardo TC de cranio para decidir sobre anticoagulação na proxima prescrição.
+
+HMA
+Paciente teve alta em 07/01 com hematoma em MSE em resolução e  tendo sido suspensa a anticoagulação (Rivaroxabana 20mg, da qual faz uso por FA) em 06/01, visando resolução do hematoma.
+Acompanhante relata que apos a alta, paciente permaneceu dependente todo o tempo, habitos fisiologicos em fralda, comendo pouco, com insonia. Evoluiu com piora da fraqueza, parou de comer. Há 4 dias teve diarreia e oliguria. Há 3 dias, com insonia, dizia 'me ajuda'- segundo relato de familiar, e ao aferirem fc estava 120-170bpm, quando acionaram ajuda. Nega vomito, nega febre, nega tosse.
+
+Sou chamado por enfermeiro do setor para avaliar possível óbito. Paciente ja em cuidados paliativos. Avalio a mesma sem pulso palpaveis, sem movimentos respiratório e arresponsiva
+
+Óbito as 20:42
+
+Solicito ECG
+Preencho DO
+Familiares não aguardaram no leito para noticias 
+
+INFORMAÇÕES INCLUSAS APÓS ASSINATURA
+
+26/01/2026 - 20:53 - ";Caso isolado;;;0
+;;;;;;;;;;;2/9/2026 11:09:20;;;2691868 Hospital Infantil Joana de Gusmão;2691868;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;30/01/2026;;;6ANOS;Masculino;420540 Florianopolis;;; abscesso em pé esquerdo;Setor de internação;Alta hospitalar;;"Paciente iniciou há 3 dias com febre (máx 38,5ºC), edema, calor local e hiperemia em pé direito, com piora progressiva. Mãe refere ter percebido uma picada de mosquito no mesmo local onde iniciou a lesão.
+
+# Evolução Durante internação: Paciente necessitou de drenagem cirúrgica pela equipe da ortopedia no dia 30/01, com saída de pequena quantidade de secreção purulenta, sem intercorrências. Apresentou melhora gradual do edema e hiperemia com antibioticoterapia instaurada. Último pico febril 01/01, 38,1ºC, sem novos episódios. Boa aceitação de dieta via oral. Paciente encontra-se clinicamente bem, com critérios de alta hospitalar no momento.";Caso isolado;;;0
+;;;;;;;;;;;2/20/2026 13:54:34;;;5504775 Hospital Unimed Litoral;;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória, secreção abdominal;13/02/2026;;;19;Feminino;420820 Itajai;;;Streptococcus pyogenes;Paciente não internado;Alta hospitalar;;Relata que iniciou há 3 dias com odinofagia. Relata febre associado e afonia. Nega uso de medicações no peirodo. Sem demais queixas.;Caso isolado;;;0
+;;;;;;;;;;;3/3/2026 15:40:55;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;Fragmento ósseo;23/02/2026;;;41;Masculino;420540 Florianopolis;;;OSTEOMIELITE;Setor de internação;Mantém internação;;" DIH 13/02
+OSTEOMIELITE EM MID 
+
+
+COM ESQUIOFRENIA 
+MEU nega 
+ALERGIA nega
+
+paciente com infecção em MID, relata trauma há 3 meses após espancamento
+internado em CAPS por dependencia 
+
+Tomografia computadorizada do tornozelo e pé direitos:
+Sinais de osteomielite acometendo a diáfise da tíbia.
+Demais estruturas ósseas íntegras. 
+Espaços articulares conservados. 
+Edema subcutâneo difuso.
+
+(20/02/2026) 
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA PERNA DIREITA:
+
+Sinais tomográficos sugestivos de osteomielite acometendo a tíbia, se estendendo desde a metáfise proximal em sua face postero-lateral  até a face anterior da metáfise distal, com erosões na cortical óssea, reação periosteal, densificação das partes moles adjacentes e alteração da modelação óssea notadamente no terço distal onde há continuidade com a medular e formação de sequestro ósseo. Há, ainda, adjacente a face antero-medial da tíbia distal, densificação daspartes moles que se estende à superfície cutânea com aparente trajeto fistuloso até a medular óssea, com formação de coleção em organização (abscedação) mal definida medindo cerca de 2,8 x 2,5 x 3,7 cm, com pequenos fragmentos ósseos (reabsorção com fistulização) de permeio e realce periférico pós-contraste.
+Demais estruturas ósseas íntegras.
+---------------------------------------------------------------
+Labs 14/02: hb 10,8//ht 32,7// leuco 9010// plaq 316000//pcr 110,9
+(16/02/2026) Lab : Hb 10,4 // Ht 31,8 // Leucocios 8310 // PLaquetas 371000 // VHS 47 // Ur 46 // Cr 0,93 // Na 134 // K 4 // PCR 35,39 
+(19/02/2026) Lab - Hb 10,5 // Ht 32,2 // Leucocitos 8870 // PLauqetas 392000 // VHS 46 // Glicose 118 // Ur 40 // Cr 0,7 // Na 132 // K 4,2 // PCR 74,62
+(26/02/2026) - Lab : Hb 8,3 // Ht 25,7 // Leucocitos 9060 // PLaquetas 343000 // VHS 54 // Glicose 85 // Ur 33 // Cr 0,62 // Na 137 // K 4,4 // PCR 71,60 
+
+TESTE DE SENSIBILIDADE À ANTIMICROBIANOS
+Material: Infecção MID
+Método  : Automação
+Data da Coleta:23/02/2026
+IDENTIFICAÇÃO: Staphylococcus aureus
+CONTAGEM DE COLÔNIAS: Crescimento raro
+CIP   : I
+CLI   : S
+ERI   : R
+GEN   : S
+LZN   : S
+OXA   : R
+SUT   : S
+VAN   : S
+-------------------------------------------------------------------------------------------------------------
+(27/02/2026) Pela Infectologia : 
+Prezados, orientamos troca de antibioticoterapia para Linezolida EV 1gr de 12/12h por no mínimo 2 semanas, após, reavaliar possibilidade de Bactrin VO 3cps de 400/80 de 8/8h pelo resto do tratamento (totalizando 6-8 semanas).
+Ficamos à disposição.
+
+------------------------------------------------------------------------------------------------------------
+Paciente sem queixas, em leito de isolamento de contato.
+
+# ATBterapia : Linezolida (2/14)
+
+
+EF: 
+Edema em tibia distal e pé direito 
+Curativo nao saturado 
+Sem sinais de empastamento em membros 
+ADM distal preservado 
+NV preservado 
+
+
+Rx de controle PO :
+ATBterapia
+Prescrição médica
+Aos cuidados da enfermagem 
+Curativo diario 
+Lab seg/Quinta
+Paciente ciente e concordante com condutas
+";Caso isolado;;;0
+;;;;;;;;;;;3/23/2026 10:06:15;;;2555646 Hospital Regional Dr Homero de Miranda Gomes de São José;;;;Sim;;;;;;;;;;;;;;;;;;ASPIRADO TRAQUEAL ;16/03/2026;;;31;Masculino;421190 Palhoca;;;TCE GRAVE;Unidade de Terapia Intensiva;Mantém internação;;"     EVOLUÇÃO MANHÃ - UTI 1 
+
+Admissão UTI em 15/03/2026
+
+MOTIVO: TCE Grave 
+
+HDA: Paciente trazido pelo SAMU protocolado em vaga 0, realizado contato prévio por medico da regulação, mas foi negado por equipe assistente devido a falta de leitos em reanimação (todos leitos ocupados, incluido com paciente intubado por mais de 24h no setor) e UTI.  Médico relata história de atropelamento em via publica.  O mesmo refere estabilidade hemodinamica no momento da chegada na cena, mas com rebaixamento do nivel de consciência (Glasgow 4), por isso foi realizado a IOT. 
+Após discussão de caso com Dr André (neurocirurgião) foi optado por tratamento conservador.
+
+DISPOSITIVOS:                                
+SVD 15/03
+TOT 15/03 
+CVC 16/03
+SNE
+
+ATB:
+Sem ATB 
+
+Culturas:
+16/03 - HMCs em andamento - cocos G+ com crescimento . 24h
+          - AT em andamento
+
+Histórico:
+ - Comorbidades: Nega
+ - Medicações em uso: Nega
+ - Alergias: Nega 
+
+Altura: 1,75m                   Peso real:                  Peso ideal:  70        Vt (6-8ml/kg): 425 - 566
+
+Exames complementares:
+- TC DE CRÂNIO 15/03: Hematoma subdural laminar fronto-parietal direito, com espessura de até 4 mm. Discreta hemorragia junto a fissura inter-hemisférica. Contusão hemorragia de cerca de 5-6 mm no tronco cerebral. Hematomas subgaleais. Ventrículos laterais e terceiro ventrículo de forma, volume e topografia normais. Quarto ventrículo de aspecto anatômico. Cisternas da base sem alterações. Redução da amplitude dos sulcos corticais a direita.
+- TC DE COLUNA CERVICAL 15/03: Cortes axiais espirais multislice de 2mm de espessura de C1 à T1. Corpos vertebrais alinhados, de altura preservada. Pedículos íntegros. Não há sinais evidentes de fratura. Arco posterior íntegro, com relações articulares mantidas.
+- TC COLUNA DORSO-LOMBAR 15/03: Corpos vertebrais alinhados, de altura preservada. Pedículos íntegros. Relações interapofisárias e costovertebrais mantidas.
+- TC DE TÓRAX 15/03: Consolidações nas bases pulmonares (broncoaspiração?). Presença de derrame pleural laminar bilateral. Não há evidência de linfonodomegalias mediastinais ou hilares. Traqueia e brônquios fonte sem alterações. Coração de dimensões normais. Aorta de curso e calibre preservados.
+- TC DE ABDOME TOTAL 15/03: Fígado e baço de dimensões normais, contorno regular, densidade e realce homogêneos. Ausência de dilatação das vias biliares intra-hepáticas. Pâncreas e glândulas adrenais de aspecto anatômico. Rins tópicos, de dimensões normais, contorno regular e densidade homogênea, sem sinais de hidronefrose. Gordura perinefrética homogênea. Aorta de curso, calibre e fluxo normais. Não há evidência de linfonodomegalias intra ou retroperitoneal. Bexiga vazia, sondada. Plano gorduroso pélvico homogêneo. Não há evidência de líquido livre no interior da cavidade.
+
+17/03 - TC DE TORAX: Pequena consolidação no segmento basal medial do LID. Aorta e artérias pulmonares de trajeto e calibres normais. Mediastino centrado, sem evidências de linfonodomegalias. Área cardíaca normal, sem sinais de derrame pericárdico. Ausência de derrame pleural. TOT e SNG bem posicionados.
+
+17/03 - TC DE CRÂNIO: Nota-se aumento difuso do edema cerebral. Persiste o hematoma subdural fronto-parietal, praticamemte inalterado em relação ao exame anterior. Não identificamos mais sangramento no tronco cerebral. Redução das dimensçoes do sistema ventricular supratentorial. Tronco cerebral e cerebelo com morfologia e coeficientes de atenuação normais. Parênquima cerebral com coeficientes de atenuação normais.
+___________________________________________________________
+NO PERÍODO:
+- Em redução de sedação, sem despertar, mas agitação. Recebe Dex + PPF. Morfina SN. Sme DVA. boa função pulmonar. Secreção espessa em pequena quantidade no momento. Pico febril ontem. Glicemias adequadas. Diurese preservada. Não evacuou.
+
+Diurese: 1200ml 
+BH 24h: +550ml 
+BH acumulado: 1570ml
+
+Suportes
+
+
+Sedação
+
+Profilaxias
+
+ Hemodinâmico
+ --
+ 
+Dex 12ml/h
+PpF 15ml/h
+
+ TVP
+Enoxaparina
+ 
+
+
+
+
+ Úlcera
+Omeprazol
+ Nutricional
+ Enteral 800ml
+
+Analgesia
+
+
+
+ Renal
+Cr 0,5 - Ur 26 - Na 142 - K 3,5
+
+
+
+Tétano
+--
+
+
+Gasometria Arterial
+ pH 7,49
+PO2 88
+ PCO2 28
+HCO3 21,2
+BE -1,3
+Sat 97
+IPA
+
+
+ Ventilação
+ Modo PS 12
+ FiO2 21
+ PEEP 5
+VT 540
+FR 20
+PPlat
+
+
+Ao exame: 
+Corado, hidratado.
+Rass -4. Pupilas isomióticas e fotorreagentes. Mobiliza tronco e membros aos estímulos.
+AC: RR2T, BNF, sem sopros.
+AR: MV+, SRA
+ABD: RHA+, depressível. Sem sinais de peritonismo
+MMII: Sem edema. Panturrilhas livres.
+Hiperemia em inserção de CVC - parece relacionada à fixação sob tensão.
+
+Avaliação:
+1. TCE Grave
+	- Trauma por atropelamento em 15/03
+	- Hematoma subdural laminar fronto-parietal direito, com espessura de até 4 mm. Discreta hemorragia junto a fissura inter-hemisférica. Contusão hemorragia de cerca de 5-6 mm no tronco cerebral - não identificada em TC de controle.
+	- Indicado tratamento conservador pela equipe de neuroCx
+2. Broncoaspiração - Pequena consolidação em  TC de torax - secreção em pequena quantidade no momento. Pico febril, sem disfunção orgânica.  
+3. HMCs com cocos G+ sugerem contaminação, sem sinais de sepse/bacteremia.";Caso isolado;;;0
+;;;;;;;;;;;3/23/2026 11:15:40;;;2411393 Hospital Regional São Paulo;;;;Não;Pneumonia clinicamente determinada;;;;;;;;;;;;;;;;;Swab de lesão de pele;19/03/2025;;;73;Feminino;421950 Xanxere;;;Pneumonia comunitária  + Erisipela - Infecção de pele e partes moles ;Setor de internação;Mantém internação;;"Paciente com histórico de erisipela de repetição, último tratamento com antibiótico há cerca 8 meses - 09/03/2026 - Apresentou dor e edema em MMII bilateral; Tosse produtiva, febre, êmese. Em 18/03 apresentou piora do quadro clínico, com dispeia leve procurando atendimento em 19/03/2026 - Apresenta lesão em antebraço esquerdo, presença de placa eretemato-violácea extensa com áreas de exsudação/ulceração com material seroso/purulento, associado a equimoses/purpuras adjacentes, coletado swab para cultura de ferida. 20/03/2026 - apresentou vários episódios de hipotensão, disfunção renal com aumento da creatinina com alterações respiratórias.  ";Caso isolado;;;0
+;;;;;;;;;;;4/1/2026 14:01:26;;;2691868 Hospital Infantil Joana de Gusmão;;;;Sim;;;;;;;;;;;;;;;;;;Sangue;23/03/2026;;;8m;Feminino;420540 Florianopolis;;; Politrauma + Choque hipovolêmico;Unidade de Terapia Intensiva;Mantém internação;;"Paciente foi trazida pelo SAMU em IOT pós trauma cranioencefálico. 
+História pobre até o momento, paciente foi encontrada em casa em glasgow 3, com aparente fatura parietal D e com avulsão de língua. Durante transporte da emergência HIJG até a UTI apresentou 2x PCR";Caso isolado;;;0
+;;;;;;;;;;;4/10/2026 12:48:10;;;Outra:;2568713;;;Sim;;;;;;;;;;;;;;;;;;Secreção de ferida operatória;03/04/2026;;;6;Masculino;420190 Aurora;;;ARTRITE SÉPTICA DO JOELHO DIREITO;Setor de internação;Alta hospitalar;;"## ORTOPEDIA ##
+
+# Alergias medicamentosas: Nega
+# Comorbidades: Nega
+# Medicamentos de uso contínuo: Nega
+
+Peso: 26 kg
+
+Criança acompanhada do pai, o qual relata tosse e febre há uma semana. Queixa de dor no joelho direito há 2 dias, acompanhado de dificuldade para deambular. Nega traumas. Nega outras queixas. 
+
+Em uso de ibuprofeno e dipirona há 3 dias, sem melhora do quadro.
+
+- BEG, LOTE, CORADA, HIDRATADA, EUPNEICA, AFEBRIL
+
+- JOELHO DIREITO: EDEMA +/4+, SINAL DA TECLA POSITIVO, PRESENÇA DE HIPEREMIA E CALOR LOCAL, PRESENÇA DE BLOQUEIO ARTICULAR, EXAME NEUROLOGICO LIMITADO PELA DOR, PERFUSAO DISTAL PRESERVADA
+
+- RX DO JOELHO DIREITO: SEM SINAIS DE FRATURA / SINAL SUGESTIVO DE DERRAME ARTICULAR
+
+- USG DO JOELHO DIREITO (03/04/2026): PRESENÇA DE MODERADO DERRAME ARTICULAR, LIQUIDO HIPOECOICO, COM PRESENÇA DE DEBRIS EM SUSPENSAO - SUGESTIVO DE ARTRITE SÉPTICA
+
+HD: ARTRITE SÉPTICA NO JOELHO DIREITO";Caso isolado;;;0
+;;;;;;;;;;;4/14/2026 16:15:30;;;Outra:;Cepon;;;Sim;;;;;;;;;;;;;;;;;;Sangue;11/04/2026;;;73;Masculino;421190 Palhoca;;;Celulite em MSE;Setor de internação;Mantém internação;;"​HDA: Carcinoma Pouco Diferenciado de Pulmão - cT4cN2M1 (linfangite).
+Comorbidades: DM2, HAS, DLP.
+11/04/2026: Paciente chega à emergência com queda de estado geral, desmaios em casa e PA 60/30. ​Refere edema doloroso de MSE há alguns dias e hoje teve alguns apagões após se levantar. Estava no sítio há alguns dias. ​No momento lucido e orientado, queixa-se de fraqueza e dor no MSE. Acompanhado da esposa.";Caso isolado;;;0
+;;;;;;;;;;;5/7/2026 13:14:34;;;3157245 Hospital Universitário Professor Polydoro Ernani de São Thiago;3157245;;;Sim;;;;;;;;;;;;;;;;;;Swab de lesão profunda em MID;05/05/2026;;;48;Masculino;420540 Florianopolis;;;Faciite;Setor de internação;Mantém internação;;Paciente relata que, há 5 dias, teve ferimento em MID com pedaço de bambu enquanto estava pescando, sem necessidade de sutura. Há 3 dias, evoluiu com edema local, febre (T 39,5°C) e dor para deambular, sendo tratado com sintomáticos e Cefalexina por 3 dias, após atendimento na UPA. Hoje, relata piora do edema e da dor local, não conseguindo nem se manter sentado.;Caso isolado;;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
