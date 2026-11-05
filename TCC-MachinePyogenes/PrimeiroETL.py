@@ -1,8 +1,7 @@
 #%%
 import pandas as pd
-from sklearn import tree
 # %%
-tabelona = pd.read_csv("Cópia de Formulário_Notificação_Streptococcus_pyogenes-VPURA.csv", sep=";", header= 1, encoding= "utf-8-sig")
+tabelona = pd.read_csv("Puras/Cópia de Formulário_Notificação_Streptococcus_pyogenes-VPURA.csv", sep=";", header= 1, encoding= "utf-8-sig")
 # %%
 #Limpando a planilha, remove linhas e colunas 100% vazias
 tabelona = tabelona.dropna(how="all").dropna(axis=1, how="all")  
@@ -50,11 +49,11 @@ dias = limpo.str.extract(r"(\d+)\s*d")[0].astype(float)
 convertido = anos.fillna(0) + meses.fillna(0)/12 + dias.fillna(0)/365
 tabelona["Idade (em anos):"] = num.fillna(convertido).round(2)
 # %%
-tabelona['Carimbo de data/hora'] = pd.to_datetime(
-    tabelona['Carimbo de data/hora'], format='%m/%d/%Y %H:%M:%S'
-)
-print(tabelona['Carimbo de data/hora'].isna().sum())   # esperado: 0
-print(tabelona['Carimbo de data/hora'].min(), tabelona['Carimbo de data/hora'].max())
+# tabelona['Carimbo de data/hora'] = pd.to_datetime(
+#     tabelona['Carimbo de data/hora'], format='%m/%d/%Y %H:%M:%S'
+# )
+# print(tabelona['Carimbo de data/hora'].isna().sum())   # esperado: 0
+# print(tabelona['Carimbo de data/hora'].min(), tabelona['Carimbo de data/hora'].max())
 
 # %%
 print(tabelona.duplicated().sum(), "linhas totalmente duplicadas")
@@ -63,6 +62,6 @@ print(pd.crosstab(tabelona["Evolução do paciente:"],
                   tabelona["Atualização Evolução"], dropna=False))
 
 # %%
-tabelona.to_excel("TabelaLimpa.xlsx", index=False)
+tabelona.to_excel("TabelaLimpaClaudeEtapa1.xlsx", index=False)
 
 # %%
